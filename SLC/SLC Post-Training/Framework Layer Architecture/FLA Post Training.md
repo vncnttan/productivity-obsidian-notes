@@ -1,0 +1,10 @@
+[[Design Pattern - Singleton]]
+[[Design Pattern - Builder]]
+[[Design Pattern - Prototype]]
+[[Design Pattern - Adapter]]
+[[Design Pattern - Factory]]
+[[Design Pattern - Facade]]
+[[Design Pattern - Proxy]]
+[[Design Pattern - Observer]]
+[[Design Pattern - Iteration]]
+

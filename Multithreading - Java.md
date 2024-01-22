@@ -1,0 +1,1 @@
+Muiltithreading adalah teknik untuk menjalankan beberapa tugas atau proses secara bersamaan dalam satu program komputer. Ini memungkinkan beberapa program untuk memanfaatkan beberapa core processor secara bersamaan dan dapat juga meningkatkan kinerja secara keseluruhan.
