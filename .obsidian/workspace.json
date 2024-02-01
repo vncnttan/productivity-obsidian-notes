@@ -23,71 +23,20 @@
             }
           },
           {
-            "id": "5b623e128bad0f9e",
+            "id": "9b331dd4abf8a729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BINUS/Semester 3/🤖 Artificial Intelligence.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "634536956febaf06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BINUS/Semester 3/Artificial Intelligence/Application and Ethics in AI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "083d48b4577be9f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BINUS/Semester 3/Artificial Intelligence/K-Means.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65eb35a182dda12c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BINUS/Semester 3/Artificial Intelligence/K-Nearest Neighbor.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46089498cfafd324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BINUS/Semester 3/Artificial Intelligence/Support Vector Machine.md",
+                "file": "ADA UAS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jadwal Penting Januari 2024.md",
+                "file": "ADA UAS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jadwal Penting Januari 2024.md",
+                "file": "ADA UAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jadwal Penting Januari 2024.md"
+                "file": "ADA UAS.md"
               }
             }
           },
@@ -238,21 +187,25 @@
   },
   "active": "46794de29e73fde2",
   "lastOpenFiles": [
+    "BINUS/Semester 3/UAS",
+    "Jadwal Penting Januari 2024.md",
+    "Courses & Seminars/GTC NVIDIA 2022.md",
+    "Courses & Seminars/What I have done.md",
+    "Courses & Seminars/TODO LIST.md",
+    "OOP Exam Onsite.md",
+    "Generic Method and Class - Java.md",
+    "Cursor - SQL.md",
+    "Database Technology - UAS.md",
     "README.md",
     "BINUS/Semester 3/🤖 Artificial Intelligence.md",
     "BINUS/Semester 3/Artificial Intelligence/Application and Ethics in AI.md",
     "BINUS/Semester 3/Artificial Intelligence/K-Nearest Neighbor.md",
     "BINUS/Semester 3/Artificial Intelligence/K-Means.md",
     "BINUS/Semester 3/Artificial Intelligence/Support Vector Machine.md",
-    "Jadwal Penting Januari 2024.md",
     "BINUS/Semester 3/📅 Database Technology.md",
     "Untitled.md",
-    "Database Technology - UAS.md",
-    "Cursor - SQL.md",
     "BINUS/Semester 3/ACID - DB.md",
-    "OOP Exam Onsite.md",
     "Multithreading - Java.md",
-    "Generic Method and Class - Java.md",
     "Compnet UAS.md",
     "SLC/SLC Post-Training/Computer Graphics/Computer Graph Post Training.md",
     "BINUS/Semester 1/Discrete Mathematics/Spanning Trees.md",
@@ -260,10 +213,6 @@
     "BINUS/Semester 1/Discrete Mathematics/Isomorphism of Graphs.md",
     "BINUS/Semester 1/Discrete Mathematics/Graph.md",
     "BINUS/Semester 1/Discrete Mathematics/Euler Paths and Circuits.md",
-    "BINUS/Semester 1/Discrete Mathematics/Finite State Automata.md",
-    "BINUS/Semester 1/Discrete Mathematics/Connectivity.md",
-    "ADA UAS.md",
-    "BINUS/BINUS TODO LIST ✅.md",
     "BINUS/Semester 3/Algorithm Analysis & Design",
     "SLC/SLC Post-Training/Mobpentes",
     "SLC/SLC TPA/Net",

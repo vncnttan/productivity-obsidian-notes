@@ -23,18 +23,20 @@
 - [x] 10:00 - 12:00 Exam Onsite AI
 
 23 January
-- [ ] Shift 3 Training Outlook & Excel
+- [x] Shift 3 Training Outlook & Excel
 
 24 January 
-- [ ] 13:00 - 14:40 Proctor Bayesian Data
+- [x] 13:00 - 14:40 Proctor Bayesian Data
 
 25 January
-- [ ] 08:00 - 09:40 Proctor Computer Vision
-- [ ] 15:00 - 16:40 Proctor Intro Prog
-- [ ] 23:59 **DEADLINE CB AGAMA**
+- [x] 08:00 - 09:40 Proctor Computer Vision
+- [x] 15:00 - 16:40 Proctor Intro Prog
+- [x] 23:59 **DEADLINE CB AGAMA**
 
 26 January 
-- [ ] 10:00 - 11:40 Exam Onsite Computer Physics
+- [x] 10:00 - 11:40 Exam Onsite Computer Physics
 
 31 January
-- [ ] Shift 2 Evaluation Core Training
+- [x] Shift 2 Evaluation Core Training
+
+
