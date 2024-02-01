@@ -39,7 +39,13 @@ if __name__ == '__main__':
     MapReduceByCategory.run()
 ```
 
-[[ Pig - BDP ]]
+Upload Dataset to Hue
+`hadoop fs -copyFromLocal Dataset`
+// See in files
+
+
+[[Pig - BDP]]
+
 #### HIVE - Lebih banyak fitur tapi lambat
 (Lebih fokus ke storage)
 
@@ -74,7 +80,7 @@ mysql -u root -p
 password: cloudera
 
 CREATE DATABASE ramenshop;
-USE DATABASE ramenshop;
+USE ramenshop;
 SHOW tables;
 
 SOURCE create+insert.sql
