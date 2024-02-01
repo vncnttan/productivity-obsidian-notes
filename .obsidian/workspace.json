@@ -4,18 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "826b6eb43ee9ae2c",
+        "id": "e3b54a2a4d42d462",
         "type": "tabs",
         "children": [
           {
-            "id": "ba3e141c7ea05ff0",
+            "id": "77185248624b4b1b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jadwal Penting Januari 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0e0093b7797368cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BDP",
+                "query": "Kmeans",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -89,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Cornell Notes.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Cornell Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Cornell Notes.md"
+                "file": "README.md"
               }
             }
           },
@@ -149,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,35 +185,35 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "46794de29e73fde2",
+  "active": "0e0093b7797368cc",
   "lastOpenFiles": [
+    "Jadwal Penting Januari 2024.md",
+    "README.md",
+    "BINUS/Semester 3/🤖 Artificial Intelligence.md",
+    "Untitled.md",
+    "BINUS/Semester 3/UAS/Generic Method and Class - Java.md",
+    "BINUS/Semester 3/Database Technology/Cursor - SQL.md",
+    "ADA UAS.md",
+    "BINUS/Semester 3/UAS/Compnet UAS.md",
+    "BINUS/Semester 3/UAS/Comphys UAS.md",
     "BINUS/Semester 3/UAS/ADA UAS.md",
     "BINUS/Semester 3/UAS",
-    "SLC/SLC Post-Training/Big Data Proccessing/MongoDB.md",
-    "SLC/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
-    "SLC/SLC Post-Training/Big Data Proccessing/Pig - BDP.md",
-    "SLC/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
-    "Jadwal Penting Januari 2024.md",
-    "BINUS/Semester 3/UAS/Comphys UAS.md",
-    "BINUS/Semester 3/🤖 Artificial Intelligence.md",
-    "README.md",
+    "Courses & Seminars/GTC NVIDIA 2022.md",
+    "Courses & Seminars/What I have done.md",
+    "Courses & Seminars/TODO LIST.md",
+    "BINUS/Semester 3/UAS/OOP Exam Onsite.md",
+    "BINUS/Semester 3/UAS/Database Technology - UAS.md",
     "BINUS/Semester 3/Artificial Intelligence/Application and Ethics in AI.md",
     "BINUS/Semester 3/Artificial Intelligence/K-Nearest Neighbor.md",
     "BINUS/Semester 3/Artificial Intelligence/K-Means.md",
     "BINUS/Semester 3/Artificial Intelligence/Support Vector Machine.md",
     "BINUS/Semester 3/📅 Database Technology.md",
-    "Untitled.md",
-    "Database Technology - UAS.md",
-    "Cursor - SQL.md",
     "BINUS/Semester 3/ACID - DB.md",
-    "OOP Exam Onsite.md",
-    "Multithreading - Java.md",
-    "Generic Method and Class - Java.md",
-    "BINUS/Semester 3/UAS/Compnet UAS.md",
+    "BINUS/Semester 3/UAS/Multithreading - Java.md",
+    "Compnet UAS.md",
     "SLC/SLC Post-Training/Computer Graphics/Computer Graph Post Training.md",
     "BINUS/Semester 1/Discrete Mathematics/Spanning Trees.md",
     "BINUS/Semester 1/Discrete Mathematics/M-ary Trees.md",
-    "BINUS/Semester 1/Discrete Mathematics/Isomorphism of Graphs.md",
     "BINUS/Semester 3/Algorithm Analysis & Design",
     "SLC/SLC Post-Training/Mobpentes",
     "SLC/SLC TPA/Net",
