@@ -4,9 +4,6 @@ App = LOAD 'Dataset/ApplicationList/app.csv' USING PigStorage(',') AS
 (AppID: int, AppName: charArray, CategoryID: int, Rating: float, AppSize: charArray, AppType: charArray, Price: long, ReleaseDate: charArray, Version: charArray);
 ```
 
-Upload Dataset to Hue
-`hadoop fs -copyFromLocal Dataset`
-// See in files
 
 ```pig
 Category = LOAD 'Dataset/ApplicationList/category.csv' USING PigStorage(',') AS 

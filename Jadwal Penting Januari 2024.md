@@ -36,7 +36,10 @@
 26 January 
 - [x] 10:00 - 11:40 Exam Onsite Computer Physics
 
+<<<<<<< HEAD
 31 January
 - [x] Shift 2 Evaluation Core Training
 
 
+=======
+>>>>>>> 15b8927c3df2f1c15a103af6021b618f36dc6d3b
