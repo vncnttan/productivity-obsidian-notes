@@ -41,4 +41,21 @@ Data Definition Language (DDL) I
 Course Reminder:
 - Ikuti notes yang ada di Messier
 - Run *SQL - Start* di RUMAN
-- 
+- Untuk jenis key dijelaskan teorinya secara singkat
+- Tekankan cara membaca dokumentasi dan help di SQL Server sehingga mahasiswa dapat mencoba-coba sendiri di rumah
+- Perkenalkan *Galaxion* dan boleh membahas beberapa soal agar mahasiswa familiar dengan cara menjalankan query di *Galaxion* (tapi jangan dibahas semua agar mahasiswa bisa mengerjakan sendiri di rumah)
+
+### Sesi 3
+Data Manipulation Language (DML) I
+---
+- Insert Data
+- Update Data
+- Delete Data
+- Simple Join Tables
+- Order By
+- Transaction
+
+Course Reminder:
+- Ikuti notes yang ada di Messier
+- Jelaskan tujuan dari transaction, rollback, dan commit pada SQL
+- Jika ada waktu, boleh bahas beberapa soal query
