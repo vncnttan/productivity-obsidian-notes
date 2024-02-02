@@ -154,3 +154,9 @@ Course Reminder:
 - Setelah TM selesai dilaksanakan, backup jawaban mahasiswa terlebih dahulu, lalu clear Drive D dan FTP sehingga mahasiswa tidak dapat memfoto/bawa pulang soal maupun jawaban Quiz/TM
 - Tidak boleh membahas soal project mahasiswa
 
+### Sesi 12 
+Project
+---
+- Project
+
+Course Reminder:
