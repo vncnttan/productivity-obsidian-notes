@@ -144,5 +144,13 @@ Course Reminder:
 
 
 ### Sesi 11
-
+Quiz 2 & Review
+---
+- Quiz 2
+- Review
+Course Reminder:
+- Ikuti notes yang ada di Messier
+- Bahas latihan soal untuk persiapan project, boleh ditanyakan ke mahasiswa kira-kira mereka ada butuh tambahan materi dimana
+- Setelah TM selesai dilaksanakan, backup jawaban mahasiswa terlebih dahulu, lalu clear Drive D dan FTP sehingga mahasiswa tidak dapat memfoto/bawa pulang soal maupun jawaban Quiz/TM
+- Tidak boleh membahas soal project mahasiswa
 
