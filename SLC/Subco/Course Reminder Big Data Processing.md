@@ -11,3 +11,13 @@ Course Reminder:
 - Gunakan *VM - Cloudera* dari RUMAN
 - Jelaskan teori dari *Big Data* dan apa manfaat dari mempelajari *Big Data Processing*, apa bedanya dengan pembelajaran Transactional Database biasa. 
 
+
+### Sesi 2
+Hadoop Platform Management
+---
+- Map Reduce
+- Apache Pig
+
+Course Reminder:
+- Ikuti notes dari Messier
+- 
