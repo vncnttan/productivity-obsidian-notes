@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database.md",
+                "file": "SLC/Subco/Course Reminder Big Data Processing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5086555480957
+    "width": 297.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e306288d20419ea0",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database.md",
+                "file": "SLC/Subco/Course Reminder Big Data Processing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database.md",
+                "file": "SLC/Subco/Course Reminder Big Data Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database.md"
+                "file": "SLC/Subco/Course Reminder Big Data Processing.md"
               }
             }
           },
@@ -171,8 +172,9 @@
   },
   "active": "0e0093b7797368cc",
   "lastOpenFiles": [
-    "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Database.md",
+    "SLC/Subco/Course Reminder Big Data Processing.md",
+    "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
     "SLC/Subco/Course Reminder Database Technology.md",
     "README.md",
@@ -197,7 +199,6 @@
     "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Singleton.md",
     "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Proxy.md",
     "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Prototype.md",
-    "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Observer.md",
     "SLC/Assistant/SLC Post-Training/Unity",
     "SLC/Assistant/SLC Post-Training/React",
     "SLC/Assistant/SLC Post-Training/Predictive Analytics",
