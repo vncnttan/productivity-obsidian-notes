@@ -97,6 +97,7 @@ Course Reminder:
 - Ajarkan set-set operations dan perbedaannya dengan Join
 - Ajarkan juga dengan latihan soal terkait dengan join tables dan set operations
 
+
 ### Sesi 7
 Data Manipulation Language (DML) IV
 ---
@@ -155,6 +156,7 @@ Quiz 2 & Database Environment
 Course Reminder:
 - Ikuti notes dari messier
 - Bahas latihan soal untuk persiapan project, boleh ditanyakan ke mahasiswa kira-kira mereka ada butuh tambahan materi dimana
+- Setelah TM selesai dilaksanakan, backup jawaban mahasiswa terlebih dahulu, lalu clear Drive D dan FTP sehingga mahasiswa tidak dapat memfoto/bawa pulang soal maupun jawaban Quiz/TM
 - Tidak boleh membahas soal project mahasiswa
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Systems.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Systems.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Systems.md"
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md"
               }
             }
           },
@@ -202,7 +202,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d2d694522dde34e6",
+  "active": "0e0093b7797368cc",
   "lastOpenFiles": [
     "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco/Course Reminder Database Systems.md",

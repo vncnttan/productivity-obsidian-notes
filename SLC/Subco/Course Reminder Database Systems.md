@@ -122,6 +122,7 @@ Data Definition Language (DDL) II
 
 Course Reminder:
 - Ikuti notes dari Messier
+- Boleh grant & revoke user aslinya aja
 - Bahas latihan soal, boleh berkaitan dengan sesi-sesi seblumnya
 
 
