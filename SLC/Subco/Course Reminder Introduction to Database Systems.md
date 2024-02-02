@@ -143,3 +143,25 @@ Security and Administration
 Course Reminder:
 - Ikuti notes dari messier
 - Karena caranya ada berbeda sedikit, untuk latihan mengajar menggunakan PC BINUS
+- Bahas latihan soal untuk persiapan quiz di sesi selanjutnya
+
+### Sesi 11
+Quiz 2 & Database Environment
+---
+- Quiz 2
+- Generate SQL Script
+- Review
+
+Course Reminder:
+- Ikuti notes dari messier
+- Bahas latihan soal untuk persiapan project, boleh ditanyakan ke mahasiswa kira-kira mereka ada butuh tambahan materi dimana
+- Tidak boleh membahas soal project mahasiswa
+
+
+### Sesi 12
+Project
+---
+- Project
+
+Course Reminder:
+- 

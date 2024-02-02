@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
+                "file": "SLC/Subco/Course Reminder Database.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +21,39 @@
             }
           }
         ]
+      },
+      {
+        "id": "fea4e4488f89114a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0814589f9f0c8dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2d694522dde34e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLC/Subco/Course Reminder Database Systems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5086555480957,
-    "collapsed": true
+    "width": 297.5086555480957
   },
   "right": {
     "id": "e306288d20419ea0",
@@ -95,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
+                "file": "SLC/Subco/Course Reminder Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
+                "file": "SLC/Subco/Course Reminder Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md"
+                "file": "SLC/Subco/Course Reminder Database Systems.md"
               }
             }
           },
@@ -170,13 +202,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0e0093b7797368cc",
+  "active": "d2d694522dde34e6",
   "lastOpenFiles": [
-    "SLC/Subco/Course Reminder Database Technology.md",
-    "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Database.md",
-    "SLC/Subco/Course Reminder Big Data Processing.md",
+    "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
+    "SLC/Subco/Course Reminder Database Technology.md",
+    "SLC/Subco/Course Reminder Big Data Processing.md",
     "README.md",
     "SLC/Subco",
     "SLC/Assistant/SLC Post-Training/Unity/Basic.md",
