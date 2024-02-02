@@ -17,3 +17,5 @@ Course Reminder:
 - Simpan query yang ada di Notepad terlebih dahulu, dan sarankan mahasiswa untuk melakukan hal tersebut agar query yang digunakan tersimpan (karena kalau menggunakan phpMyAdmin setelah query dijalankan, query dapat hilang dan tidak tersimpan)
 - Ajarkan materi DDL & DML dasar secara singkat
 
+
+### Sesi 2 
