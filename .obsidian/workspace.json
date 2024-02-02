@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23c39561d15be02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -168,8 +182,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ba3e141c7ea05ff0",
+  "active": "23c39561d15be02a",
   "lastOpenFiles": [
+    "README.md",
+    "conflict-files-obsidian-git.md",
     "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
     "SLC/Subco/Course Reminder Database Technology.md",
@@ -195,8 +211,6 @@
     "SLC/Assistant/SLC Pre-Training/Materi/Struct - C.md",
     "SLC/Assistant/SLC Pre-Training/Materi/Selection Sort.md",
     "SLC/Assistant/SLC Pre-Training/Materi/Opening Local File - C.md",
-    "SLC/Assistant/SLC Pre-Training/Materi/Linear Search.md",
-    "SLC/Assistant/SLC Pre-Training/Materi/Garbage values.md",
     "SLC/Assistant/SLC TPA/TPA Web",
     "SLC/Assistant/SLC TPA/TPA Network",
     "SLC/Assistant/SLC TPA/TPA Game",

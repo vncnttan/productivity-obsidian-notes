@@ -42,6 +42,43 @@ Data Manipulation Language (DML)
 
 Course Reminder:
 - Ikuti notes yang ada di Messier
-- 
+- Jelaskan tujuan dari transaction, rollback, dan commit pada database
+- Boleh ditanyakan ke mahasiswa, kira-kira mereka masih bingung dimana, bisa coba beri latihan soal dan dibahas
 
 
+### Sesi 4
+Data Definition Language (DDL)
+---
+- Quiz 1
+- View
+- Index
+- Temporary Table
+
+Course Reminder:
+- Ikuti notes yang ada di Messier
+- Setelah TM selesai dilaksanakan, backup jawaban mahasiswa terlebih dahulu, lalu clear Drive D dan FTP sehingga mahasiswa tidak dapat memfoto/bawa pulang soal maupun jawaban Quiz/TM
+
+
+### Sesi 5
+Simple Query II
+---
+- Order By
+- Join
+- Set Operation
+- Review
+
+Course Reminder:
+- Ikuti notes yang ada di Messier
+- Ajarkan set-set operations dan perbedaannya dengan Join
+- Ajarkan juga dengan latihan soal terkait dengan join tables dan set operations
+- Bahas latihan soal untuk persiapan quiz di sesi selanjutnya
+
+
+
+### Sesi 6
+Final Exam
+---
+- Final Exam
+
+Course Reminder:
+- Awasi Final Exam mereka dengan baik ya teman-teman <3
