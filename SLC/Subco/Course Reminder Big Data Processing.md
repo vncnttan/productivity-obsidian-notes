@@ -1,3 +1,4 @@
+### Sesi 1
 Introduction to Big Data
 ---
 - Big Data Concept
@@ -8,4 +9,5 @@ Introduction to Big Data
 Course Reminder:
 - Ikuti notes dari messier
 - Gunakan *VM - Cloudera* dari RUMAN
--  
+- Jelaskan teori dari *Big Data* dan apa manfaat dari mempelajari *Big Data Processing*, apa bedanya dengan pembelajaran Transactional Database biasa. 
+
