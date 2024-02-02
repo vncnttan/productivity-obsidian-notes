@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3b54a2a4d42d462",
+        "id": "826b6eb43ee9ae2c",
         "type": "tabs",
         "children": [
           {
-            "id": "0e0093b7797368cc",
+            "id": "ba3e141c7ea05ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Technology.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "fea4e4488f89114a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d0814589f9f0c8dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2d694522dde34e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLC/Subco/Course Reminder Database Systems.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kmeans",
+                "query": "BDP",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -126,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Technology.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Technology.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Technology.md"
+                "file": "README.md"
               }
             }
           },
@@ -186,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,44 +168,44 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0e0093b7797368cc",
+  "active": "ba3e141c7ea05ff0",
   "lastOpenFiles": [
-    "SLC/Subco/Course Reminder Big Data Processing.md",
+    "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
     "SLC/Subco/Course Reminder Database Technology.md",
     "SLC/Subco/Course Reminder Database Systems.md",
-    "SLC/Subco/Course Reminder Database.md",
-    "README.md",
+    "SLC/Subco/Course Reminder Big Data Processing.md",
     "SLC/Subco",
-    "SLC/Assistant/SLC Post-Training/Unity/Basic.md",
-    "SLC/Assistant/SLC Post-Training/React/React Post Training.md",
-    "SLC/Assistant/SLC Post-Training/React/React 2.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Weighted Moving Average.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Smoothing.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Predictive Analytics.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Post Training with EN.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Naive bayes.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Moving Average.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Logistic Regression.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Holts Model.md",
-    "SLC/Assistant/SLC Post-Training/Pattern Software Design/Pattern Software Design-Post Training.md",
-    "SLC/Assistant/SLC Post-Training/Network Penetration Testing/Network Penetration.md",
-    "SLC/Assistant/SLC Post-Training/Mobpentes/Post Training Mobile Penetration Tessting.md",
-    "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
-    "SLC/Assistant/SLC Post-Training/Linux Security/Linux Basic Command.md",
-    "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/FLA Post Training.md",
-    "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Singleton.md",
-    "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Proxy.md",
-    "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Prototype.md",
-    "SLC/Assistant/SLC Post-Training/Unity",
+    "SLC/Assistant/SLC TPA/TPA Web/PreTPA.md",
+    "SLC/Assistant/SLC TPA/TPA Web/PreTPA 2.md",
+    "SLC/Assistant/SLC TPA/TPA Web/Catetan TPA.md",
+    "SLC/Assistant/SLC TPA/TPA Web/Basic Golang.md",
+    "SLC/Assistant/SLC TPA/TPA Web/Basic Golang 5.md",
+    "SLC/Assistant/SLC TPA/TPA Web/Basic Golang 4.md",
+    "SLC/Assistant/SLC TPA/TPA Web/Basic Golang 3.md",
+    "SLC/Assistant/SLC TPA/TPA Web/Basic Golang 2.md",
+    "SLC/Assistant/SLC TPA/TPA Network/🛥️Docker.md",
+    "SLC/Assistant/SLC TPA/TPA Network/Switches.md",
+    "SLC/Assistant/SLC TPA/TPA Network/Routers.md",
+    "SLC/Assistant/SLC TPA/TPA Network/pfSense.md",
+    "SLC/Assistant/SLC TPA/TPA Network/Network Address Translation - NAT.md",
+    "SLC/Assistant/SLC TPA/TPA Network/MIKROTIK PRE TPA.md",
+    "SLC/Assistant/SLC TPA/TPA Desktop/Briefing TPA Desktop.md",
+    "SLC/Assistant/SLC TPA/TPA Game/Download Required.md",
+    "SLC/Assistant/SLC Pre-Training/Materi/Struct - C.md",
+    "SLC/Assistant/SLC Pre-Training/Materi/Selection Sort.md",
+    "SLC/Assistant/SLC Pre-Training/Materi/Opening Local File - C.md",
+    "SLC/Assistant/SLC Pre-Training/Materi/Linear Search.md",
+    "SLC/Assistant/SLC Pre-Training/Materi/Garbage values.md",
+    "SLC/Assistant/SLC TPA/TPA Web",
+    "SLC/Assistant/SLC TPA/TPA Network",
+    "SLC/Assistant/SLC TPA/TPA Game",
+    "SLC/Assistant/SLC TPA/TPA Desktop",
+    "SLC/Assistant/SLC Pre-Training/Materi",
+    "SLC/Assistant/SLC Core-Training/Python",
+    "SLC/Assistant/SLC Core-Training/Laravel",
+    "SLC/Assistant/SLC Core-Training/C Advanced",
     "SLC/Assistant/SLC Post-Training/React",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics",
-    "SLC/Assistant/SLC Post-Training/Pattern Software Design",
-    "SLC/Assistant/SLC Post-Training/Network Penetration Testing",
-    "SLC/Assistant/SLC Post-Training/Mobpentes",
-    "SLC/Assistant/SLC Post-Training/Linux Security",
-    "SLC/Assistant/SLC Post-Training/Framework Layer Architecture",
-    "SLC/Assistant/SLC Post-Training/DMV",
     "Images/Pasted image 20240111101025.png",
     "Images/Pasted image 20240111093231.png",
     "Images/Pasted image 20240111093205.png",
