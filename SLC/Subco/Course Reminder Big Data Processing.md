@@ -20,4 +20,63 @@ Hadoop Platform Management
 
 Course Reminder:
 - Ikuti notes dari Messier
-- 
+- Untuk map reduce yang pakai python tidak perlu diajarkan
+- Fokuskan topik sesi ini ke PIG dan query-query yang bisa dijalankan di PIG
+
+
+### Sesi 3
+Big Data Management System I
+---
+- Hadoop User Experience (HUE)
+- Hive and Impala
+- Data Ingestion using SQL-to-Hadoop (Sqoop)
+- Querying Relational Data
+
+Course Reminder:
+- Ikuti notes dari Messier
+- Jika ada waktu, jelaskan Basic Query dari Hive dan Impala melalui HUE sehingga kelihatan prakteknya
+
+### Sesi 4
+Big Data Management System II
+---
+- Querying JSON Data with MongoDB
+- Review
+
+Course Reminder:
+- Ikuti notes dari Messier
+- Pastikan mahasiswa mengerti perbedaan SQL dan NoSQL serta use case yang sering digunakan NoSQL
+- Pada sesi ini fokus ke review, sehingga materi yang diajarkan adalah materi yang akan keluar pada saat Quiz
+
+
+### Sesi 5
+Quiz 1
+---
+- Quiz 1
+
+Course Reminder:
+- Ikuti notes dari Messier
+- Teman-teman awasi quiz mahasiswa dengan baik yaa :D jangan sampai ada yang nyontek
+
+
+### Sesi 6
+Intoduction to Spark
+---
+- Resilient Distributed Dataset (RDD)
+- RDD Operations
+- Persistent Data
+- Shared Variable in Spark
+
+Course Reminder:
+- Ikuti notes dari Messier
+- Berikan tips ke mahasiswa kalau Jupyter notebooknya ngelag, kernelnya di restart lalu jalankan ulang dengan *Run All*
+
+
+### Sesi 7
+Spark SQL
+---
+- Introduction to SchemaRDD
+- Load and Saving Data
+- Constructing SQL Context
+- Basic Query
+
+
