@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "23c39561d15be02a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/111634.jpg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,12 +168,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "46794de29e73fde2",
+  "active": "ba3e141c7ea05ff0",
   "lastOpenFiles": [
+    "Images/111634.jpg",
+    "README.md",
     "SLC/Subco/Course Reminder Database Technology.md",
     "SLC/Subco/Course Reminder Database Systems.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
     "SLC/Subco/Course Reminder Big Data Processing.md",
@@ -207,7 +197,6 @@
     "SLC/Assistant/SLC TPA/TPA Game/Download Required.md",
     "SLC/Assistant/SLC Pre-Training/Materi/Struct - C.md",
     "SLC/Assistant/SLC Pre-Training/Materi/Selection Sort.md",
-    "SLC/Assistant/SLC Pre-Training/Materi/Opening Local File - C.md",
     "SLC/Assistant/SLC TPA/TPA Web",
     "SLC/Assistant/SLC TPA/TPA Network",
     "SLC/Assistant/SLC TPA/TPA Game",
@@ -222,7 +211,6 @@
     "Images/Pasted image 20240111093205.png",
     "Images/Pasted image 20231130222542.png",
     "Images/Pasted image 20231130221427.png",
-    "Images/111634.jpg",
     "Images/Pasted image 20231130115532.png",
     "Images/Pasted image 20231130104308.png",
     "Images/Pasted image 20231130100320.png",
