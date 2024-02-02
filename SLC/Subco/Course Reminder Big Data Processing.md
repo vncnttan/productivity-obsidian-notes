@@ -104,3 +104,20 @@ Classification
 - Classification using Spark
 
 Course Reminder:
+- Ikuti notes dari Messier
+
+
+### Sesi 10
+Clustering
+---
+- Clustering using Spark
+- Model Evaluation using Spark
+
+Course Reminder:
+- Ikuti Notes dari Messier
+
+
+### Sesi 11
+Review
+---
+- Review
