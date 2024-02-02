@@ -94,3 +94,13 @@ Spark SQL II & Data Visualization
 Course Reminder:
 - Ikuti notes dari Messier
 - Siapkan dataset yang akan digunakan, boleh menggunakan CSV
+
+
+### Sesi 9
+Classification
+---
+- Data Exploration using Spark
+- Handling Missing Values in Spark
+- Classification using Spark
+
+Course Reminder:
