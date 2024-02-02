@@ -91,3 +91,44 @@ Data Manipulation Language (DML) III
 ---
 - Join Tables
 - Set Operations
+
+Course Reminder:
+- Ikuti notes yang ada di Messier
+- Ajarkan set-set operations dan perbedaannya dengan Join
+- Ajarkan juga dengan latihan soal terkait dengan join tables dan set operations
+
+### Sesi 7
+Data Manipulation Language (DML) IV
+---
+- Aggregate Functions
+- Group By
+- Having
+
+Course Reminder:
+- Ikuti notes dari Messier
+- Jelaskan mengenai error *is invalid in the select list because it is not contained in either an aggregate function or the GROUP BY clause*, dan bagaimana cara mengatasinya (Jelaskan bahwa semua atribut yang ditampilkan, jika bukan merupakan agregat, harus ada di Group By).
+- Ajarkan juga dengan latihan soal terkait dengan aggregate, group by, maupun having.
+
+
+### Sesi 8
+Data Manipulation Language (DML) V
+---
+- Sub-Query
+- Alias Sub-Query
+- In and Exists
+- Any, Some, and All
+
+Course Reminder:
+- Ikuti notes dari Messier
+- Jelaskan mengenai case dimana Subquery / Alias Subquery dibutuhkan (contohnya, jika subquery dibutuhkan sebagai syarat dan berada di clause *having* harus menggunakan alias subquery, tidak bisa menggunakan subquery biasa)
+- Ajarkan dengan latihan soal terkait dengan subquery, alias subquery, In, Exists, Any, Some, dan All
+
+
+### Sesi 9
+Data Definition Language (DDL) II
+---
+- Create, Alter, and Drop Views
+
+Course Reminder:
+- Ikuti notes dari Messier
+- Karena materinya sedikit, boleh digunakan untuk mengajarkan materi sesi berikutnya (sehingga sesi berikutnya dapat digunakan untuk sesi Review), atau waktu sisanya boleh digunakan untuk Review materi yang dirasa butuh oleh mahasiswa (boleh tanya mahasiswa )
