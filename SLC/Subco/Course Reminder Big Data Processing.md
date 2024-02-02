@@ -79,4 +79,18 @@ Spark SQL
 - Constructing SQL Context
 - Basic Query
 
+Course Reminder:
+- Ikuti notes dari Messier
+- Boleh jelaskan singkat mengenai library pandas di Python
+- Ajarkan Query menggunakan Raw maupun menggunakan Builder (namun jelaskan ke mahasiswa mengapa direkomendasikan menggunakna Builder)
+- Ajarkan dengan contoh soal
 
+### Sesi 8
+Spark SQL II & Data Visualization
+---
+- Advanced Query
+- Data Visualization in Python
+
+Course Reminder:
+- Ikuti notes dari Messier
+- Siapkan dataset yang akan digunakan, boleh menggunakan CSV
