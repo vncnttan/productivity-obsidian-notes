@@ -132,3 +132,14 @@ Data Definition Language (DDL) II
 Course Reminder:
 - Ikuti notes dari Messier
 - Karena materinya sedikit, boleh digunakan untuk mengajarkan materi sesi berikutnya (sehingga sesi berikutnya dapat digunakan untuk sesi Review), atau waktu sisanya boleh digunakan untuk Review materi yang dirasa butuh oleh mahasiswa (boleh tanya mahasiswa )
+
+### Sesi 10
+Security and Administration
+---
+- Users and Roles
+- Access Control
+- Review
+
+Course Reminder:
+- Ikuti notes dari messier
+- Karena caranya ada berbeda sedikit, untuk latihan mengajar menggunakan PC BINUS
