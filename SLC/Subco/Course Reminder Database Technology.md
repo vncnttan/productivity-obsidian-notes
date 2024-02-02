@@ -19,3 +19,29 @@ Course Reminder:
 
 
 ### Sesi 2 
+Simple Query I
+---
+- Conditional Query
+- String Functions
+- Date Functions
+
+Course Reminder:
+- Ikuti notes yang ada di Messier
+- Tekankan cara membaca dokumentasi untuk string functions dan caranya mencari function yang dibutuhkan
+- Ajarkan dengan beberapa contoh soal dan siapkan create+insert yang dibutuhkan
+ 
+
+### Sesi 3
+Data Manipulation Language (DML)
+---
+- Alter Table
+- Update Query
+- Delete Query
+- Transaction
+- Review
+
+Course Reminder:
+- Ikuti notes yang ada di Messier
+- 
+
+
