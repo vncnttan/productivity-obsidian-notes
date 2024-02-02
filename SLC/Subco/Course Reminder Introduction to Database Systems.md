@@ -26,3 +26,19 @@ Khusus untuk mahasiswa Online:
 - Berikan Tips untuk menggunakan 2 device agar lebih mudah mengikuti query pengajar
 - Ingatkan ke mahasiswa bahwa ada akses recording dari BINUS. Untuk partner pengajar bisa bantu record zoom ke local menggunakan OBS sehingga mahasiswa dapat mengakses lebih cepat.
 
+## Sesi 2
+Data Definition Language (DDL) I
+---
+- Attach and Detach Database
+- Backup and Restore Database
+- Import and Export Data
+- Create and Drop Database
+- Create, Alter, and Drop Table
+- Create and Drop Index
+- Keys
+- Constraints
+
+Course Reminder:
+- Ikuti notes yang ada di Messier
+- Run *SQL - Start* di RUMAN
+- 

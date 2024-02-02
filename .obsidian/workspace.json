@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Subco/Course Reminder Big Data Processing.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5086555480957,
-    "collapsed": true
+    "width": 297.5086555480957
   },
   "right": {
     "id": "e306288d20419ea0",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Subco/Course Reminder Big Data Processing.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Subco/Course Reminder Big Data Processing.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Subco/Course Reminder Big Data Processing.md"
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md"
               }
             }
           },
@@ -172,9 +171,9 @@
   },
   "active": "0e0093b7797368cc",
   "lastOpenFiles": [
-    "SLC/Subco/Course Reminder Database.md",
-    "SLC/Subco/Course Reminder Big Data Processing.md",
     "SLC/Subco/Course Reminder Database Systems.md",
+    "SLC/Subco/Course Reminder Big Data Processing.md",
+    "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
     "SLC/Subco/Course Reminder Database Technology.md",
     "README.md",
