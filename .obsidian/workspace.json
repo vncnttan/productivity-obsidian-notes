@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "121f2cc6cc1f5128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLC/Subco/Ideas & Task.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Subco/Course Reminder Big Data Processing.md",
+                "file": "SLC/Subco/Ideas & Task.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Subco/Course Reminder Big Data Processing.md",
+                "file": "SLC/Subco/Ideas & Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Subco/Course Reminder Big Data Processing.md"
+                "file": "SLC/Subco/Ideas & Task.md"
               }
             }
           },
@@ -168,8 +182,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ba3e141c7ea05ff0",
+  "active": "121f2cc6cc1f5128",
   "lastOpenFiles": [
+    "SLC/Subco/Course Reminder Big Data Processing.md",
+    "SLC/Subco/Ideas & Task.md",
     "README.md",
     "Images/111634.jpg",
     "SLC/Subco/Course Reminder Database Technology.md",
@@ -177,7 +193,6 @@
     "conflict-files-obsidian-git.md",
     "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
-    "SLC/Subco/Course Reminder Big Data Processing.md",
     "SLC/Subco",
     "SLC/Assistant/SLC TPA/TPA Web/PreTPA.md",
     "SLC/Assistant/SLC TPA/TPA Web/PreTPA 2.md",
