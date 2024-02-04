@@ -3,8 +3,8 @@
 ### URGENT + IMPORTANT
 *Do it now*
 - [x] Create svelte project
-- [ ] Import tailwind for svelte
-- [ ] Typewriter
+- [x] Import tailwind for svelte
+- [x] Typewriter
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
@@ -20,6 +20,6 @@
 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Navbar
+- [ ] Authentication / Authorization
 - [ ] Task 3
