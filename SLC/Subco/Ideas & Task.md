@@ -9,7 +9,7 @@
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [ ] Buy Screen Protector
-- [ ] Web testing
+- [ ] Docker for web
 - [ ] Task 3
 
 ### IMPORTANT, NOT URGENT
