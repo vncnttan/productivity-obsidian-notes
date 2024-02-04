@@ -2,7 +2,7 @@
 
 ### URGENT + IMPORTANT
 *Do it now*
-- [ ] Create svelte project
+- [x] Create svelte project
 - [ ] Import tailwind for svelte
 - [ ] Typewriter
 
