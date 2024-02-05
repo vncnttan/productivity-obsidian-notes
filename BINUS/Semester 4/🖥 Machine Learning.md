@@ -2,28 +2,28 @@
 #COMPSCIBINUS🏫4tSEM #AI
 
 ### Session 1 - Introduction to Machine Learning
-### Session 2
+[[Introduction to Machine Learning]]
 
+### Session 2 - Exploratory Data Analysis and Preprocessing Data
 
-### Session 3
-### Session 4
-### Session 5
-### Session 6
-### Session 7
-### Session 8
-### Session 9
-### Session 10
-### Session 11
-### Session 12
-### Session 13
-### Session 14
-### Session 15
-### Session 16
-### Session 17
-### Session 18
-### Session 19
-### Session 20
-### Session 21
-### Session 22
-### Session 23
-### Session 24
+### Session 3 - Linear Regression
+
+### Session 4 - Logistic Regression
+
+### Session 5 - Model Selection & Regularization
+
+### Session 6 - Bayes Naive
+
+### Session 7 - Recommender System
+
+### Session 8 - Decision tree and Ensemble Learning
+
+### Session 9 - Support Vector Machine
+
+### Session 10 - Clustering
+
+### Session 11 - Dimensionality Reduction
+
+### Session 12 - Machine Learning Operation
+
+### Session 13 - Review and Presentation
