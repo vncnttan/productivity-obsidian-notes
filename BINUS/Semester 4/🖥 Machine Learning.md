@@ -1,6 +1,10 @@
 24 Session - 4 SKS
 #COMPSCIBINUS🏫4tSEM #AI
 
+Dosen Machine Learning
+Whatsapp - 082122770499
+
+
 ### Session 1 - Introduction to Machine Learning
 [[Introduction to Machine Learning]]
 
