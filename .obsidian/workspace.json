@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7562916692452008",
+        "id": "1fb961c54c6f582e",
         "type": "tabs",
         "children": [
           {
-            "id": "8befce4e271b88ee",
+            "id": "8e3d7dc5fea45783",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -57,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kmeans",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,23 +160,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8befce4e271b88ee",
+  "active": "8e3d7dc5fea45783",
   "lastOpenFiles": [
-    "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Tasks or Problem can be solved from Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Association Analysis.md",
-    "BINUS/Semester 1/Fundamental Course for Computer Science/Fields in AI.md",
     "Images/Pasted image 20240205140358.png",
     "Images/Pasted image 20240205140204.png",
-    "SLC/Assistant/SLC Post-Training/Deep Learning/Deep Learning.md",
+    "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
+    "BINUS/Semester 4/Machine Learning/Tasks or Problem can be solved from Machine Learning.md",
+    "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
+    "BINUS/Semester 4/Machine Learning/Association Analysis.md",
     "BINUS/Semester 4/🖥 Machine Learning.md",
     "BINUS/Semester 4/Machine Learning",
-    "BINUS/Semester 3/🤖 Artificial Intelligence.md",
-    "BINUS/Semester 3/Database Technology/ACID - DB.md",
-    "BINUS/Semester 3/Artificial Intelligence/Natural Language Processing - AI.md",
-    "BINUS/Semester 1/Fundamental Course for Computer Science/Machine Learning - AI.md",
     "BINUS/Semester 4",
+    "BINUS/Semester 3/Database Technology/ACID - DB.md",
     "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
     "SLC/Subco/Course Reminder Big Data Processing.md",
@@ -203,6 +188,10 @@
     "SLC/Assistant/SLC Post-Training/Predictive Analytics/Predictive Analytics.md",
     "SLC/Assistant/SLC Post-Training/Predictive Analytics/Post Training with EN.md",
     "SLC/Assistant/SLC Post-Training/Predictive Analytics/Naive bayes.md",
+    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Moving Average.md",
+    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Logistic Regression.md",
+    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Holts Model.md",
+    "SLC/Assistant/SLC Post-Training/Pattern Software Design/Pattern Software Design-Post Training.md",
     "SLC/Assistant/SLC Post-Training/Unity",
     "SLC/Assistant/SLC Post-Training/React",
     "SLC/Assistant/SLC Post-Training/Predictive Analytics",
@@ -218,6 +207,7 @@
     "Images/111634.jpg",
     "Images/Pasted image 20231130115532.png",
     "Images/Pasted image 20231130104308.png",
+    "Images/Pasted image 20231130100320.png",
     "Untitled.canvas"
   ]
 }
