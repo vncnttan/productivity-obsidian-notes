@@ -13,6 +13,7 @@
 5. Dimensionality Reduction
 6. Outlier Analysis
 7. Generative AI
+8. Recommender System
    
 Dimensi: Adalah jumlah atribute/ feature vector
 
