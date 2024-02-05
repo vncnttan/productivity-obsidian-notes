@@ -14,3 +14,7 @@
 Contoh RL:
 ChatGPT setelah di training menggunakan Supervised Learning, akan ada RL lagi dari Feedback user apakah user puas dengan output yang dihasilkan oleh Machine Learning
 
+Reinforcement Learning:
+- Policy Based 
+- Value Based
+- Model Based

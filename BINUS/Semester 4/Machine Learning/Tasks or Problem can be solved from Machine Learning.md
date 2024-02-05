@@ -16,3 +16,4 @@
    
 Dimensi: Adalah jumlah atribute/ feature vector
 
+Data sparse: Data with high dimentionality will create sparse data, because data is far apart from each other, so it is hard to learn from it. So we need dimensionality reduction to reduce its feature, to a more representative features.
