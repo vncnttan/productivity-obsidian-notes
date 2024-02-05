@@ -9,3 +9,7 @@
 	
 - Reinforcement Learning
 	The machine will be penalized and rewarded based on the machine performance
+	Why RL? Environment variation and condition for the data is very wide so there is not sufficient input data
+
+Contoh RL:
+ChatGPT setelah di training menggunakan Supervised Learning, akan ada RL lagi dari Feedback user apakah user puas dengan output yang dihasilkan oleh Machine Learning
