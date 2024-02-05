@@ -11,8 +11,13 @@
             "id": "8e3d7dc5fea45783",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BINUS/Semester 4/🖥 Machine Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BINUS/Semester 4/🖥 Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BINUS/Semester 4/🖥 Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BINUS/Semester 4/🖥 Machine Learning.md"
+              }
             }
           },
           {
@@ -162,6 +171,8 @@
   },
   "active": "8e3d7dc5fea45783",
   "lastOpenFiles": [
+    "BINUS/Semester 4/🖥 Machine Learning.md",
+    "BINUS/Semester 4",
     "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
     "SLC/Subco/Course Reminder Big Data Processing.md",
@@ -188,7 +199,6 @@
     "SLC/Assistant/SLC Post-Training/Linux Security/Linux Basic Command.md",
     "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/FLA Post Training.md",
     "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Singleton.md",
-    "SLC/Assistant/SLC Post-Training/Framework Layer Architecture/Design Pattern - Proxy.md",
     "SLC/Assistant/SLC Post-Training/Unity",
     "SLC/Assistant/SLC Post-Training/React",
     "SLC/Assistant/SLC Post-Training/Predictive Analytics",
@@ -197,7 +207,6 @@
     "SLC/Assistant/SLC Post-Training/Mobpentes",
     "SLC/Assistant/SLC Post-Training/Linux Security",
     "SLC/Assistant/SLC Post-Training/Framework Layer Architecture",
-    "SLC/Assistant/SLC Post-Training/DMV",
     "Images/Pasted image 20240111101025.png",
     "Images/Pasted image 20240111093231.png",
     "Images/Pasted image 20240111093205.png",
