@@ -5,6 +5,7 @@
 
 - Unsupervised Learning
 	The learning process doesn't include the label
+	Find hidden structure in the data
 	
 - Reinforcement Learning
-	The learning process doesn't include the labe
+	The machine will be penalized and rewarded based on the machine performance
