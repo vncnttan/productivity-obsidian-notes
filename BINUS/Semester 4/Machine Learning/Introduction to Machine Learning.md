@@ -3,9 +3,9 @@ Machine learning results is in the parameter in the model, that saves results fr
 
 [[AI - Generative AI]]
 
-Kalau input data machine learning itu featuresnya aja
-Kalau deep learning, feature extractionnya udah ada di modelnya juga
-
-
 Machine learning is a part of AI where machines or systems learn and get better on their own from experience.
+![[Pasted image 20240205140358.png]]
+![[Pasted image 20240205140204.png]]
 
+
+[[Tasks or Problem can be solved from Machine Learning]]
