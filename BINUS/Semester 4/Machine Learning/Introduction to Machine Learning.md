@@ -7,5 +7,10 @@ Machine learning is a part of AI where machines or systems learn and get better 
 ![[Pasted image 20240205140358.png]]
 ![[Pasted image 20240205140204.png]]
 
-
 [[Tasks or Problem can be solved from Machine Learning]]
+[[Type of Learning - Machine Learning]]
+
+
+
+Unrelated: 
+[[Association Analysis]]

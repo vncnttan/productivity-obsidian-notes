@@ -8,4 +8,9 @@
 4. Clustering (Mengelompokkan)
 	   Prediksi class dari input data
 	   Label tidak di define
-5. 
+5. Dimensionality Reduction
+6. Outlier Analysis
+7. Generative AI
+   
+Dimensi: Adalah jumlah atribute/ feature vector
+
