@@ -1,8 +1,10 @@
 1. Classification
 	   Prediksi class dari input data
 	   Label sudah di define
+	   Create a function that will split the data into multiple categories
 2. Regression
 	   Prediksi real value (bukan kategori)
+	   Create a function that best fits the output value given the input
 3. Forecasting
 	   Prediksi real value (bukan kategori) di masa depan -> Bisa regresi juga
 4. Clustering (Mengelompokkan)
