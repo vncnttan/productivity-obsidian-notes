@@ -11,8 +11,13 @@
             "id": "8e3d7dc5fea45783",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md"
+              }
             }
           },
           {
@@ -162,13 +171,14 @@
   },
   "active": "8e3d7dc5fea45783",
   "lastOpenFiles": [
+    "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
+    "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
+    "BINUS/Semester 4/🖥 Machine Learning.md",
     "Images/Pasted image 20240205140358.png",
     "Images/Pasted image 20240205140204.png",
     "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
     "BINUS/Semester 4/Machine Learning/Tasks or Problem can be solved from Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
     "BINUS/Semester 4/Machine Learning/Association Analysis.md",
-    "BINUS/Semester 4/🖥 Machine Learning.md",
     "BINUS/Semester 4/Machine Learning",
     "BINUS/Semester 4",
     "BINUS/Semester 3/Database Technology/ACID - DB.md",
@@ -207,7 +217,6 @@
     "Images/111634.jpg",
     "Images/Pasted image 20231130115532.png",
     "Images/Pasted image 20231130104308.png",
-    "Images/Pasted image 20231130100320.png",
     "Untitled.canvas"
   ]
 }
