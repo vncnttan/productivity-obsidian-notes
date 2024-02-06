@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1fb961c54c6f582e",
+        "id": "440fe7c2a9a1f64b",
         "type": "tabs",
         "children": [
           {
-            "id": "8e3d7dc5fea45783",
+            "id": "044fc1fe52d9ea36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BINUS/Semester 4/Software Application Domains.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BINUS/Semester 4/Software Application Domains.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BINUS/Semester 4/Software Application Domains.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BINUS/Semester 4/Software Application Domains.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,7 +169,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8e3d7dc5fea45783",
+  "active": "044fc1fe52d9ea36",
   "lastOpenFiles": [
     "BINUS/Semester 4/⚙️Software Engineering.md",
     "BINUS/Semester 4/Software Application Domains.md",
