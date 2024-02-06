@@ -7,6 +7,7 @@ zulfany@gmail.com
 AOL Task: 
 1. Create account & new project on trello.com
 2. Invite lecturer in
+3. At least ada 5 feature tapi 1 feature utama
 
 [[Software Application Domains]]
 
