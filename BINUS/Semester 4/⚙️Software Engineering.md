@@ -3,10 +3,12 @@ __ Session - __ SKS
 
 zulfany@gmail.com
 
-### Session 1
+### Session 1 - Introduction to Software Engineering
 AOL Task: 
 1. Create account & new project on trello.com
 2. Invite lecturer in
+
+[[Software Application Domains]]
 
 
 
