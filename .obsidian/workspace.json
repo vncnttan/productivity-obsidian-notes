@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
+                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
+                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
+                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md"
+                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md"
               }
             }
           },
@@ -172,13 +171,19 @@
   },
   "active": "8befce4e271b88ee",
   "lastOpenFiles": [
+    "SLC/Assistant/SLC Post-Training/Linux Security/Linux Basic Command.md",
+    "BINUS/Semester 3/🤖 Artificial Intelligence.md",
+    "BINUS/Semester 3/📅 Database Technology.md",
+    "BINUS/Semester 3/👩🏻‍💻Computer Network.md",
+    "BINUS/Semester 3/💻Algorithm Design Analysis.md",
+    "BINUS/Semester 3/🔭 Computational Physics.md",
+    "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
     "BINUS/Semester 4/⚙️Software Engineering.md",
     "BINUS/Semester 4/Software Application Domains.md",
     "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
     "BINUS/Semester 4/Machine Learning/ML (Data Science) Lifecycle.md",
     "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
     "BINUS/Semester 4/Machine Learning/Tasks or Problem can be solved from Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
     "BINUS/Semester 4/Machine Learning/Association Analysis.md",
     "BINUS/Semester 1/Fundamental Course for Computer Science/Fields in AI.md",
     "Images/Pasted image 20240205140358.png",
@@ -186,7 +191,6 @@
     "SLC/Assistant/SLC Post-Training/Deep Learning/Deep Learning.md",
     "BINUS/Semester 4/🖥 Machine Learning.md",
     "BINUS/Semester 4/Machine Learning",
-    "BINUS/Semester 3/🤖 Artificial Intelligence.md",
     "BINUS/Semester 3/Database Technology/ACID - DB.md",
     "BINUS/Semester 3/Artificial Intelligence/Natural Language Processing - AI.md",
     "BINUS/Semester 1/Fundamental Course for Computer Science/Machine Learning - AI.md",
@@ -197,12 +201,7 @@
     "SLC/Subco/Ideas & Task.md",
     "SLC/Subco/Course Reminder Database Technology.md",
     "SLC/Subco/Course Reminder Database.md",
-    "README.md",
     "SLC/Subco",
-    "SLC/Assistant/SLC Post-Training/Unity/Basic.md",
-    "SLC/Assistant/SLC Post-Training/React/React Post Training.md",
-    "SLC/Assistant/SLC Post-Training/React/React 2.md",
-    "SLC/Assistant/SLC Post-Training/Predictive Analytics/Weighted Moving Average.md",
     "SLC/Assistant/SLC Post-Training/Unity",
     "SLC/Assistant/SLC Post-Training/React",
     "SLC/Assistant/SLC Post-Training/Predictive Analytics",
