@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md"
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "8befce4e271b88ee",
   "lastOpenFiles": [
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+    "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
     "SLC/Assistant/SLC Post-Training/Linux Security/Linux Basic Command.md",
     "BINUS/Semester 3/🤖 Artificial Intelligence.md",
     "BINUS/Semester 3/📅 Database Technology.md",
@@ -198,9 +201,6 @@
     "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
     "SLC/Subco/Course Reminder Big Data Processing.md",
-    "SLC/Subco/Ideas & Task.md",
-    "SLC/Subco/Course Reminder Database Technology.md",
-    "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco",
     "SLC/Assistant/SLC Post-Training/Unity",
     "SLC/Assistant/SLC Post-Training/React",

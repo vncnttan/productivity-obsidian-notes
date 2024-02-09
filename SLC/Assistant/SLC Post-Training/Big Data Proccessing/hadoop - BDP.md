@@ -44,7 +44,7 @@ Upload Dataset to Hue
 // See in files
 
 
-[[Pig - BDP]]
+![[Pig - BDP]]
 
 #### HIVE - Lebih banyak fitur tapi lambat
 (Lebih fokus ke storage)
