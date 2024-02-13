@@ -44,7 +44,7 @@ Upload Dataset to Hue
 // See in files
 
 
-[[Pig - BDP]]
+![[Pig - BDP]]
 
 #### HIVE - Lebih banyak fitur tapi lambat
 (Lebih fokus ke storage)
@@ -88,7 +88,7 @@ SOURCE create+insert.sql
 sudo sqoop import-all-tables --connect jdbc:mysql://quickstart:3306/ramenshop --username=root -P --hive-import --hive-database=ramenshop
 ```
 
-[[MongoDB]]
+![[MongoDB]]
 
-[[Spark - BDP]]
+![[Spark - BDP]]
 

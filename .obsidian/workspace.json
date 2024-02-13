@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a744b3b47b6b969f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c84bd9d032951e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5086555480957,
-    "collapsed": true
+    "width": 297.5086555480957
   },
   "right": {
     "id": "e306288d20419ea0",
@@ -95,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md"
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md"
               }
             }
           },
@@ -170,8 +196,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8befce4e271b88ee",
+  "active": "a744b3b47b6b969f",
   "lastOpenFiles": [
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Pig - BDP.md",
+    "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
     "SLC/Assistant/SLC Post-Training/Linux Security/Linux Basic Command.md",
     "BINUS/Semester 3/🤖 Artificial Intelligence.md",
     "BINUS/Semester 3/📅 Database Technology.md",
@@ -198,10 +228,6 @@
     "BINUS/Semester 4",
     "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Introduction to Database Systems.md",
-    "SLC/Subco/Course Reminder Big Data Processing.md",
-    "SLC/Subco/Ideas & Task.md",
-    "SLC/Subco/Course Reminder Database Technology.md",
-    "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco",
     "SLC/Assistant/SLC Post-Training/Unity",
     "SLC/Assistant/SLC Post-Training/React",
