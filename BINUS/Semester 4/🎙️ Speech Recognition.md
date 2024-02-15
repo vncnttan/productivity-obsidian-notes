@@ -5,6 +5,9 @@
 Points:
 - There are still many challenges in speech recognition (unspoken knowledge, noises, language, dialects, etc)
 
+[[Dialogue Paradigm - Speech Recognition]]
+
+
 
 ### Session 2
 ### Session 3
