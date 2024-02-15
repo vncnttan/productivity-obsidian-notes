@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Normalization",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8befce4e271b88ee",
+  "active": "74af66ce468e299d",
   "lastOpenFiles": [
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
