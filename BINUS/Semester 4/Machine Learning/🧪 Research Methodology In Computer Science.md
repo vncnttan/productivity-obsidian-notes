@@ -21,6 +21,8 @@ Research Purpose:
 - Prove Lies & Support Truth
 - Find, gauge, and seize opportunities
 
+[[Class Project - Research Methodology]]
+
 
 
 ### Session 2
