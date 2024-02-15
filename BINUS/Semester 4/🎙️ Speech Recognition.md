@@ -1,7 +1,11 @@
 12 Session - 2 SKS
 #COMPSCIBINUS🏫2ndSEM 
 
-### Session 1
+### Session 1 - Intro to Speech Recog
+Points:
+- There are still many challenges in speech recognition (unspoken knowledge, noises, language, dialects, etc)
+
+
 ### Session 2
 ### Session 3
 ### Session 4
