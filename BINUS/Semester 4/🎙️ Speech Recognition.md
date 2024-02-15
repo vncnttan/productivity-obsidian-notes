@@ -14,6 +14,10 @@ Continuous Speech (recording of speech and its transcript, not dictated).
 [[WER - Word Error Rate - Speech Recognition]]
 
 
+Speech to Speech Translation
+Speech Recog -> Machine Translation -> Speech Syntethizer
+
+
 
 ### Session 2
 ### Session 3
