@@ -7,8 +7,9 @@ Points:
 
 [[Dialogue Paradigm - Speech Recognition]]
 
-- Continuous Speech (recording of speech and its transcript, not dictated).
-- 
+Continuous Speech (recording of speech and its transcript, not dictated).
+
+![[Pasted image 20240215122611.png]]
 
 
 ### Session 2
