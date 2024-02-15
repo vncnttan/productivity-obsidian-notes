@@ -11,6 +11,9 @@ Continuous Speech (recording of speech and its transcript, not dictated).
 
 ![[Pasted image 20240215122611.png]]
 
+[[WER - Word Error Rate - Speech Recognition]]
+
+
 
 ### Session 2
 ### Session 3
