@@ -15,5 +15,5 @@ Virtual Machine yang memiliki banyak tools untuk mengelola big data
 - mongodb
 - pyspark
 
-[[hadoop - BDP]]
-[[Linux Basic Command]]
+![[hadoop - BDP]]
+![[Linux Basic Command]]
