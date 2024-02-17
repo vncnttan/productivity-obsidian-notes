@@ -2,6 +2,9 @@
 #COMPSCIBINUS🏫4thSEM 
 
 ### Session 1 - Language & Computation
+[[NLP Examples]]
+
+
 
 ### Session 2
 ### Session 3
