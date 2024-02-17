@@ -4,58 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7562916692452008",
+        "id": "5509ee92ac5de0f5",
         "type": "tabs",
         "children": [
           {
-            "id": "8befce4e271b88ee",
+            "id": "3b5df2ed4567376e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a744b3b47b6b969f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d04092483641d53",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c84bd9d032951e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
+                "file": "BINUS/Semester 4/🔣 Natural Language Processing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+                "file": "BINUS/Semester 4/🔣 Natural Language Processing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+                "file": "BINUS/Semester 4/🔣 Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md"
+                "file": "BINUS/Semester 4/🔣 Natural Language Processing.md"
               }
             }
           },
@@ -204,17 +169,18 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "46794de29e73fde2",
+  "active": "3b5df2ed4567376e",
   "lastOpenFiles": [
+    "BINUS/Semester 4/🔣 Natural Language Processing.md",
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
     "Images/Pasted image 20240215122611.png",
     "BINUS/Semester 4/🎙️ Speech Recognition.md",
     "BINUS/Semester 4/WER - Word Error Rate - Speech Recognition.md",
     "BINUS/Semester 4/Machine Learning/🧪 Research Methodology In Computer Science.md",
     "BINUS/Semester 4/Machine Learning/Class Project - Research Methodology.md",
     "BINUS/Semester 4/Dialogue Paradigm - Speech Recognition.md",
-    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
     "conflict-files-obsidian-git.md",
-    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Pig - BDP.md",
     "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
     "SLC/Assistant/SLC Post-Training/Linux Security/Linux Basic Command.md",
@@ -251,7 +217,6 @@
     "Images/Pasted image 20231130221427.png",
     "Images/111634.jpg",
     "Images/Pasted image 20231130115532.png",
-    "Images/Pasted image 20231130104308.png",
     "Untitled.canvas"
   ]
 }
