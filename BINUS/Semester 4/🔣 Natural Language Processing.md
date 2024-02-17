@@ -1,7 +1,7 @@
 12 Session - 2 SKS
 #COMPSCIBINUS🏫4thSEM 
 
-### Session 1
+### Session 1 - Language & Computation
 
 ### Session 2
 ### Session 3
