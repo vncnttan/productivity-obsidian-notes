@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BINUS/Semester 4/NLP Examples.md",
+                "file": "BINUS/Semester 4/Regular Expression - NLP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5086555480957
+    "width": 297.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "e306288d20419ea0",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BINUS/Semester 4/NLP Examples.md",
+                "file": "BINUS/Semester 4/Regular Expression - NLP.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BINUS/Semester 4/NLP Examples.md",
+                "file": "BINUS/Semester 4/Regular Expression - NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BINUS/Semester 4/NLP Examples.md"
+                "file": "BINUS/Semester 4/Regular Expression - NLP.md"
               }
             }
           },
@@ -171,7 +172,16 @@
   },
   "active": "3b5df2ed4567376e",
   "lastOpenFiles": [
+    "Images/Pasted image 20240217081305.png",
+    "Images/Pasted image 20240217080934.png",
+    "Images/Pasted image 20240217080734.png",
+    "Images/Pasted image 20240217080626.png",
+    "Images/Pasted image 20240217080445.png",
+    "Images/Pasted image 20240217080312.png",
+    "Images/Pasted image 20240217080109.png",
+    "Images/Pasted image 20240217080013.png",
     "BINUS/Semester 4/🔣 Natural Language Processing.md",
+    "BINUS/Semester 4/Regular Expression - NLP.md",
     "BINUS/Semester 4/NLP Examples.md",
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
@@ -196,8 +206,6 @@
     "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
     "BINUS/Semester 4/Machine Learning/ML (Data Science) Lifecycle.md",
     "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Tasks or Problem can be solved from Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Association Analysis.md",
     "Images/Pasted image 20240205140358.png",
     "Images/Pasted image 20240205140204.png",
     "BINUS/Semester 4/Machine Learning",
@@ -210,13 +218,6 @@
     "SLC/Assistant/SLC Post-Training/Network Penetration Testing",
     "SLC/Assistant/SLC Post-Training/Mobpentes",
     "SLC/Assistant/SLC Post-Training/Linux Security",
-    "Images/Pasted image 20240111101025.png",
-    "Images/Pasted image 20240111093231.png",
-    "Images/Pasted image 20240111093205.png",
-    "Images/Pasted image 20231130222542.png",
-    "Images/Pasted image 20231130221427.png",
-    "Images/111634.jpg",
-    "Images/Pasted image 20231130115532.png",
     "Untitled.canvas"
   ]
 }

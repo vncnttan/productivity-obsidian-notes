@@ -3,6 +3,7 @@
 
 ### Session 1 - Language & Computation
 [[NLP Examples]]
+[[Regular Expression - NLP]]
 
 
 
