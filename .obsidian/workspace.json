@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BINUS/Semester 4/Regular Expression - NLP.md",
+                "file": "SLC/Subco/Course Reminder Database Technology.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BINUS/Semester 4/Regular Expression - NLP.md",
+                "file": "SLC/Subco/Course Reminder Database Technology.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BINUS/Semester 4/Regular Expression - NLP.md",
+                "file": "SLC/Subco/Course Reminder Database Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BINUS/Semester 4/Regular Expression - NLP.md"
+                "file": "SLC/Subco/Course Reminder Database Technology.md"
               }
             }
           },
@@ -172,6 +172,10 @@
   },
   "active": "3b5df2ed4567376e",
   "lastOpenFiles": [
+    "SLC/Subco/Course Reminder Database Systems.md",
+    "SLC/Subco/Course Reminder Database.md",
+    "SLC/Subco/Course Reminder Big Data Processing.md",
+    "BINUS/Semester 4/Regular Expression - NLP.md",
     "Images/Pasted image 20240217081305.png",
     "Images/Pasted image 20240217080934.png",
     "Images/Pasted image 20240217080734.png",
@@ -181,7 +185,6 @@
     "Images/Pasted image 20240217080109.png",
     "Images/Pasted image 20240217080013.png",
     "BINUS/Semester 4/🔣 Natural Language Processing.md",
-    "BINUS/Semester 4/Regular Expression - NLP.md",
     "BINUS/Semester 4/NLP Examples.md",
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
@@ -204,10 +207,7 @@
     "BINUS/Semester 4/⚙️Software Engineering.md",
     "BINUS/Semester 4/Software Application Domains.md",
     "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/ML (Data Science) Lifecycle.md",
-    "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
     "Images/Pasted image 20240205140358.png",
-    "Images/Pasted image 20240205140204.png",
     "BINUS/Semester 4/Machine Learning",
     "BINUS/Semester 4",
     "SLC/Subco",

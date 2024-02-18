@@ -37,7 +37,7 @@ Data Definition Language (DDL) I
 Course Reminder:
 - Ikuti notes yang ada di Messier
 - Run *SQL - Start* di RUMAN
-- Untuk jenis key dijelaskan teorinya secara singkat
+- Untuk jenis key dijelaskan teorinya secara singkat karena sudah diajarkan sebelumnya
 - Tekankan cara membaca dokumentasi dan help di SQL Server sehingga mahasiswa dapat mencoba-coba sendiri di rumah
 - Perkenalkan *Galaxion* dan boleh membahas beberapa soal agar mahasiswa familiar dengan cara menjalankan query di *Galaxion* (tapi jangan dibahas semua agar mahasiswa bisa mengerjakan sendiri di rumah)
 
