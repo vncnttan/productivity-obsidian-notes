@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Technology.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Technology.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Technology.md",
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Subco/Course Reminder Database Technology.md"
+                "file": "SLC/Subco/Course Reminder Introduction to Database Systems.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "3b5df2ed4567376e",
   "lastOpenFiles": [
+    "SLC/Subco/Course Reminder Database Technology.md",
     "SLC/Subco/Course Reminder Database Systems.md",
     "SLC/Subco/Course Reminder Database.md",
     "SLC/Subco/Course Reminder Big Data Processing.md",
@@ -206,7 +207,6 @@
     "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
     "BINUS/Semester 4/⚙️Software Engineering.md",
     "BINUS/Semester 4/Software Application Domains.md",
-    "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
     "Images/Pasted image 20240205140358.png",
     "BINUS/Semester 4/Machine Learning",
     "BINUS/Semester 4",
