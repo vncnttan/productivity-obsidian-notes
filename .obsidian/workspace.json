@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md"
               }
             }
           },
