@@ -9,6 +9,9 @@ Whatsapp - 082122770499
 [[Introduction to Machine Learning]]
 
 ### Session 2 - Exploratory Data Analysis and Preprocessing Data
+[[Explanatory Data Analysis - ML]]
+[[Defining Variables]]
+
 
 ### Session 3 - Linear Regression
 

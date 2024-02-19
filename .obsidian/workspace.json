@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+                "file": "BINUS/Semester 4/⚙️Software Engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a70a99440f911e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BINUS/Semester 1/Basic Statistics/Defining Variables.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ae9ee7cb75ce031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BINUS/Semester 4/Explanatory Data Analysis - ML.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0858ab9e9838bf14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BINUS/Semester 1/📊 Basic Statistics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Categor",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -94,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+                "file": "BINUS/Semester 1/Basic Statistics/Defining Variables.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+                "file": "BINUS/Semester 1/Basic Statistics/Defining Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md"
+                "file": "BINUS/Semester 1/Basic Statistics/Defining Variables.md"
               }
             }
           },
@@ -171,18 +211,22 @@
   },
   "active": "46794de29e73fde2",
   "lastOpenFiles": [
-    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
     "conflict-files-obsidian-git.md",
+    "BINUS/Semester 1/Basic Statistics/Defining Variables.md",
     "BINUS/Semester 4/🖥 Machine Learning.md",
-    "BINUS/Semester 4/🔣 Natural Language Processing.md",
     "BINUS/Semester 4/⚙️Software Engineering.md",
+    "BINUS/Semester 1/📊 Basic Statistics.md",
+    "BINUS/Semester 1/Basic Statistics/Organizing Categorical Data.md",
+    "BINUS/Semester 4/Explanatory Data Analysis - ML.md",
     "BINUS/Semester 4/🎙️ Speech Recognition.md",
+    "BINUS/Semester 4/Speech Recog/Dialogue Paradigm - Speech Recognition.md",
+    "BINUS/Semester 4/🔣 Natural Language Processing.md",
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
     "BINUS/Semester 4/Software Engineering/Software Application Domains.md",
     "BINUS/Semester 4/Software Engineering",
     "BINUS/Semester 4/Speech Recog/WER - Word Error Rate - Speech Recognition.md",
     "BINUS/Semester 4/Speech Recog",
-    "BINUS/Semester 4/Speech Recog/Dialogue Paradigm - Speech Recognition.md",
     "BINUS/Semester 4/NLP/NLP Examples.md",
     "BINUS/Semester 4/NLP",
     "Images/Pasted image 20240217081305.png",
@@ -205,10 +249,6 @@
     "BINUS/Semester 3/👩🏻‍💻Computer Network.md",
     "BINUS/Semester 3/💻Algorithm Design Analysis.md",
     "BINUS/Semester 3/🔭 Computational Physics.md",
-    "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/ML (Data Science) Lifecycle.md",
-    "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
     "Images/Pasted image 20240205140358.png",
     "BINUS/Semester 4/Machine Learning",
     "BINUS/Semester 4",
