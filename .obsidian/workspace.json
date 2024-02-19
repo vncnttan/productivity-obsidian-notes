@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7562916692452008",
+        "id": "853c9f64d0bb28e7",
         "type": "tabs",
         "children": [
           {
-            "id": "8befce4e271b88ee",
+            "id": "dcbe48d26e534d7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a744b3b47b6b969f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c84bd9d032951e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -198,15 +169,32 @@
   },
   "active": "46794de29e73fde2",
   "lastOpenFiles": [
-    "Images/Pasted image 20240215122611.png",
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
+    "conflict-files-obsidian-git.md",
+    "BINUS/Semester 4/🖥 Machine Learning.md",
+    "BINUS/Semester 4/🔣 Natural Language Processing.md",
+    "BINUS/Semester 4/⚙️Software Engineering.md",
     "BINUS/Semester 4/🎙️ Speech Recognition.md",
-    "BINUS/Semester 4/WER - Word Error Rate - Speech Recognition.md",
+    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
+    "BINUS/Semester 4/Software Engineering/Software Application Domains.md",
+    "BINUS/Semester 4/Software Engineering",
+    "BINUS/Semester 4/Speech Recog/WER - Word Error Rate - Speech Recognition.md",
+    "BINUS/Semester 4/Speech Recog",
+    "BINUS/Semester 4/Speech Recog/Dialogue Paradigm - Speech Recognition.md",
+    "BINUS/Semester 4/NLP/NLP Examples.md",
+    "BINUS/Semester 4/NLP",
+    "Images/Pasted image 20240217081305.png",
+    "Images/Pasted image 20240217080934.png",
+    "Images/Pasted image 20240217080734.png",
+    "Images/Pasted image 20240217080626.png",
+    "Images/Pasted image 20240217080445.png",
+    "Images/Pasted image 20240217080312.png",
+    "Images/Pasted image 20240217080109.png",
+    "Images/Pasted image 20240217080013.png",
+    "BINUS/Semester 4/NLP/Regular Expression - NLP.md",
+    "Images/Pasted image 20240215122611.png",
     "BINUS/Semester 4/Machine Learning/🧪 Research Methodology In Computer Science.md",
     "BINUS/Semester 4/Machine Learning/Class Project - Research Methodology.md",
-    "BINUS/Semester 4/Dialogue Paradigm - Speech Recognition.md",
-    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/hadoop - BDP.md",
-    "conflict-files-obsidian-git.md",
-    "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Big Data Processing.md",
     "SLC/Assistant/SLC Post-Training/Big Data Proccessing/Pig - BDP.md",
     "SLC/Assistant/SLC Post-Training/Linux Security/Linux Security.md",
     "SLC/Assistant/SLC Post-Training/Linux Security/Linux Basic Command.md",
@@ -216,16 +204,10 @@
     "BINUS/Semester 3/💻Algorithm Design Analysis.md",
     "BINUS/Semester 3/🔭 Computational Physics.md",
     "BINUS/Semester 4/Machine Learning/Type of Learning - Machine Learning.md",
-    "BINUS/Semester 4/⚙️Software Engineering.md",
-    "BINUS/Semester 4/Software Application Domains.md",
     "BINUS/Semester 4/Machine Learning/Type of Techniques on ML - Machine Learning.md",
     "BINUS/Semester 4/Machine Learning/ML (Data Science) Lifecycle.md",
     "BINUS/Semester 4/Machine Learning/Introduction to Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Tasks or Problem can be solved from Machine Learning.md",
-    "BINUS/Semester 4/Machine Learning/Association Analysis.md",
-    "BINUS/Semester 1/Fundamental Course for Computer Science/Fields in AI.md",
     "Images/Pasted image 20240205140358.png",
-    "Images/Pasted image 20240205140204.png",
     "BINUS/Semester 4/Machine Learning",
     "BINUS/Semester 4",
     "SLC/Subco",
@@ -233,17 +215,6 @@
     "SLC/Assistant/SLC Post-Training/React",
     "SLC/Assistant/SLC Post-Training/Predictive Analytics",
     "SLC/Assistant/SLC Post-Training/Pattern Software Design",
-    "SLC/Assistant/SLC Post-Training/Network Penetration Testing",
-    "SLC/Assistant/SLC Post-Training/Mobpentes",
-    "SLC/Assistant/SLC Post-Training/Linux Security",
-    "Images/Pasted image 20240111101025.png",
-    "Images/Pasted image 20240111093231.png",
-    "Images/Pasted image 20240111093205.png",
-    "Images/Pasted image 20231130222542.png",
-    "Images/Pasted image 20231130221427.png",
-    "Images/111634.jpg",
-    "Images/Pasted image 20231130115532.png",
-    "Images/Pasted image 20231130104308.png",
     "Untitled.canvas"
   ]
 }
