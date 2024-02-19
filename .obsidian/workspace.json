@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BINUS/Semester 1/📊 Basic Statistics.md",
+                "file": "BINUS/Semester 1/Basic Statistics/Defining Variables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Univariate",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -183,15 +183,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "74af66ce468e299d",
+  "active": "4ae9ee7cb75ce031",
   "lastOpenFiles": [
-    "BINUS/Semester 1/Basic Statistics/Defining Variables.md",
-    "BINUS/Semester 4/⚙️Software Engineering.md",
     "conflict-files-obsidian-git.md",
-    "BINUS/Semester 4/🖥 Machine Learning.md",
-    "BINUS/Semester 1/📊 Basic Statistics.md",
-    "BINUS/Semester 1/Basic Statistics/Organizing Categorical Data.md",
     "BINUS/Semester 4/Explanatory Data Analysis - ML.md",
+    "Images/Pasted image 20240219141612.png",
+    "BINUS/Semester 1/Basic Statistics/Defining Variables.md",
+    "BINUS/Semester 1/📊 Basic Statistics.md",
+    "BINUS/Semester 4/⚙️Software Engineering.md",
+    "BINUS/Semester 4/🖥 Machine Learning.md",
+    "BINUS/Semester 1/Basic Statistics/Organizing Categorical Data.md",
     "BINUS/Semester 4/🎙️ Speech Recognition.md",
     "BINUS/Semester 4/Speech Recog/Dialogue Paradigm - Speech Recognition.md",
     "BINUS/Semester 4/🔣 Natural Language Processing.md",
@@ -222,8 +223,6 @@
     "BINUS/Semester 3/📅 Database Technology.md",
     "BINUS/Semester 3/👩🏻‍💻Computer Network.md",
     "BINUS/Semester 3/💻Algorithm Design Analysis.md",
-    "BINUS/Semester 3/🔭 Computational Physics.md",
-    "Images/Pasted image 20240205140358.png",
     "BINUS/Semester 4/Machine Learning",
     "BINUS/Semester 4",
     "SLC/Subco",

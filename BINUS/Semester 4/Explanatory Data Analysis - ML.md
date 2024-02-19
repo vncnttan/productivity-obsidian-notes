@@ -6,16 +6,14 @@ The main reason:
 
 Attribute
 Sample
-Type Attribute
-- Categorical
-- Ordinal - Categorical with urutan
-- Nominal
-- Interval
+Type Attribute: [[Defining Variables]]
 
 ### Univariate -> Analisis per kolom
 Univariate non-graphical EDA
-- Central Tendency
-- 
-
+- Central Tendency: mean, median, modus. Best for categorical data
+- Spread: Variance, Std, Q1 Q2 Q3 
+- Skewness and Kurtosis
+  Skewness: 0 = Symmetrical Distribution
+![[Pasted image 20240219141612.png]]
 
 ### Mulivariate -> Analisis menggunakan beberapa kolom
