@@ -11,7 +11,7 @@ Whatsapp - 082122770499
 ### Session 2 - Exploratory Data Analysis and Preprocessing Data
 [[Explanatory Data Analysis - ML]]
 [[Defining Variables]]
-
+[[Data Preprocessing]]
 
 ### Session 3 - Linear Regression
 
