@@ -4,6 +4,11 @@ Data Preprocessing is used because real world data is dirty
 - Completeness
 - Consistency
 - Timeliness
-- Believeability
+- Believability
 - Interpretability
 
+Data Cleaning Problem:
+- Incomplete
+- Noisy
+- Inconsistent
+- Intentional
