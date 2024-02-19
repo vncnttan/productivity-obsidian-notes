@@ -19,6 +19,10 @@ Univariate non-graphical EDA
 	Kurtosis: Keruncingan
 
 
+Univariate graphical EDA
+- Histograms 
+	Discretization -> Mengconvert data numerical menjadi categorical 
+- Boxplots
 
 
 ### Mulivariate -> Analisis menggunakan beberapa kolom
