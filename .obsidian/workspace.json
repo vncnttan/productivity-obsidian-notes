@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Categor",
+                "query": "Univariate",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4ae9ee7cb75ce031",
+  "active": "74af66ce468e299d",
   "lastOpenFiles": [
     "BINUS/Semester 1/Basic Statistics/Defining Variables.md",
     "BINUS/Semester 4/⚙️Software Engineering.md",
