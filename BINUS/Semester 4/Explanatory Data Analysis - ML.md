@@ -7,6 +7,7 @@ The main reason:
 Attribute
 Sample
 Type Attribute: [[Defining Variables]]
+Outlier Analysis
 
 ### Univariate -> Analisis per kolom
 Univariate non-graphical EDA
@@ -15,5 +16,9 @@ Univariate non-graphical EDA
 - Skewness and Kurtosis
   Skewness: 0 = Symmetrical Distribution
 ![[Pasted image 20240219141612.png]]
+	Kurtosis: Keruncingan
+
+
+
 
 ### Mulivariate -> Analisis menggunakan beberapa kolom
