@@ -1,0 +1,18 @@
+- CLI
+- GUI
+- Multimedia
+- Mobile
+- VR
+- AR
+- Speech
+- Pen
+- Multimodal
+- Shareable
+- Tangible
+- Air-based gesture
+- Electronics
+- Wearables
+- Touch
+- Haptic
+- Robotic
+- Brain Computer

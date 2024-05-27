@@ -1,0 +1,3 @@
+File>New>Source file...
+
+To compile / run "F11"

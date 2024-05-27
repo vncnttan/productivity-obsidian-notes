@@ -1,0 +1,1 @@
+An open sentences statement is not a statement in discrete math that the truth value of said sentence is unknown until the variable is defined. It can be true or false depending on the value inside of the variable
