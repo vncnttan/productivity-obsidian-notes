@@ -60,8 +60,25 @@ Core Points: Has more than specified number of points (MinPts) in Epsilon (radiu
 ### Session 8
 ### Session 9
 ### Session 10
-### Session 11
-### Session 12
+### Session 11 - Semantic Role
+
+- Agent: Subject of the sentence
+- Theme: Something most directly affected by an event
+- Instrument: Instrument used in an event
+
+#### Diathesis Alteration
+Verb Alteration -> How one verb can changes in multiple ways to achieve the same meaning
+
+Problems: 
+- Hard to define the role sometimes because sometimes sentence structure is funny
+
+
+#### FrameNet
+
+
+### Session 12 - Chatbots
+
+
 ### Session 13
 ### Session 14
 ### Session 15

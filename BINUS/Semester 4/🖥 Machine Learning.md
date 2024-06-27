@@ -51,4 +51,7 @@ Whatsapp - 082122770499
 
 ### Session 12 - Machine Learning Operation
 
+MLOps, set of practices that aim to streamline and automate the end-to-end machine learning lifecycle that encompasses the entire process from data preparation and model development to deployment.
+
+
 ### Session 13 - Review and Presentation

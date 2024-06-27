@@ -158,3 +158,5 @@ Project
 - Project
 
 Course Reminder:
+- Ikuti arahan QMan mengenai sesi pengumpulan project
+- Jangan lupa untuk briefing Final Exam

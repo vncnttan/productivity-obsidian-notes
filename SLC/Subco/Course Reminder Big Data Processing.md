@@ -123,3 +123,9 @@ Course Reminder:
 Review
 ---
 - Review
+
+Course Reminder:
+- Ikuti Notes dari Messier
+- Tanyakan ke mahasiswa apakah ada yang kurang dimengerti
+- Utamakan review mengenai pyspark **plotting** dan **subquery** menggunakan kondisi (**CASE WHEN**) dan filter (**WHERE**)
+
