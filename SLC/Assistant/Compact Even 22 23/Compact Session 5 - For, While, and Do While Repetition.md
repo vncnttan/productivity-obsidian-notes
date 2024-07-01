@@ -1,5 +1,8 @@
 ---
 banner: "https://cdnb.artstation.com/p/assets/images/images/050/349/377/large/ian-worrel-mystery-shack-ext.jpg?1654638662"
+---
+---
+banner: "https://cdnb.artstation.com/p/assets/images/images/050/349/377/large/ian-worrel-mystery-shack-ext.jpg?1654638662"
 banner_y: 0.845
 ---
 [Java For Loop (w3schools.com)](https://www.w3schools.com/java/java_for_loop.asp)
