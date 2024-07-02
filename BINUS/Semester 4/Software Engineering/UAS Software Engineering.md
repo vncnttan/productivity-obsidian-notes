@@ -160,14 +160,14 @@ Steps:
 
 ## (Case) ***3. Software Configuration Management***
 	Aktivitas yang diterapkan sepanjang proses pembuatan software
-**SCM Purpose**:
+###### SCM Purpose:
 1. Identify Change
 2. Control Change
 3. Analyze Implementation
 4. Report Changes to others who may have an interest
 5. Publish Deploy
 
-**SCP Process**:
+###### SCP Process:
 1. Identify Changes
 2. Control Changes
 3. Version Control 
