@@ -200,3 +200,5 @@ Steps:
   `Menemukan dan memperbaiki bug dalam kode software`
 ## (Case) ***5. Ethics and Trends in Software Engineering***
 
+###### Human Flourishing
+	Memastikan bahwa perangkat lunak yang dikembangkan tidak hanya berfungsi dengan baik secara teknis, tetapi juga memperhatikan dampaknya terhadap pengguna dan masyarakat secara luas
