@@ -159,8 +159,20 @@ Steps:
 
 
 ## (Case) ***3. Software Configuration Management***
-	Aktivitas yang diterapkan sepanjang proses perangkat lunak
-	
+	Aktivitas yang diterapkan sepanjang proses pembuatan software
+**SCM Purpose**:
+1. Identify Change
+2. Control Change
+3. Analyze Implementation
+4. Report Changes to others who may have an interest
+5. Publish Deploy
 
-## ***4. Quality Assurance: Automated Testing***
+**SCP Process**:
+1. Identify Changes
+2. Control Changes
+3. Version Control 
+4. Configuration Auditing
+5. Reporting
+## (Case) ***4. Quality Assurance: Automated Testing***
+
 ## ***5. Ethics and Trends in Software Engineering***
