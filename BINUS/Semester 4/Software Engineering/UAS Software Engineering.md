@@ -174,12 +174,29 @@ Steps:
 4. Configuration Auditing
 5. Reporting
 ## (Case) ***4. Quality Assurance: Automated Testing***
-###### Types of QA Testing
-1. Unit Testing
-   Make sure the code is running as intended
-2. Integration Testing
-   Make sure the code can be integrated
-3. System Testing
-4. User Acceptance Testing
-
+###### QA Testing
+- Fuzz Testing
+  `Menemukan bug dengan input acak`
+- Sanitizers
+  `Tools seperti ASAN (Address Sanitizer) mendeteksi kesalahan memori`
+- Performance Testing
+  `Mengidentifikasi bug performance dengan mengukur kinerja software`
+- Game Days
+  `Mencoba kegagalan ke dalam sistem`
+- Automatic GUI/Web Testing
+  `Pengujian otomatis testing antarmuka pengguna (GUI) dan web, menggunakan alat seperti Selenium`
+- Testing Strategies:
+	- Unit Testing
+	  `Pengujian pada level terkecil`
+	- Integration Testing
+	  `Pengujian interaksi antara unit-unit yang sudah diuji secara terpisah`
+	- Regression Testing
+	  `Pengujian setelah perubahan software`
+	- Smoke Testing
+	  `Pengujian awal untuk memastikan build atau versi baru dapat berjalan`
+- Object Oriented Testing (OO Testing)
+  `Fokus pada integrasi kelas dan behaviour`
+- The Art of Debugging
+  `Menemukan dan memperbaiki bug dalam kode software`
 ## (Case) ***5. Ethics and Trends in Software Engineering***
+
