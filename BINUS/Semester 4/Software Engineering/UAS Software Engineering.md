@@ -174,6 +174,12 @@ Steps:
 4. Configuration Auditing
 5. Reporting
 ## (Case) ***4. Quality Assurance: Automated Testing***
-
+###### Types of QA Testing
+1. Unit Testing
+   Make sure the code is running as intended
+2. Integration Testing
+   Make sure the code can be integrated
+3. System Testing
+4. User Acceptance Testing
 
 ## (Case) ***5. Ethics and Trends in Software Engineering***
