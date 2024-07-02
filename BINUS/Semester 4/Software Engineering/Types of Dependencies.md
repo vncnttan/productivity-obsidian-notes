@@ -10,7 +10,7 @@
 	\ /
 	 D
 	```
-   ![[Pasted image 20240701114905.png]]
+   ![[Pasted image 20240702083658.png]]
    Problem that might appear: Version Conflict
    Resolution:
    - **Duplicate It**: Duplicate for each dependency
