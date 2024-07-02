@@ -3,7 +3,7 @@
 go mod init github.com/vncnttan/Pre-TPAWeb
 ```
 
-kalau pakai package yang sama, dia harus ada di directory yang sama
+kalau pakai package yang sama, dia harus ada di directory yang sama, package = penanda folder
 ```go
 // Service.go
 package helper
@@ -42,7 +42,7 @@ func printHelloWorld() {
 ```
 
 
-Berlaku jauga kalau misalnya mau pake mdoel di luar dari directory juga harus dijadiin huruf besar
+Berlaku jauga kalau misalnya mau pake model di luar dari directory juga harus dijadiin huruf besar
 
 ``` go
 package model

@@ -36,13 +36,13 @@ Array
 	// 	"steven",
 	// }
 
-	// for _, arr := range array {
-	// 	fmt.Println(arr)
-	// }
+	for _, arr := range array {
+		fmt.Println(arr)
+	}
 ```
 
 
-### String functions
+### String functions & Slicing
 ```go
 	name := "Jovita Waisakhi"
 

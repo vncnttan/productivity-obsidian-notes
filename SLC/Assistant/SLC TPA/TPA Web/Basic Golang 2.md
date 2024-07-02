@@ -13,12 +13,14 @@
 
 ### Creating Temporary Variable if
 ``` go
-	length := 12
-	width := 10
+	length := 3
+	width := 4
 
-	if area := length * width; area > 110 {
+	if area := length * width; area > 20 {
+		fmt.Println("Big Area")
+	} else {
 		// Creating variable inside of an if scope
-		fmt.Println("Area is more than 12")
+		fmt.Println("Small Area")
 	}
 ```
 

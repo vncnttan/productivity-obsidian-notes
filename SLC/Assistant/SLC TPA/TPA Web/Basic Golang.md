@@ -31,6 +31,21 @@
 	)
 ```
 
+### Running Commands
+
+`go run hello.go` 
+Run go file
+
+`go mod init example/hello`
+Create module file
+
+`go mod tidy`
+Mirip kayak buat keep track npm yang dipake -> Make sure go.mod is up to date with the required dependencies and their versions
+![[Pasted image 20240623225007.png]]
+
+`go run . hello.go`
+Run with the dependency
+
 ### Data Types
 - string
 - int
@@ -82,6 +97,8 @@
 - >=
 - ==
 - !=
+
+
 
 [[Basic Golang 2]]
 [[Basic Golang 3]]

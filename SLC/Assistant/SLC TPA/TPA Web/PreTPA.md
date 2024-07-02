@@ -1,4 +1,3 @@
-asdjfaklf
 Go Basic
 - [x] Variable
 - [ ] Data type

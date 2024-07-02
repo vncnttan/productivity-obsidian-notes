@@ -13,6 +13,13 @@ func main() {
 }
 ```
 
+Multiple return functions
+``` go
+func calculate(a, b int) (int, int) {
+	return a + b, a * b
+}
+```
+
 Pointer
 ``` go
 func main() {
