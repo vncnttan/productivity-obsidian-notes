@@ -202,3 +202,14 @@ Steps:
 
 ###### Human Flourishing
 	Memastikan bahwa perangkat lunak yang dikembangkan tidak hanya berfungsi dengan baik secara teknis, tetapi juga memperhatikan dampaknya terhadap pengguna dan masyarakat secara luas
+
+Kode etik:
+- Berkontribusi untuk kesejahteraan masyarakat
+- Jujur dan dapat dipercaya
+- Bersikap adil dan tidak diskriminatif
+- Menghormati hak properti, termasuk hak cipta dan paten
+- Memberi kredit yang sesuai untuk properti intelektual
+- Menghormati privasi orang lain dan menjaga kerahasiaan
+
+Tantangan:
+- Perubahan cepat dalam teknologi
