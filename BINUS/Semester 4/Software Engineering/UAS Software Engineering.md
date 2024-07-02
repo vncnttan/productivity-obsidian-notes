@@ -175,4 +175,5 @@ Steps:
 5. Reporting
 ## (Case) ***4. Quality Assurance: Automated Testing***
 
-## ***5. Ethics and Trends in Software Engineering***
+
+## (Case) ***5. Ethics and Trends in Software Engineering***
