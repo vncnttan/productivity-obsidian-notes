@@ -61,13 +61,21 @@ I. Essay
 - **Dependency Management**: Managing external dependencies
 
 ### Branch Management
-	Ability to detect revision and version control .
-#### b. *Quality Assurance: Static and Dynamic Analysis*
-#### c. *Deployment, Maintenance, and Reengineering*
+	Ability to detect revision and version control.
+###### "One version" rule works best with short-lived branches
+	Only one version of a dependency can exist in the entire codebase at a time
+###### Git Basic Concept
+	- Repository
+	- Commit
+	- Branch
+	- Merge
+	- Pull Request
+## ***2. Quality Assurance: Static and Dynamic Analysis***
+## ***3. Deployment, Maintenance, and Reengineering***
 
 ---
-#### II. Case
-##### Introduction to Software Architecture and Microservice
+II. Case
+## ***1. Introduction to Software Architecture and Microservice***
 ##### Software Engineering for Machine Learning
 ##### Software Configuration Management
 ##### Quality Assurance: Automated Testing
