@@ -13,7 +13,6 @@ I. Essay
 - Ubuntu Packages
 - NPM Public Registry
 - Python Package Index (PyPI)
-
 ###### [[Types of Dependencies]]
 ##### Version Control System
 	Sistem yang mengombinasikan prosedur dan alat untuk mengelola berbagai versi objek konfigurasi yang dibuat selama proses pengembangan software.
