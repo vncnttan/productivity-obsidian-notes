@@ -1,15 +1,15 @@
 3 July 2024
-- [ ] 10:00 - 12:00 **UAS** Software Engineering 
+- [x] 10:00 - 12:00 **UAS** Software Engineering 
 
 4 July 2024
-- [ ] UAS RM Start (Online)
-- [ ] 08:00 - 09:40 **UAS** Computational Biology
+- [x] UAS RM Start (Online)
+- [x] 08:00 - 09:40 **UAS** Computational Biology
 
 9 July 2024
 - [ ] 13:00 - 15:00 **UAS** Machine Learning
 
 11 July 2024
-- [ ] UAS RM End (Online)
+- [x] UAS RM End (Online)
 
 12 July 2024
 - [ ] 13:30 - 15:10 **UAS** NLP 
@@ -21,3 +21,9 @@
 - [ ] Post Training Deep Learning
 
 
+Correction BDP Revision Final Exam
+- [ ] BA01 - ko JD
+- [ ] BB01 - ko JD
+- [ ] BF01 -  On Progress
+- [ ] BG01 - ko JD
+- [ ] BK01 - ko JD
