@@ -4,50 +4,37 @@
 - Case: PCA + Clustering (+ EDA & Preprocessing)
 
 
-#### Support Vector Machine (SVM)
 
-`Linearly Separable`: Class dari prediktor terpisah satu sama lain dan tidak menyatu, dan bisa dibuat garis pembatas diantara seluruh classnya
-![[Pasted image 20240708193453.png]]
+[[Support Vector Machine - SVM Machine Learning]]
+#### Ensemble Learning
+Metode untuk membuat beberapa model, lalu digabungkan dengan harapan untuk mendapatkan hasil lebih baik. 
+Menggabungkan strength dari beberapa model simple yang lemah (*weak learners*) 
 
-`Separating Hyperplane`: Garis yang memisahkan class-class tersebut
+###### Bagging
+Bootstrap & Aggregating
+![[Pasted image 20240708215844.png]]
 
 
-1. Maximal Margin Classifier
-	*Hanya cocok untuk Linearly Separable data*  
-    Fungsi: Klasifikasi
-    Cara klasifikasi dengan membuat sebuah garis margin (dengan minimal distance dengna hyperplane) terjauh dari seluruh class
-    
-    Cara: 
-    - Ambil point yang dekat memisahkan class A dan B (Support Vector)
-    - Margin -> Di tengah-tengah antara point tersebut
-      
-    Sensitif terhadap outlier
-    
-2. Support Vector Classifier (Soft-Margin)
-	*Ketika kedua class non-linearly separable, tidak ada garis yang mungkin untuk memisahkan kedua class*
-	Ide: Memperbolehkan misklasifikasi selama training untuk mengeneralisasi data hasilnya
-	Support Vector yang digunakan: Beberapa point di edge yang berada di dalam soft margin
-	
-	Cara kerja: 
-	- Setiap data point memiliki slack variable e(i) yang memperbolehkan beberapa data point berada di sisi margin atau separating hyperplane yang salah
-	- ![[Pasted image 20240708194634.png]]
-	
-	Cross Validations dapat digunakan untuk menetukan soft margin terbaik
-  
-3. Support Vector Machine (SVM)
-    Idea: Mapping to a higher dimesion, lalu mengembalikannya ke dimension semula
-    
-    SVM mendukung penggunaan non-linear terms untuk menghindari masal linear effects.
-    ![[Pasted image 20240708195101.png]]
+Bootstrapping: Mengambil sample populasi dari beberapa group
+Masing-masing model **membuat vote** untuk hasil prediksi yang dilakukan
+`contoh: Random Forest Classifier (RFC)`
 
-4. Support Vector Regressor (SVR)
-   ![[Pasted image 20240708195407.png]]
+Fungsi: Mengurangi variance di dalam dataset yang memiliki value tidak berarti (noisy dataset)
+Contoh di RFC adalah ketika di task classification ada kolom dengan strong predictor, di Random Forest ada beberapa tree yang tidak memiliki kolom tersebut sebagai feature, sehingga feature yang strong predictor tidak mendominasi fitur-fitur lainnya.
 
-Kernel Functions
-Simulate the calculations without needing to add extra dimensions
-- Gaussian RBF Kernel
-- Sigmoid Kernel
-- Polynomial Kernel
+Bagging Prediction
+Estimasi test error dari Baggin didapatkan menggunakan OOB (Out of Bag) observations. 
 
-Good to know:
-![[Pasted image 20240708195540.png]]
+
+###### Boosting
+Takes multiple weak learneers to make stronger model with lower bias
+![[Pasted image 20240708215827.png]]
+Boosting bekerja dengan memasukkan data menuju ke beberapa weak learners secara berurutan. Weak learners disebut dengan stump, dan hasil dari stump akan dimasukkan ke stump berikutnya. Hal ini menyelesaikan permasalahan Bias-Variance Trade off
+
+- Adaptive Boosting
+  Initialize all stump with equal weights to all data
+  Then all of the stump is trained all at once
+- Gradient Boosting
+  Trees are created one at a time, existing trees aren't changed
+  Gradient Descent is performed to minimize loss
+
