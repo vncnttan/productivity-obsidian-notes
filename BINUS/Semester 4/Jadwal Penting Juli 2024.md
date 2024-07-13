@@ -12,10 +12,10 @@
 - [x] UAS RM End (Online)
 
 12 July 2024
-- [ ] 13:30 - 15:10 **UAS** NLP 
+- [x] 13:30 - 15:10 **UAS** NLP 
 
 13 July 2024
-- [ ] 10:00 - 11:40 **UAS** SR
+- [x] 10:00 - 11:40 **UAS** SR
 
 24 July 2024
 - [ ] Post Training Deep Learning
