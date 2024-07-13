@@ -20,10 +20,11 @@
 24 July 2024
 - [ ] Post Training Deep Learning
 
-
 Correction BDP Revision Final Exam
 - [ ] BA01 - ko JD
 - [ ] BB01 - ko JD
+- [ ] BC01 - Done
+- [ ] BD01 - On Progress
 - [x] BE01 - On Progress
 - [x] BF01 -  On Progress
 - [ ] BG01 - ko JD
