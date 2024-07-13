@@ -42,3 +42,25 @@ MLOps, set of practices that aim to streamline and automate the end-to-end machi
 
 ### Session 13 - Review and Presentation
 [[UAS Machine Learning]]
+
+Cara memilih jumlah k yang cocok
+![[Pasted image 20240520154748.png]]
+Gap terbesar, jadinya paling cocok k=4
+
+### DBScan 
+Sometimes the cluster is not always circular, it can
+Density based scan can cluster point based on their density
+![[Pasted image 20240520154946.png]]
+
+Epsilon: Radius
+MinPts: Min points
+
+Core Points: Has more than specified number of points (MinPts) in Epsilon (radius), else it is border points or noise points.
+- Border Point: If any of the neighboring is a core point
+- Noise Point
+![[Pasted image 20240520155802.png]]
+
+	Step 1. Search for core points, border points, and noise points.
+	Step 2. Remove noise points.
+	Step 3. Reachable is if the core point is within the epsilon radius, if connected, then join the reachable core points into one. If not, then create the new cluster for the new core points.
+	Step 4. Border Point will search for nearest core point, then join that cluster.

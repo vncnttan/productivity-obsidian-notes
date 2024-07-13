@@ -6,7 +6,7 @@
 - [x] 08:00 - 09:40 **UAS** Computational Biology
 
 9 July 2024
-- [ ] 13:00 - 15:00 **UAS** Machine Learning
+- [x] 13:00 - 15:00 **UAS** Machine Learning
 
 11 July 2024
 - [x] UAS RM End (Online)
@@ -24,6 +24,7 @@
 Correction BDP Revision Final Exam
 - [ ] BA01 - ko JD
 - [ ] BB01 - ko JD
-- [ ] BF01 -  On Progress
+- [x] BE01 - On Progress
+- [x] BF01 -  On Progress
 - [ ] BG01 - ko JD
 - [ ] BK01 - ko JD

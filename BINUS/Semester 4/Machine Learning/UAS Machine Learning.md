@@ -38,3 +38,4 @@ Boosting bekerja dengan memasukkan data menuju ke beberapa weak learners secara 
   Trees are created one at a time, existing trees aren't changed
   Gradient Descent is performed to minimize loss
 
+[[MLOps]]
