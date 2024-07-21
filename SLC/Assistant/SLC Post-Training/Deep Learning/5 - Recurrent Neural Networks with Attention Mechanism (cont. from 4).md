@@ -13,6 +13,7 @@ Attention will help model to focus on specific information that will help the ta
 [Attention mechanism: Overview (youtube.com)](https://www.youtube.com/watch?v=fjJOgb-E41w&t=27s)
 
 ![[Pasted image 20240721200659.png]]
+#### How the decoder works:
+![[Pasted image 20240721224208.png]]
 
-
-
+![[Pasted image 20240721224303.png]]
