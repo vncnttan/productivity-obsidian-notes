@@ -70,6 +70,16 @@ Some popular architectures are:
 
 [CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more… | by Siddharth Das | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 
+Example of problem that they are trying to solve:
+- **Vanishing Gradient**
+  Vanishing gradient occurs when gradients, which are used to update the network's weights during backpropagation, become extremely small or "vanish" as they propagate from the output layer to the earlier layers. This phenomenon slows down the training process significantly or even prevents the network from learning effectively.
+  
+  **Solution in Resnet**: Introduce skip connections that allow gradients to flow directly to earlier layers, bypassing some layers.
+
 #### Reading Architectures Layers from papers
 
+Resnet 18: [slc-post-training-deep-learning/Session 03. Convolutional Neural Networks/digit-recognition-using-resnet-18.py at main · vncnttan/slc-post-training-deep-learning (github.com)](https://github.com/vncnttan/slc-post-training-deep-learning/blob/main/Session%2003.%20Convolutional%20Neural%20Networks/digit-recognition-using-resnet-18.py)
+
+![[Pasted image 20240721184752.png]]
 ![[Pasted image 20240721184115.png]]
+
