@@ -21,6 +21,5 @@ Word embeddings can be used for multiple different tasks like:
 
 ![[Pasted image 20240721190341.png]]
 
-
-
 **To obtain word embeddings, you'll need to use an Embedding layer.** This layer takes the integer indices outputted by the Text Vectorization layer and maps them to dense vectors. These vectors are learned during the model training process and capture the semantic and syntactic relationships between words.
+
