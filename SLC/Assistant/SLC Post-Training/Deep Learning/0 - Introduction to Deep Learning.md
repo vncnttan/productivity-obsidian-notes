@@ -1,3 +1,4 @@
+Reminder: Buka course outline di acad juga
 ## Introduction
 
 **Dataset**

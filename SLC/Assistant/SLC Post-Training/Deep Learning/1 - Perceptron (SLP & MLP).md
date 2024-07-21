@@ -27,7 +27,9 @@ Mathematical function that applied to the output of a neuron. It determines whet
 
 ![[Pasted image 20240720103739.png]]
 
-
+Extra: 
+**Softmax function**
+Function that turns a vector of K real values into a vector of K real values that sum to 1.
 # What is Layer?
 Parts of model 
 
