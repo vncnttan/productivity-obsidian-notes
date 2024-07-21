@@ -21,11 +21,15 @@
 - [ ] Post Training Deep Learning
 
 Correction BDP Revision Final Exam
-- [ ] BA01 - ko JD
-- [ ] BB01 - ko JD
-- [ ] BC01 - Done
-- [ ] BD01 - On Progress
-- [x] BE01 - On Progress
-- [x] BF01 -  On Progress
-- [ ] BG01 - ko JD
-- [ ] BK01 - ko JD
+- [x] BA01 - ko JD
+- [x] BB01 - ko JD
+- [x] BC01 - Done
+- [x] BD01 - Done
+- [x] BE01 - Done
+- [x] BF01 -  Done
+- [x] BG01 - ko JD
+- [x] BH01 - Done 
+- [x] BI01 - ko JD
+- [x] BJ01 - Done
+- [x] BK01 - ko JD
+- [x] BL01 - Done
