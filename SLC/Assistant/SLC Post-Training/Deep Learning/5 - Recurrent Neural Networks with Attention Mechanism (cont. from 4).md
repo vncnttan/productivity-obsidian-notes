@@ -15,5 +15,10 @@ Attention will help model to focus on specific information that will help the ta
 ![[Pasted image 20240721200659.png]]
 #### How the decoder works:
 ![[Pasted image 20240721224208.png]]
+Now, for each iteration, the attention will generate the score of importance of each word when trying to predict the translation of the next word.
 
-![[Pasted image 20240721224303.png]]
+![[Pasted image 20240721224831.png]]
+Attention network can specifically be applied to translation:
+- Pink: Sometimes the structure of the sentence can change
+- Blue: Sometimes one word in a language can generate multiple word
+- Green: It will start with a starttoken, and the predictions will end when it predicts the endtoken.
