@@ -12,6 +12,7 @@ Disadvantages:
 - High Complexity
 - Very High Training Difficulty
 - Limited Practicallity
+- Hard to implement because connections grows exponentially for each nodes
 
 To combat these disadvantages, **Restricted Boltzman Machine** is invented. The restriction on connectivity in RBMs make them significantly more practical for real-world applications while still maintaining powerful capabilities.
 
@@ -23,9 +24,12 @@ To combat these disadvantages, **Restricted Boltzman Machine** is invented. The 
 - Often used as the foundation for deeper architectures like Belief Networks
 
 Structure: 
-- Visible Units
+- **Visible Units**
   Represent input data
-- Hidden Units
+- **Hidden Units**
   Learn complex patterns and representations of the input data.
 
-TODO: How does RBM work?
+![[Pasted image 20240723033143.png]]
+
+
+
