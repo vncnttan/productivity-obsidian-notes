@@ -31,5 +31,10 @@ Structure:
 
 ![[Pasted image 20240723033143.png]]
 
-
+Training Steps:
+1. Initialize weight and bias
+2. Sampling on hidden layer
+3. Reconstruct Visible Layer
+4. Update Weight and Bias
+5. Iterate!
 
