@@ -1,4 +1,4 @@
-Deep Learning model that focuses on unsupervised learning
+tesDeep Learning model that focuses on unsupervised learning
 
 **Generative Deep Learning** model that focuses on the ability to generate new data that is similar to the training data that is used to train the model.
 
