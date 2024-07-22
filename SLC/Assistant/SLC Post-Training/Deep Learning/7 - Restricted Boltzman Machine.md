@@ -38,3 +38,4 @@ Training Steps:
 4. Update Weight and Bias
 5. Iterate!
 
+"Strengthen the connections that explain the real data, but weaken the connections that lead to incorrect reconstructions."
