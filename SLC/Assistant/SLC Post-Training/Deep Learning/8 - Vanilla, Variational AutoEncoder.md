@@ -60,3 +60,4 @@ VAE introduces **Kullback Leibler Divergence** that measures of how one probabil
   KL divergence measures the difference between the learned posterior distribution of the latent code (given the input data) and the prior distribution. By minimizing this divergence, the model is pushed to produce latent codes that are closer to the prior, promoting a well-structured latent space.
 
 ![[Pasted image 20240723055037.png]]
+# [Convolutional Variational Autoencoder  |  TensorFlow Core](https://www.tensorflow.org/tutorials/generative/cvae)
