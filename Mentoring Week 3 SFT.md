@@ -10,10 +10,32 @@ Akan di screenshot satu2 lagi kalau udah jadi karena ada pergantian design
 
 Pertanyaan:
 1. Ada yang perlu ditambahin lagi ga?
-2. Kalau mau ditambahin gamifikasi gimana kira-kira, akan berimpact gasih, atau bakal capek-capekin doang secara buat lomba? Worth it kah? Contohnya kayak apa? 
-Takutnya ini kita jadi kurang fokus kah? Apakah penambahan ini bikin bagus atau malah bikin jadi banyak banget tapi malah ga fokus? 
-3. Kan kita ada engineer 4, gaada bisnis. Curhat takut karena gaada anak businessnya, ada saran kah? Menurut kakak ada yang kurang ga dari bisnisnya karena kita terlalu teknikal
+	- Jadiin next stepnya ini aplikasi bisa di IoS aja atau playtore juga gitu 
+	- Menu dikasih text dibawah
+	- Video demo pas usernya buang sampah
+	- Present nya jangan lupa pake samsung
+1. Kalau mau ditambahin gamifikasi gimana kira-kira, akan berimpact gasih, atau bakal capek-capekin doang secara buat lomba? Worth it kah? Contohnya kayak apa? 
+Takutnya ini kita jadi kurang fokus kah? Apakah penambahan ini bikin bagus atau malah bikin jadi banyak banget tapi malah ga fokus?
+	- Tergantung sama target usernya, gabakal efektif untuk orang berumur. Kalau emang tujuan utamanya
+	- Kasih tunjuk missionnya
+	- Kasih kayak achievement
+	- Jangan daily basis, tapi monthly buang berapa dll
+	- Jangan demotivate usernya, usahain accessible semua user nya bisa mencapai
 
+	- Redeem earning points
+	- Bikin simple aja gausah rumit,, 
+	- Sesimple loyalty program aja udah cukup mengajak dan bisa dimasukkin,, tapi kalau gamifikasi yang terlalu sulit gituu gaperlu dibuat gpapa
+
+	- bisa buat level, flash multiplier, dll
+	- bisa mengajar dan mengajak anak2 juga
+	- Leaderboard/Streak (Duolingo inspired)
+
+1. Kan kita ada engineer 4, gaada bisnis. Curhat takut karena gaada anak businessnya, ada saran kah? Menurut kakak ada yang kurang ga dari bisnisnya karena kita terlalu teknikal
+	- Proses design thinkingnya di highlight untuk setiap stepnya
+	- Loyalty, Gamification, ini untuk marketing
+	- Kerjasama partner
+	- Promotenya gimana, sosial account official
+	- Event education
 
 
 Yang mau di presentasiin:
