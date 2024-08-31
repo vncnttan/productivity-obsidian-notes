@@ -15,6 +15,7 @@ Takutnya ini kita jadi kurang fokus kah? Apakah penambahan ini bikin bagus atau 
 3. Kan kita ada engineer 4, gaada bisnis. Curhat takut karena gaada anak businessnya, ada saran kah? Menurut kakak ada yang kurang ga dari bisnisnya karena kita terlalu teknikal
 
 
+
 Yang mau di presentasiin:
 > Prototype
   - Jelasin proses
