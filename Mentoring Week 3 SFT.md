@@ -1,8 +1,5 @@
-Figma
-User flow
+Figma & User flow
 
-> userflow nya benerin
-> 
 
 Progress 60%:
 > Frontend 
@@ -16,7 +13,6 @@ Pertanyaan:
 2. Kalau mau ditambahin gamifikasi gimana kira-kira, akan berimpact gasih, atau bakal capek-capekin doang secara buat lomba? Worth it kah? Contohnya kayak apa? 
 Takutnya ini kita jadi kurang fokus kah? Apakah penambahan ini bikin bagus atau malah bikin jadi banyak banget tapi malah ga fokus? 
 3. Kan kita ada engineer 4, gaada bisnis. Curhat takut karena gaada anak businessnya, ada saran kah? Menurut kakak ada yang kurang ga dari bisnisnya karena kita terlalu teknikal
-
 
 
 Yang mau di presentasiin:
@@ -59,3 +55,9 @@ Cost:
   - Street Interview untuk video
   - Benerin userflow
   - Progress Prototype
+
+Trash Classification User Flow
+![[UserFlow SFT Throw Trash.png]]
+
+Points exchange user flow
+![[UserFlow SFT Exchange Points.png]]
