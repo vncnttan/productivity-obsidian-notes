@@ -7,6 +7,7 @@ M.TID4653 - Primary Instructor
 [[Introduction to Compiler]]
 ### Session 2 - Automata and Language Theory
 [[Finite and Non Finite Automata]]
+[[Regular Expression - Compilation Technique]]
 
 
 ### Session 3
