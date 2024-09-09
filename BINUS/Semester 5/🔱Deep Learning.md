@@ -18,7 +18,7 @@ Neural Network Architecture:
 	  Punya minimal 1 hidden layer
 - Reccurent Neural Network 
 	  Punya feedback loop
-	  Biasanya digunakan untuk data yang sifatnya `sequential (e.g. Weather Report, Text, etc.)`
+	  Biasanya digunakan untuk data yang sifatnya `sequential (e.g. Weather Report, Text, Video, Audio etc.)`
 ### Session 2
 ### Session 3
 ### Session 4
