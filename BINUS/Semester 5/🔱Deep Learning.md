@@ -11,8 +11,14 @@ Contact Melalui Teams
 ### Session 1 - Neural Network Foundations
 [[Basic Deep Learning Teminology]]
 
-
-
+Neural Network Architecture:
+- Single Layer Perceptron 
+	  Tidak ada hidden layer
+- Multi Layer Perceptron 
+	  Punya minimal 1 hidden layer
+- Reccurent Neural Network 
+	  Punya feedback loop
+	  Biasanya digunakan untuk data yang sifatnya `sequential (e.g. Weather Report, Text, etc.)`
 ### Session 2
 ### Session 3
 ### Session 4
