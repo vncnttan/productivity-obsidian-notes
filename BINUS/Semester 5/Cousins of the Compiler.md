@@ -8,3 +8,5 @@ Pascal --> C --> Assembly --> Machine Language
   If there are multiple object files, the linker combines them into a single executable file.
 - Loader
   A program that loads an executable file into memory and prepares it for execution. It's one of the essential components of an operating system.
+  
+![[Pasted image 20240909084202.png]]
