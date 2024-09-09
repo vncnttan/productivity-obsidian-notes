@@ -16,7 +16,7 @@ Web2 (technical)
 Web3 (backend)
 1. Jelasin cara kerja redis! Kenapa harus pake?
 2. Kenapa kamu pilih websocket / HTTP Streaming? Kira kira yang cocok untuk case ini apa? Dan kenapa? Kalau websocket bagus buat chat karena 2 arah, lu send dan receive
-3. Apa itu microservice & Monolithic, terus apk kamu termasuk yang mana?
+3. Apa itu microservice & Monolithic, terus web kamu termasuk yang mana?
 4. Apakah di go, specifically web ada multi threading dan dimana implementasinya (kamu ada pake ga hayoo)? -> yang bisa buat multi threading syntaxnya apa
 5. Apa itu REST API. Apakah ada jenis lain?
 

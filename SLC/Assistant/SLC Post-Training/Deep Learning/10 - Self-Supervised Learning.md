@@ -1,3 +1,5 @@
+==Made by NJ23-1==
+
 Model training method which uses unlabeled data, similar to unsupervised learning.
 The difference are:
 - Unsupervised Learning: Search pattern on the input data to do **clustering**

@@ -1,3 +1,5 @@
+==Made by NJ23-1==
+
 Type of machine learning training method where an agent learns to make decisions by interacting with its environment to achieve maximum rewards.
 
 ![[Pasted image 20240723150444.png]]
@@ -14,3 +16,15 @@ An agent needs to find a balance between **exploration** (trying new actions to 
 This can be controlled by the exploration rate, determining how often the agent explores vs. exploits.
 
 ![[Pasted image 20240723152347.png]]
+
+
+
+# Credits
+Credits to ==VBL Makers==
+- SN23-1
+- IR23-1
+- JR22-1
+- MY23-1
+- OO23-1
+- KS23-1
+- NC23-1

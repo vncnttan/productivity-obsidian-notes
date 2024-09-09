@@ -1,3 +1,4 @@
+==Made by NJ23-1==
 #### Attention Mechanism
 Technique that allows model to choose and focus on specific (important) part of the input data. It helps our model to give more *attention* to relevant/important features when creating decision or generating an output.
 

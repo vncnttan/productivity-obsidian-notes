@@ -1,3 +1,5 @@
+==Made by NJ23-1==
+
 Neural network architecture that is usually used for image classification and identification. This architecture used convolutional layers to extract important features from images. This can be achieved by using filter/small kernel that is **shifted** through the entire picture to detect feature and patterns.
 
 The magic of CNN:

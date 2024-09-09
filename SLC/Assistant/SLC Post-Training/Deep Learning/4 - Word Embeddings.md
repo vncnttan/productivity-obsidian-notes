@@ -1,5 +1,7 @@
 Essentially, converting words (that human understands) to numbers (that machine understands).
 
+==Made by NJ23-1==
+
 **Text Vectorization vs. Word Embeddings**:
 - **Text vectorization** is like assigning numbers to words based on their position in a sentence, without considering their meaning.
 - **Embedding layer** is like learning to represent words as points in a space where similar words are closer together.

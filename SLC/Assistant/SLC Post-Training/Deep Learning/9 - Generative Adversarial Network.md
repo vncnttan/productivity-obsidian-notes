@@ -1,3 +1,5 @@
+==Made by NJ23-1==
+
 Artificial intelligence algorithm used in **unsupervised machine learning** that consists of two networks:
 - Generator
 - Discriminator

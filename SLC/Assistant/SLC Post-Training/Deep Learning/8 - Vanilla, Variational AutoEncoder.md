@@ -1,3 +1,5 @@
+==Made by NJ23-1==
+
 Unsupervised Artificial Neural Network that learns how to efficiently compress and encode data then learns how to reconstruct the data back from the reduced encoded representation to a representation that is as close to the original input as possible.
 
 ![[Pasted image 20240723052951.png]]
