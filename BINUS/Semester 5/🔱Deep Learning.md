@@ -8,8 +8,10 @@ Contact Melalui Teams
 - Saat projek & latihan dosen disarankan menggunakan pytorch
 - Ketika buat team, dia suka kalau ada perbandingan model beda2 dan dikerjakan dengan orang berbeda (A kerjain resnet, B kerjain googlenet, compare dll)
 - Meminta video untuk menjelaskan apa yang dibuat
-
 ### Session 1 - Neural Network Foundations
+[[Basic Deep Learning Teminology]]
+
+
 
 ### Session 2
 ### Session 3

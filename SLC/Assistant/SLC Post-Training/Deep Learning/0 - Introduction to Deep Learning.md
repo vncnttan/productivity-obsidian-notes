@@ -1,4 +1,6 @@
 Reminder: Buka course outline di acad juga
+
+[[Basic Deep Learning Teminology]]
 ## Introduction
 
 **Dataset**
