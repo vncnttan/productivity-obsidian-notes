@@ -5,13 +5,10 @@ EKA CAHYADI, S.Kom.,
 M.TID4653 - Primary Instructor
 ### Session 1 - Introduction to Compiler
 [[Introduction to Compiler]]
+### Session 2 - Automata and Language Theory
+[[Finite and Non Finite Automata]]
 
 
-
-
-
-
-### Session 2
 ### Session 3
 ### Session 4
 ### Session 5
