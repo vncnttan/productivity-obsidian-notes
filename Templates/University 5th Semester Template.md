@@ -1,5 +1,5 @@
 __ Session - __ SKS
-#COMPSCIBINUS🏫2ndSEM *onehashtagsubject*
+#COMPSCIBINUS🏫5thSEM *onehashtagsubject*
 
 ### Session 1
 ### Session 2
