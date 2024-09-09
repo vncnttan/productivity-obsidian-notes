@@ -4,20 +4,9 @@
 EKA CAHYADI, S.Kom., 
 M.TID4653 - Primary Instructor
 ### Session 1 - Introduction to Compiler
+[[Introduction to Compiler]]
 
-Learn how the code is compiled for the computer to be translated to the machine language
 
-UAS Example:
-Please translate the code to intermediate code generation!
-
-Pascal --> C --> Assembly --> Machine Language
-- Assembler
-  Translating from assembly to machine language
-	`Under the hood: when you include stdio.h in C, it will copy the entire code of stdio into your code`
-- Linker
-  If there are multiple object files, the linker combines them into a single executable file.
-- Loader
-  A program that loads an executable file into memory and prepares it for execution. It's one of the essential components of an operating system.
 
 
 
