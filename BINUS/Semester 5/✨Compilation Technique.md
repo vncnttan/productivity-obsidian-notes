@@ -11,7 +11,8 @@ UAS Example:
 Please translate the code to intermediate code generation!
 
 Pascal --> C --> Assembly --> Machine Language
-- Assembler: Translating from assembly to machine language
+- Assembler
+  Translating from assembly to machine language
 	`Under the hood: when you include stdio.h in C, it will copy the entire code of stdio into your code`
 - Linker
   If there are multiple object files, the linker combines them into a single executable file.
