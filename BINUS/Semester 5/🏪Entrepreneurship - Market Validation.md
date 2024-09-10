@@ -4,6 +4,8 @@
 - Setiap pertemuan akan ada presentasi kelompok
 
 ### Session 1 - Introduction and Roleplay
+- Buat dapet point plus, butuh **bisa jualan** dan **analisa hasil** dari marketnya
+
 
 
 ### Session 2
