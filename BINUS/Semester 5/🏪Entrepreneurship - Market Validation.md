@@ -5,8 +5,11 @@
 
 ### Session 1 - Introduction and Roleplay
 - Buat dapet point plus, butuh **bisa jualan** dan **analisa hasil** dari marketnya
+![[Pasted image 20240910174328.png]]
 
 
+- Bisanara : Website untuk penjualan online
+- BEC Apps: Untuk mendaftarkan kelompok di BCF biar bisa dialokasikan di BINUS Festival
 
 ### Session 2
 ### Session 3
