@@ -7,7 +7,6 @@
 - Buat dapet point plus, butuh **bisa jualan** dan **analisa hasil** dari marketnya
 ![[Pasted image 20240910174328.png]]
 
-
 - Bisanara : Website untuk penjualan online
 - BEC Apps: Untuk mendaftarkan kelompok di BCF biar bisa dialokasikan di BINUS Festival
 
@@ -15,7 +14,19 @@
 Syarat ide:
 1. Harus sesuai dengan customer segmentation
 	`contoh: Untuk aplikasi dari sisi penjual yang segmentasinya orang yang pemula dalam hal teknologi, seharusnya bisa interfacenya lebih mudah, fontnya lebih besar, dan sequence/featurenya simple 
-2. 
+2. Harus disangkutpautkan dengan Computer Science
+
+Q: Harus bisa diimplementasikan ga? Kayak kalau partner bisnisnya unreachable?
+A: Benchmarknya yang penting ngerti secara mendalam, ga asal ajaa
+`Analisa, tau vendornya apa aja, tau harus kerjasama dengan apa, bisa mengetahui studi kelayakan bisnisny, itu point plus`
+
+   `Jadi intinya aplikasinya harus sesuai dengan prototype yang dibuat`
+   `Harus survey pasar & customer segment, jadinya bisa berempati dengan orang lain`
+   `Harus tau customer segmentnya, dan bisa menganalisa lebih dalem dan serius`
+
+#### Customer Segmentation
+❌ `Seluruh masyarakat Indonesia`
+✅ `Masyarakat yang tinggal di kawasan jabodetabek dengan lingkup umur 18 - 20 dengan asumsi mereka lebih mengerti teknologi, tralalala`
 
 Contoh ide:
 - BeeNitip
