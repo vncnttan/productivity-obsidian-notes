@@ -11,6 +11,15 @@
 - Bisanara : Website untuk penjualan online
 - BEC Apps: Untuk mendaftarkan kelompok di BCF biar bisa dialokasikan di BINUS Festival
 
+
+Syarat ide:
+1. Harus sesuai dengan customer segmentation
+	`contoh: Untuk aplikasi dari sisi penjual yang segmentasinya orang yang pemula dalam hal teknologi, seharusnya bisa interfacenya lebih mudah, fontnya lebih besar, dan sequence/featurenya simple 
+2. 
+
+Contoh ide:
+- BeeNitip
+- Marketplace untuk petani yang langsung dari sumbernya (dari petani-petaninya secara langsung)
 ### Session 2
 ### Session 3
 ### Session 4
