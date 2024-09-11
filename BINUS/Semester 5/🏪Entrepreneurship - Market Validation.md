@@ -31,6 +31,9 @@ A: Benchmarknya yang penting ngerti secara mendalam, ga asal ajaa
 Contoh ide:
 - BeeNitip
 - Marketplace untuk petani yang langsung dari sumbernya (dari petani-petaninya secara langsung)
+
+Next Session Presentation:
+- Explaining Questions, the key idea, and product
 ### Session 2
 ### Session 3
 ### Session 4
