@@ -34,6 +34,9 @@ Contoh ide:
 
 Next Session Presentation:
 - Explaining Questions, the key idea, and product
+
+[[Internal Meetings 13-09-2024]]
+
 ### Session 2
 ### Session 3
 ### Session 4
