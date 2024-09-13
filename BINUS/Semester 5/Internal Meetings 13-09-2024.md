@@ -23,7 +23,6 @@
 		Wellend 9-10
 	- [x] Buat canva presentasi
 	     [Canva Presentation (canva.com)](https://www.canva.com/design/DAGQpvb9xN4/MejPdvrP0qBld2qQrT7cMw/edit)
-	     
 
 Next Session Presentation:
 - Explaining Questions, the key idea, and product
