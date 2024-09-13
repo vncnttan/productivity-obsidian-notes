@@ -1,3 +1,7 @@
+Link recording:
+https://binusianorg-my.sharepoint.com/personal/nicholas_suhendi_binus_edu/_layouts/15/guestaccess.aspx?share=EfG3jA90vlZNqKGYhaVA3NIBxAWbvjxyK85e4-8d2-9gfQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e9nmQ0
+by Irvin
+
 #### Enrichment
 **Pilih dari 7 track yang diberikan:**
 - Certified Internship
@@ -65,5 +69,8 @@ Fast Track Binus Business School
 - Knowledge
 - Social Innovation Camp (setahun sekali) -> Bekerja sebagai socialpreneur
 - Sebelum wisuda bertemu dengan coach
+
+Contact Center:
+https://linktr.ee/contactEnrichmentSoCS?fbclid=PAZXh0bgNhZW0CMTEAAabl2ic6ZX0Uo-U84PSI2d2Z6XYYcmZe067oXQnYVo_eGMe-8eYTboUM5Pw_aem_xKZ0e1zqrNy6GynKMCIMIw
 
 -- Yang penting di awal2 aja sih sbnrnya, sisanya mereka kayak promosi buat kita ikut tracknya mereka
