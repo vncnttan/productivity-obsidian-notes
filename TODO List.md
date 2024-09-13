@@ -3,15 +3,15 @@
 
 ### URGENT + IMPORTANT
 *Do it now*
-- [ ] Briefing Entre
+- [x] Briefing Entre
 - [ ] Rangkuman Briefing 
 - [ ] Leetcode
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] Test emulator setelah di wipe
+- [ ] Backend QR
+- [ ] Ada bug sepertinya pada saat login dan di hosting
 
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
@@ -21,6 +21,6 @@
 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
-- [ ] Task 1
+- [ ] Follow Up SLCatering API Problem
 - [ ] Task 2
 - [ ] Task 3

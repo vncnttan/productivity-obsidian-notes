@@ -1,7 +1,22 @@
-Fast Track Binus Business School
-- Knowledge
-- Social Innovation Camp (setahun sekali) -> Bekerja sebagai socialpreneur
-- Sebelum wisuda bertemu dengan coach
+#### Enrichment
+**Pilih dari 7 track yang diberikan:**
+- Certified Internship
+- Certified Community Development
+- Certified Research
+- Certified Entrepreneurship
+- Certified Study Abroad
+- Certified Specific Independent Study
+- Fast Track
+
+##### Syarat
+- Binusian Aktif
+- IPK > 2.00 & Lulus 15 SKS
+- Lulus semua course english beelingua
+- Melunasi pembayaran BP3 dan SKS sesuai pada kalender registrasi perkuliahan
+
+##### Notes:
+- Kesempatan pilih **1 kali** doang! (Gabisa diubah / mengundurkan diri dari enrichment program yang dipilih)
+- Max. **5 partner & vacancy** (Kecuali CE, cuman bisa pilih satu partner & vacancy)
 
 **Tanggal 17 September dibuka!!**
 Langkah registrasi:
@@ -13,7 +28,6 @@ Langkah registrasi:
 
 Internship
 - Login Acadservice > Support > Letter Request > Survey Letter Request -> Pemesanan surat magang
-
 
 #### Schema Pre Thesis and Thesis
 ![[Pasted image 20240913133828.png]]
@@ -47,6 +61,9 @@ Ikut study yang dipilihh
 
 #### Others
 Master Track Bisnis & Accounting
-
+Fast Track Binus Business School
+- Knowledge
+- Social Innovation Camp (setahun sekali) -> Bekerja sebagai socialpreneur
+- Sebelum wisuda bertemu dengan coach
 
 -- Yang penting di awal2 aja sih sbnrnya, sisanya mereka kayak promosi buat kita ikut tracknya mereka
