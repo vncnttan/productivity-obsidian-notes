@@ -1,5 +1,6 @@
 13 Session - 2 SKS
 #COMPSCIBINUS🏫5thSEM #AI 
+
 ```
 Lab 30%
 Mid Exam 20%
@@ -22,7 +23,14 @@ Final Project Requirements:
 - Harus di launch di gradio, dll. (Di final paper dibandingin semua, tapi yang di launch di apk ambil yang terbaik aja)
 - Group 3 orang
 
-Traffic Light yang detect mobil
+Grading Components:
+- Github and invite hamhanry@gmail.com
+- Host model on Huggingface using GradioFamework or any UI related that can be installed
+- Final Report (TBA) 
+
+Listing Ide:
+- Traffic Light yang detect mobil
+- Ballot
 Pastikan mengerti :D
 
 
