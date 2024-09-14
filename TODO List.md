@@ -9,15 +9,15 @@
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Test emulator setelah di wipe
-- [ ] Backend QR
-- [ ] Ada bug sepertinya pada saat login dan di hosting
 
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] Tanda tangan ibu harefa (SFT)
-- [ ] LSC Session Log 
+- [x] LSC Session Log 
 - [ ] Ambil papan dari gedung parkir
+- [ ] Test emulator setelah di wipe
+- [ ] Backend QR
+- [ ] Ada bug sepertinya pada saat login dan di hosting
 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
