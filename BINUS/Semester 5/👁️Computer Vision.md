@@ -8,6 +8,25 @@ Final Project 50%
 
 ### Session 1 - Introduction to Computer Vision and Image Formation
 
+Final Project Requirements:
+- Familiarize area in computer vision
+	- Detection
+	- Recognition
+	- Classification
+	- Segmentation
+- Look up nearby, pick 1 problem to solve
+- Pastikan saat propose suatu metode, pastiin ada:
+	  - 2 Deep Learning Methods
+	  - 2 Traditional Methods
+- Boleh Fine Tuning Pre-Trained Model
+- Harus di launch di gradio, dll. (Di final paper dibandingin semua, tapi yang di launch di apk ambil yang terbaik aja)
+- Group 3 orang
+
+Traffic Light yang detect mobil
+Pastikan mengerti :D
+
+
+
 ### Session 2
 ### Session 3
 ### Session 4
