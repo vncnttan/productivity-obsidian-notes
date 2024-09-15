@@ -4,20 +4,24 @@
 ### URGENT + IMPORTANT
 *Do it now*
 - [x] Briefing Entre
-- [ ] Rangkuman Briefing 
+- [x] Rangkuman Briefing 
 - [ ] Leetcode
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-
+- [ ] User flow and Final Paper
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] Tanda tangan ibu harefa (SFT)
 - [x] LSC Session Log 
-- [ ] Ambil papan dari gedung parkir
+- [x] Ambil papan dari gedung parkir
 - [ ] Test emulator setelah di wipe
 - [ ] Backend QR
+- [ ] Passing ke frontend
+- [ ] Websocket
 - [ ] Ada bug sepertinya pada saat login dan di hosting
+- [ ] Create Post for SFT Instagram Official
+
 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*

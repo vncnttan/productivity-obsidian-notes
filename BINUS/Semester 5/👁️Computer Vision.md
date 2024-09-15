@@ -8,7 +8,6 @@ Final Project 50%
 ```
 
 ### Session 1 - Introduction to Computer Vision and Image Formation
-
 Final Project Requirements:
 - Familiarize area in computer vision
 	- Detection
@@ -32,9 +31,6 @@ Listing Ide:
 - Traffic Light yang detect mobil
 - Ballot
 Pastikan mengerti :D
-
-
-
 ### Session 2
 ### Session 3
 ### Session 4
