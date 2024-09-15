@@ -10,6 +10,7 @@
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [ ] User flow and Final Paper
+- [ ] Affinity Diagram
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] Tanda tangan ibu harefa (SFT)
