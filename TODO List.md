@@ -6,7 +6,6 @@
 - [x] Briefing Entre
 - [x] Rangkuman Briefing 
 - [ ] Leetcode
-
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] User flow and Final Paper
@@ -23,8 +22,6 @@
 - [ ] Websocket
 - [ ] Ada bug sepertinya pada saat login dan di hosting
 - [ ] Create Post for SFT Instagram Official
-
-
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] Follow Up SLCatering API Problem
