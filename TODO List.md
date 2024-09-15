@@ -9,14 +9,15 @@
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] User flow and Final Paper
-- [ ] Affinity Diagram
+- [x] User flow and Final Paper
+- [x] Affinity Diagram
+- [ ] Foto Rumah Sampah yang udah jadi
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] Tanda tangan ibu harefa (SFT)
 - [x] LSC Session Log 
 - [x] Ambil papan dari gedung parkir
-- [ ] Test emulator setelah di wipe
+- [x] Test emulator setelah di wipe
 - [ ] Backend QR
 - [ ] Passing ke frontend
 - [ ] Websocket
