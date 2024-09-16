@@ -29,5 +29,5 @@
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] Follow Up SLCatering API Problem
-- [ ] Task 2
-- [ ] Task 3
+- [ ] Login page slcatering ganti UI label password jadi username
+- [ ] Tombol logout di slcatering user
