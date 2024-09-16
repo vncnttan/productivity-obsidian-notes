@@ -26,6 +26,7 @@
 - [ ] Tagih utang ko JD, BL
 - [ ] Koreksi VK
 - [ ] Bayar Utang DT
+- [ ] Shooting ngobrol sama 1 orang pegang HP, shooting ngobrol sama 1 orang pegang Laptop 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] Follow Up SLCatering API Problem
