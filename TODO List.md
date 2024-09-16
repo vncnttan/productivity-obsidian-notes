@@ -11,6 +11,7 @@
 - [x] User flow and Final Paper
 - [x] Affinity Diagram
 - [ ] Foto Rumah Sampah yang udah jadi
+- [ ] PPT Entre
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] Tanda tangan ibu harefa (SFT)
@@ -22,6 +23,9 @@
 - [ ] Websocket
 - [ ] Ada bug sepertinya pada saat login dan di hosting
 - [ ] Create Post for SFT Instagram Official
+- [ ] Tagih utang ko JD, BL
+- [ ] Koreksi VK
+- [ ] Bayar Utang DT
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] Follow Up SLCatering API Problem
