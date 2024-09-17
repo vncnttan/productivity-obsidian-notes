@@ -38,6 +38,8 @@ Next Session Presentation:
 [[Internal Meetings 13-09-2024]]
 
 ### Session 2
+10 Questions that will help to explain the key idea, product, & market.
+
 ### Session 3
 ### Session 4
 ### Session 5
