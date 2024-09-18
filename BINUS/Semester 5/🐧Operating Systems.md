@@ -20,6 +20,11 @@ Because virtualization is a step in abstraction
 
 1 process is usually for 1 instructions only
 
+CPU is many times faster than memory
+While waiting the memory, cpu can do other things (do another task that is more important)
+
+[[Data Structure in Process]]
+
 
 ### Session 3
 ### Session 4
