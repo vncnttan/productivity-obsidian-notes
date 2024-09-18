@@ -22,6 +22,7 @@
 - [x] Passing ke frontend
 - [ ] Websocket
 - [ ] Ada bug sepertinya pada saat login dan di hosting
+- [ ] SFT Photo Competition
 - [ ] Create Post for SFT Instagram Official
 - [x] Tagih utang ko JD, BL
 - [x] Koreksi VK

@@ -10,7 +10,17 @@ Because virtualization is a step in abstraction
 
 
 
-### Session 2
+### Session 2 - Process Control
+- Process Spawning
+  OS creates a process at the explicit request of another process
+- Parent Process
+  The original process that creating the child process
+- Child Process
+  The new process being created
+
+1 process is usually for 1 instructions only
+
+
 ### Session 3
 ### Session 4
 ### Session 5
