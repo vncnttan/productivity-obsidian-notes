@@ -11,6 +11,7 @@ Because virtualization is a step in abstraction
 
 
 ### Session 2 - Process Control
+Nonton recording Sesi 2 :(
 - Process Spawning
   OS creates a process at the explicit request of another process
 - Parent Process
@@ -25,7 +26,12 @@ While waiting the memory, cpu can do other things (do another task that is more 
 
 [[Data Structure in Process]]
 
+Two State Process Model
 
+Swapping
+Process pindah ke disk
+
+Ke memory costnya mahal 
 ### Session 3
 ### Session 4
 ### Session 5
