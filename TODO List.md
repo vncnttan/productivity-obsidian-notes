@@ -25,11 +25,12 @@
 - [x] Passing ke frontend
 - [x] Websocket
 - [ ] Create Migration di VPS
+- [ ] Fix Bug History Transaction
 - [ ] Testing Payment Gateway
-- [ ] Buat Payment Gateway
+- [x] Buat Payment Gateway
 - [ ] Ada bug sepertinya pada saat login dan di hosting
 - [x] SFT Photo Competition
-- [ ] Create Post for SFT Instagram Official]
+- [ ] Create Post for SFT Instagram Official
 - [x] Tagih utang ko JD, BL
 - [ ] Koreksi VK
 - [x] Bayar Utang DT
