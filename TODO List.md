@@ -33,3 +33,5 @@
 - [x] Follow Up SLCatering API Problem
 - [ ] Login page slcatering ganti UI label password jadi username
 - [ ] Tombol logout di slcatering user
+- [ ] Masukkin leetcode ke github
+- [ ] 
