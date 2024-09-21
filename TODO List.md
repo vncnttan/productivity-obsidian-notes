@@ -12,9 +12,9 @@
 - [x] Affinity Diagram
 - [x] Revisi Paper
 - [x] Foto Rumah Sampah yang udah jadi
-- [ ] Photo Competition SFT
-- [ ] Ambil surat Tanda tangan ibu harefa (SFT) dari lantai 3
-- [ ] Beresin meja
+- [x] Photo Competition SFT
+- [x] Ambil surat Tanda tangan ibu harefa (SFT) dari lantai 3
+- [x] Beresin meja
 - [x] PPT Entre
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
@@ -23,7 +23,7 @@
 - [x] Test emulator setelah di wipe
 - [x] Backend QR
 - [x] Passing ke frontend
-- [ ] Websocket
+- [x] Websocket
 - [ ] Ada bug sepertinya pada saat login dan di hosting
 - [ ] SFT Photo Competition
 - [ ] Create Post for SFT Instagram Official]
@@ -37,4 +37,4 @@
 - [ ] Login page slcatering ganti UI label password jadi username
 - [ ] Tombol logout di slcatering user
 - [ ] Masukkin leetcode ke github
-- [ ] 
+

@@ -31,7 +31,14 @@ Listing Ide:
 - Traffic Light yang detect mobil
 - Ballot
 Pastikan mengerti :D
-### Session 2
+### Session 2 - Image Processing I
+- Point Processing
+- Image Filtering
+- Linear Filter
+- Gaussian Filter
+
+
+
 ### Session 3
 ### Session 4
 ### Session 5
