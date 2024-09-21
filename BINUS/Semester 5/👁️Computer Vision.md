@@ -43,13 +43,22 @@ Collecting something based of the quantity only,, so in histogram, it will count
 ![[Pasted image 20240921080958.png]]
 
 Histogram Equalization:
+Used to equalize images that tend to dark or tend to light, so now the pixel for multiple images will be balanced.
 Steps:
 1. Create Quantization
 2. Change pixel here and there to create more equalized histogram for the image
 
 Bin:
 1. Create 4 bin (new class)
-2. 
+2. Used to boost speed while not sacrificing too much performance
+
+FFT: 
+If you have the template, you can apply it too to other images
+
+Gamma mapping:
+Decrease the contrast in dark and light gray level.
+
+
 
 
 
