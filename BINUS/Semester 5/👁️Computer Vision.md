@@ -37,6 +37,21 @@ Pastikan mengerti :D
 - Linear Filter
 - Gaussian Filter
 
+#### Quantization
+	`Example: Histogram`
+Collecting something based of the quantity only,, so in histogram, it will count (quantizise) the value in the pixel and convert it to diagram
+![[Pasted image 20240921080958.png]]
+
+Histogram Equalization:
+Steps:
+1. Create Quantization
+2. Change pixel here and there to create more equalized histogram for the image
+
+Bin:
+1. Create 4 bin (new class)
+2. 
+
+
 
 
 ### Session 3
