@@ -24,6 +24,9 @@
 - [x] Backend QR
 - [x] Passing ke frontend
 - [x] Websocket
+- [ ] Create Migration di VPS
+- [ ] Testing Payment Gateway
+- [ ] Buat Payment Gateway
 - [ ] Ada bug sepertinya pada saat login dan di hosting
 - [ ] SFT Photo Competition
 - [ ] Create Post for SFT Instagram Official]

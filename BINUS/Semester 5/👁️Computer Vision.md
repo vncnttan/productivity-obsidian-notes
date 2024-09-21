@@ -60,7 +60,11 @@ Decrease the contrast in dark and light gray level.
 
 
 
+Linear Filter:
+- No Change, just smaller image. Box filter with 1 in the middle but 0 out
 
+Gaussian Filter:
+- Weight contributions of neighboring pixels by nearness
 
 
 ### Session 3
