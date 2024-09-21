@@ -40,4 +40,4 @@
 - [ ] Login page slcatering ganti UI label password jadi username
 - [ ] Tombol logout di slcatering user
 - [ ] Masukkin leetcode ke github
-
+- [ ] Clean C:/ laptop
