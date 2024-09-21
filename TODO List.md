@@ -28,7 +28,7 @@
 - [ ] Testing Payment Gateway
 - [ ] Buat Payment Gateway
 - [ ] Ada bug sepertinya pada saat login dan di hosting
-- [ ] SFT Photo Competition
+- [x] SFT Photo Competition
 - [ ] Create Post for SFT Instagram Official]
 - [x] Tagih utang ko JD, BL
 - [ ] Koreksi VK
