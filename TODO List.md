@@ -22,4 +22,5 @@
 - [ ] Di Catering Detail gabisa liat harga?
 - [ ] Clean C:/ laptop
 - [ ] remove print and console log
-- [ ] Remove placeholder api
+- [ ] Remove placeholder api SLCatering
+- [ ] Observable API
