@@ -109,3 +109,4 @@ The classic momentum formula
 
 Momentum almost always is lower than the learning rate.
 
+#### How to calculate the gradient?
