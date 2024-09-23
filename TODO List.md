@@ -1,4 +1,3 @@
-
 # Eisenhower Matrix ✅
 
 ### URGENT + IMPORTANT
@@ -31,6 +30,7 @@
 - [ ] Koreksi VK
 - [x] Bayar Utang DT
 - [x] Shooting ngobrol sama 1 orang pegang HP, shooting ngobrol sama 1 orang pegang Laptop 
+- [ ] Checkout Frontend Auth
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [x] Follow Up SLCatering API Problem
