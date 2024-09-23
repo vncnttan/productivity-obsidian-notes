@@ -110,3 +110,9 @@ The classic momentum formula
 Momentum almost always is lower than the learning rate.
 
 #### How to calculate the gradient?
+
+![[Pasted image 20240923143713.png]]
+![[Pasted image 20240923143725.png]]
+
+The complexity if you added the hidden layer is always more than creating new neuron in the hidden layer. The chain rule will get longer.
+
