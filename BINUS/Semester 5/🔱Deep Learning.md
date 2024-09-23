@@ -20,7 +20,33 @@ Neural Network Architecture:
 	  Punya feedback loop
 	  Biasanya digunakan untuk data yang sifatnya `sequential (e.g. Weather Report, Text, Video, Audio etc.)`
 
-### Session 2
+### Session 2 - Backpropagation Neural Network
+Linearly Separable: 
+
+- Hyperparameter
+	Things that influencing the model which the **value is the result of trial and error that the AI engineer decides**.
+- Parameter
+	Things that influencing the model which the **value is the result of the training process**.
+	`example: Weights and biases`
+
+- Process Forward
+  Process to get output
+- Process Backward
+  Iteration process the model changes the weight values
+
+`1 Epoch: 1 Forward process + 1 Backward process`
+
+When building the model, at first we initialize:
+- **Architecture**
+- **Initial weight** (can be given negative number)
+- **Learning Rate** (0 - 1)
+
+Weight initialization will depends on the library used (tf or keras), but when not using library, **random value** is given.
+[[0 - Introduction to Deep Learning]]
+[[1 - Perceptron (SLP & MLP)]]
+[[2 - Regression]]
+
+
 ### Session 3
 ### Session 4
 ### Session 5
