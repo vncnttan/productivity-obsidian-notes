@@ -46,6 +46,7 @@ Weight initialization will depends on the library used (tf or keras), but when n
 [[1 - Perceptron (SLP & MLP)]]
 [[2 - Regression]]
 
+In the end of the day, the neural network is uninpretable, (there is still a black box in the middle), which we don't know how it works. We don't know which feature is given attention etc in ANN, not like Decision Tree, which we know how it creates decision.
 
 ### Session 3
 ### Session 4

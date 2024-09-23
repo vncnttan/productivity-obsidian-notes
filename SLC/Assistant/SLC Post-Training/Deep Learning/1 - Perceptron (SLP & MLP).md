@@ -30,6 +30,17 @@ Mathematical function that applied to the output of a neuron. It determines whet
 Extra: 
 **Softmax function**
 Function that turns a vector of K real values into a vector of K real values that sum to 1.
+
+
+Which activation function do I choose?
+- For Regression problem which the output can vary
+  Don't use tanh (which produces -1 to 1)
+    - **Linear is more suitable**
+- For Classification:
+  Relu, Sigmoid, Tanh
+    - **Don't use relu if the output cannot be negative**
+    - **If it ranges from -1 to 1, use tanh**
+    - **Use softmax if we want the probability of the class**
 # What is Layer?
 Parts of model 
 
@@ -84,4 +95,17 @@ Popular Optimizers are:
 ![[Pasted image 20240720154500.png]]
 More about optimizers: [(17) Optimizers - EXPLAINED! - YouTube](https://www.youtube.com/watch?v=mdKjMPmcWjY)\
 
+
+# Backpropagation
+Training process is how we can found the suitable weight which will capture the pattern from the input and output.
+
+#### Without momentum
+![[Pasted image 20240923140824.png]]
+The classic momentum formula
+
+#### With momentum
+![[Pasted image 20240923141026.png]]
+`With momentum, the weight update will be affected by the previous weight update. It doesn't only look at the current state, but also look at the previous state/iteration`
+
+Momentum almost always is lower than the learning rate.
 
