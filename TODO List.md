@@ -24,4 +24,6 @@
 - [ ] Clean C:/ laptop
 - [ ] remove print and console log
 - [ ] Remove placeholder api SLCatering
-- [ ] Observable API
+- [ ] Observable API Portfolio
+- [ ] Gallery B&W, ketika di hover berwarna
+- [ ] 
