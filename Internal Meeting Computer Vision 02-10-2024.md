@@ -1,0 +1,8 @@
+- [ ] Kesimpulan dari kemaren ngobrol sama bapaknya
+	- [x] Tentang traditional methods
+	- [x] Fokus ke 1 task aja -> Recognition
+	- [ ] OBB -> Kotaknya ga lurus, 
+- [ ] Approach yang diambil
+	- [ ] Model
+	- [ ] Preprocessing
+- [ ] Timeline
