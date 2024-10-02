@@ -15,10 +15,15 @@
 		- [ ] SVM
 		- [ ] Random Forest (RFC)
 - [ ] Timeline
+	- [ ] 9 September - Roboflow selesai (SR)
+	- [ ] 16 September - Preprocessing selesai (nanti dibahas lagi setelah Roboflow selesai)
+	- [ ] 26 September udah jadi :D
 
 Task:
 1. Figure out Roboflow -> Dapetin dataset image yang udah ke crop 
 2. Preprocessing -> Sampe thresh nya sebagus mungkin
 3. Modelnya satu orang handle 2 model.
+
+
 Pilih salah satu untuk preprocessingnya, yang dibandingin modelnya aja
 Tapi untuk pipelinenya perlu dijelasin lengkap dan ngerti
