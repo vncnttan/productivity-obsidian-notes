@@ -11,7 +11,7 @@
       - Scratch
       - Fine Tuning [TrOCR (huggingface.co)](https://huggingface.co/docs/transformers/en/model_doc/trocr)
       - Fine Tuning [How to Fine-Tune EasyOCR with a Synthetic Dataset (freecodecamp.org)](https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/)
-	  - Traditional methods?
+	  - Traditional methods
 - [x] Timeline
       28 September
 

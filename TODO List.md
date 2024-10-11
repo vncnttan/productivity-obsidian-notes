@@ -27,5 +27,5 @@
 - [ ] remove print and console log
 - [ ] Remove placeholder api SLCatering
 
-Portofolio
-- [ ] Observable API
+- [ ] Observable API Portfolio
+- [ ] Gallery B&W, ketika di hover berwarna
