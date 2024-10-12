@@ -3,7 +3,7 @@
 - [ ] Ada bug sepertinya pada saat login dan di hosting
 ## Frontend Task
 - [ ] Login page slcatering ganti UI label password jadi username
-- [ ] Checkout Responsive
+- [x] Checkout Responsive
 ## Backend Task
 - [ ] Remove print and console log
 - [ ] Remove placeholder api SLCatering
