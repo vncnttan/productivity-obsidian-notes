@@ -1,0 +1,14 @@
+## General Task
+- [ ] Close Catering Feature
+- [ ] Ada bug sepertinya pada saat login dan di hosting
+## Frontend Task
+- [ ] Login page slcatering ganti UI label password jadi username
+- [ ] Checkout Responsive
+## Backend Task
+- [ ] Remove print and console log
+- [ ] Remove placeholder api SLCatering
+- [ ] Testing Payment Gateway
+## Additional Task
+- [ ] QRIS Implementation
+- [ ] Testing
+- [ ] Implement multiple merchant payment gateway

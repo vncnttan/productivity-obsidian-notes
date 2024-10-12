@@ -1,0 +1,3 @@
+- [ ] Gallery B&W, ketika di hover berwarna
+- [ ] Buat kalau main banner di hover dia gerak jadi gif
+- [ ] Dark mode
