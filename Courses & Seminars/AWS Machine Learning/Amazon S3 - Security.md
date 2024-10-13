@@ -62,4 +62,6 @@ Easier to implement, can use client libraries such as **Amazon S3 Client-Side En
 This means deny when the request sent is using HTTP (where the SecureTransport is false), not HTTPS
 
 
+## Default Encryption vs. Bucket Policies
+![[Pasted image 20241013191003.png]]
 
