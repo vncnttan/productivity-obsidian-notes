@@ -1,7 +1,9 @@
 Kinesis is a managed alternative to Apache Kafka
 
 - **Kinesis Streams** 
-  Low latency streaming ingest at scale 
+  Low latency streaming ingest at scale
+  [[Amazon - Kinesis Streams]]
+   
 - **Kinesis Analytics**
    Perform real-time analytics on streams using SQL 
 - **Kinesis Firehose**
