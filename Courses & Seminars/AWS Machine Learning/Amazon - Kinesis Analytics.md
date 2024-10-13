@@ -29,3 +29,9 @@
 
 
 ![[Pasted image 20241013220645.png]]
+
+
+Common Use case:
+- Streaming ETL
+- Continuous Metric Generation
+- Responsive analytics

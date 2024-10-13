@@ -14,6 +14,8 @@ Kinesis is a managed alternative to Apache Kafka
     
 - **Kinesis Video Streams**
    Meant for streaming video in real-time
+   [[Amazon - Kinesis Video Stream]]
+   
 
 ![[Pasted image 20241013200317.png]]
 
