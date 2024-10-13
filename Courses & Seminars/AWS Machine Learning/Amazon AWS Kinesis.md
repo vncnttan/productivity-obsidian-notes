@@ -6,6 +6,7 @@ Kinesis is a managed alternative to Apache Kafka
    
 - **Kinesis Analytics**
    Perform real-time analytics on streams using SQL 
+   [[Amazon - Kinesis Analytics]]
    
 - **Kinesis Firehose**
    Load streams into S3, Redshift, ElasticSearch & Splunk
