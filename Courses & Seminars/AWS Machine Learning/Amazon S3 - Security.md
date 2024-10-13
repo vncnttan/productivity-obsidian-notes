@@ -18,3 +18,4 @@ Encryption: encrypt objects in Amazon S3 using encryption keys
 S3 Bucket Policies
 ![[Pasted image 20241012144831.png]]
 
+## Amazon S3 - Object Encryption
