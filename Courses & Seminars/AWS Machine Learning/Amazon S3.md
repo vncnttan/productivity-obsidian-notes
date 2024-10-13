@@ -14,4 +14,5 @@ Pattern for speeding up range queries (ex: AWS Athena)
 
 [[S3 Storage Class]]
 [[Amazon S3 - Security]]
+[[Amazon AWS Kinesis]]
 

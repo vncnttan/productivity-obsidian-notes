@@ -65,3 +65,17 @@ This means deny when the request sent is using HTTP (where the SecureTransport i
 ## Default Encryption vs. Bucket Policies
 ![[Pasted image 20241013191003.png]]
 
+## VPC Endpoint Gateway for S3
+![[Pasted image 20241013195454.png]]
+
+This means if you have any service in VPC (AWS) -> They can directly communicate with your bucket and transfer data without internet access, they will use the VPC endpoint gateway
+- Less expensive
+- More Private & Secure
+
+
+
+
+
+
+
+
