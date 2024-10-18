@@ -9,3 +9,6 @@ Video playback capability
 	- AWS SageMaker 
 	- Amazon Rekognition Video 
 - Keep data for 1 hour to 10 years
+
+#### Use case
+![[Pasted image 20241013223959.png]]

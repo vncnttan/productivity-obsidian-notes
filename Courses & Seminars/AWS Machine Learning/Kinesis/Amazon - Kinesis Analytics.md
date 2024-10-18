@@ -1,7 +1,7 @@
 ![[Pasted image 20241013211153.png]]
 
 
-**Use cases** 
+**Use cases** (using SQL)
 - Streaming ETL: data select columns, make simple transformations, on streaming 
 - Continuous metric generation: 
 - Responsive analytics: live leaderboard for a mobile game look for certain criteria and build alerting (filtering)
@@ -29,7 +29,6 @@
 
 
 ![[Pasted image 20241013220645.png]]
-
 
 Common Use case:
 - Streaming ETL
