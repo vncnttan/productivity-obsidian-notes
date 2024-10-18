@@ -13,6 +13,6 @@ Pattern for speeding up range queries (ex: AWS Athena)
 - Data partitioning will be handled by some tools (like glue)
 
 [[S3 Storage Class]]
-[[Amazon S3 - Security]]
-[[Amazon AWS Kinesis]]
+[[Amazon S3 - Security & Encryption]]
+
 

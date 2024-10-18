@@ -1,7 +1,7 @@
 [dw9ne0o7jcasn.cloudfront.net/AWSMachineLearning/AWSCertifiedMLSlides.pdf](https://dw9ne0o7jcasn.cloudfront.net/AWSMachineLearning/AWSCertifiedMLSlides.pdf)
 ## Data Engineering (20%)
 [[Amazon S3]]
-
+[[Amazon AWS Kinesis]]
 ##  Exploratory Data Analysis (24%)
 
 
