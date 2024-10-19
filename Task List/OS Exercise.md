@@ -105,3 +105,5 @@ So the assigned processes will keep running until it is eliminated or reaches a 
 	   - Round-Robin, q=4
 
    b. Hitung rata-rata masing-masing waiting time untuk keempat algortima tersebut
+
+![[Pasted image 20241019190111.png]]
