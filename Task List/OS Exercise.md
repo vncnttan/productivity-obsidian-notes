@@ -107,3 +107,7 @@ So the assigned processes will keep running until it is eliminated or reaches a 
    b. Hitung rata-rata masing-masing waiting time untuk keempat algortima tersebut
 
 ![[Pasted image 20241019190111.png]]
+
+![[Pasted image 20241019191932.png]]
+
+
