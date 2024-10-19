@@ -108,6 +108,8 @@ So the assigned processes will keep running until it is eliminated or reaches a 
 
 ![[Pasted image 20241019190111.png]]
 
-![[Pasted image 20241019191932.png]]
+![[Pasted image 20241019192736.png]]
+
+![[Pasted image 20241019192420.png]]
 
 
