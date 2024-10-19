@@ -56,7 +56,7 @@ So the assigned processes will keep running until it is eliminated or reaches a 
 - Process with less execution time suffers (i.e. waiting time is often quite long)
 - Favors CPU bound process the I/O bound process
 - Other processes might wait unnecessarily if process that has a large burst time comes first. This will result in more average waiting time (Convoy Effect)
-
+---
 ##### Shortest Process Next (SPN)
 **Strength**:
 - Shortest Process are favored
@@ -65,7 +65,7 @@ So the assigned processes will keep running until it is eliminated or reaches a 
 **Weakness**:
 - May cause starvation if shorter processes keep coming (the longer processes will not get executed for a long time, until the shorter processes stop coming)
 - Cannot be implemented at the level of short-term CPU scheduling
-
+---
 ##### Shortest Remaining Time (SRT)
 **Strength**:
 - Guarantees lower average waiting time
@@ -78,7 +78,7 @@ So the assigned processes will keep running until it is eliminated or reaches a 
 - Debugging can be more complex because there will be more libraries at runtime
 - Consume more CPU time for processing the context switching in between tasks.
 
-
+---
 ##### Round Robin (RR)
 **Strength**:
 - Every process gets an equal time-slice share of the CPU, ensuring fairness among all processes
@@ -91,25 +91,86 @@ So the assigned processes will keep running until it is eliminated or reaches a 
    
    References: [Advantages and Disadvantages of various CPU scheduling algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-various-cpu-scheduling-algorithms/), [Introduction of Shortest Remaining Time First (SRTF) algorithm - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-of-shortest-remaining-time-first-srtf-algorithm/)
 
-#### 4. **Process Table** 
-##### Gantt Chart Simulation
-- First Come First Serve (FCFS)
-- Shortest Process Next (SPN)
-- Shortest Remaining Time (SRT)
-- Round-Robin, q = 4
+#### 4. From the given **Process Table**, create the *simulation* and calculate the *average waiting time*!
 
-   a. Simulasikan dengan menggunakan Gantt Chart penjadwalan proses di tabel dengan menggunakan algoritma:
-	   - First Come First Serve
-	   - Shortest Process Next (SPN)
-	   - Shortest Remaining Time (SRT)
-	   - Round-Robin, q=4
+##### First Come First Serve (FCFS)
 
-   b. Hitung rata-rata masing-masing waiting time untuk keempat algortima tersebut
+![[Pasted image 20241019194559.png]]
+```
+FCFS Waiting Time
 
-![[Pasted image 20241019190111.png]]
+Formula: Completion time - Process Time - Arrival Time 
+P1 = 4 - 4          = 0
+P2 = 9 - 5 - 1      = 3
+P3 = 17 - 2 - 5     = 10
+P4 = 35 - 7 - 15    = 13
+P5 = 28 - 11 - 11   = 6
+P6 = 15 - 6 - 2     = 7
+--------------------------- +
+                    = 39
 
-![[Pasted image 20241019192736.png]]
+Average: 39 / 6 = 6.5
+```
 
-![[Pasted image 20241019192420.png]]
+---
+##### Shortest Process Next (SPN)
 
+![[Pasted image 20241019194623.png]]
+```
+SPN Waiting Time
+
+Formula: Completion time - Process Time - Arrival Time 
+P1 = 4 - 4          = 0
+P2 = 9 - 5 - 1      = 3
+P3 = 11 - 2 - 5     = 4
+P4 = 24 - 7 - 15    = 2
+P5 = 35 - 11 - 11   = 13
+P6 = 17 - 6 - 2     = 9
+--------------------------- +
+                    = 31
+
+Average: 31 / 6 = 5.167
+```
+
+---
+##### Shortest Remaining Time (SRT)
+
+![[Pasted image 20241019194642.png]]
+
+```
+SRT Waiting Time
+
+Formula: Completion time - Process Time - Arrival Time 
+P1 = 4 - 4          = 0
+P2 = 11 - 5 - 1     = 5
+P3 = 7 - 2 - 5      = 0
+P4 = 24 - 7 - 15    = 2
+P5 = 35 - 11 - 11   = 13
+P6 = 17 - 6 - 2     = 9
+--------------------------- +
+                    = 29
+
+Average: 29 / 6 = 4.834
+```
+
+---
+##### Round-Robin, Q=4
+
+![[Pasted image 20241019194722.png]]
+
+```
+Round Robin, Q=4 Waiting Time
+
+Formula: Completion time - Process Time - Arrival Time 
+P1 = 4 - 4          = 0
+P2 = 15 - 5 - 1     = 9
+P3 = 14 - 2 - 5     = 7
+P4 = 32 - 7 - 15    = 10
+P5 = 35 - 11 - 11   = 13
+P6 = 21 - 6 - 2     = 13
+--------------------------- +
+                    = 52
+
+Average: 52 / 6 = 8.667
+```
 
