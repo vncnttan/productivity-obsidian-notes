@@ -50,7 +50,8 @@ In the end of the day, the neural network is uninpretable, (there is still a bla
 
 ### Session 3
 ### Session 4
-### Session 5
+### Session 5 - RNN, LSTM, GRU
+![[Pasted image 20241027155927.png]]
 ### Session 6
 ### Session 7
 ### Session 8
