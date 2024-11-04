@@ -8,7 +8,9 @@
 
 #### [[Process Control Block]]
 
-#### Multiprocessing in modern
+#### [[Multiprocessing in modern]]
+[[Conccurency, Deadlock, Starvation]]
+
 #### Starvation in Deadlock
 
 
