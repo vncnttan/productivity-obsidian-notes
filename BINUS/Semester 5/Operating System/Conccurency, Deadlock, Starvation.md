@@ -9,3 +9,4 @@
 → kondisi ketika 2 atau lebih process tidak dapat melanjutkan eksekusi karena saling menunggu resource dari satu sama lain.
 
 ##### Starvation
+→ Situasi di mana sebuah process yang runnable terlewat/overlooked oleh scheduler karena ada process lain yang prioritasnya lebih tinggi.
