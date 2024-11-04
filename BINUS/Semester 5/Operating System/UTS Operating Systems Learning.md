@@ -9,9 +9,9 @@
 #### [[Process Control Block]]
 
 #### [[Multiprocessing in modern]]
-[[Conccurency, Deadlock, Starvation]]
 
-#### Starvation in Deadlock
+
+#### [[Conccurency, Deadlock, Starvation]]
 
 
 # Case Study
