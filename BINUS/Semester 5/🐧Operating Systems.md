@@ -39,6 +39,9 @@ Ke memory costnya mahal
 [[OS Exercise Process Scheduling]]
 
 ### Session 7
+
+[[UTS Operating Systems Learning]]
+
 ### Session 8
 ### Session 9
 ### Session 10

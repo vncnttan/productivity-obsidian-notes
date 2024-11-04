@@ -4,6 +4,7 @@
 ## Frontend Task
 - [ ] Login page slcatering ganti UI label password jadi username
 - [x] Checkout Responsive
+- [ ] Authorization order khusus untuk logged in users
 ## Backend Task
 - [ ] Remove print and console log
 - [ ] Remove placeholder api SLCatering
