@@ -1,15 +1,17 @@
 ## General Task
 - [ ] Close Catering Feature
-- [ ] Ada bug sepertinya pada saat login dan di hosting
+- [x] Ada bug sepertinya pada saat login dan di hosting
 ## Frontend Task
-- [ ] Login page slcatering ganti UI label password jadi username
+- [x] Login page slcatering ganti UI label password jadi username
 - [x] Checkout Responsive
-- [ ] Authorization order khusus untuk logged in users
+- [x] Authorization order khusus untuk logged in users
 ## Backend Task
 - [ ] Remove print and console log
 - [ ] Remove placeholder api SLCatering
-- [ ] Testing Payment Gateway
+- [x] Testing Payment Gateway
+- [ ] Bill already paid error -> Ganti merchantOrderIdnya dengan sesuatu yang unique
+      data["catering_id"] + user.username + 
 ## Additional Task
-- [ ] QRIS Implementation
+- [x] QRIS Implementation
 - [ ] Testing
 - [ ] Implement multiple merchant payment gateway
