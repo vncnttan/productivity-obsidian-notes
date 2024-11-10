@@ -1,11 +1,12 @@
 ## General Task
-- [ ] Close Catering Feature
+- [x] Close Catering Feature
 - [x] Ada bug sepertinya pada saat login dan di hosting
 ## Frontend Task
 - [x] Login page slcatering ganti UI label password jadi username
 - [x] Checkout Responsive
 - [x] Authorization order khusus untuk logged in users
-- [ ] Kalo orang cancel order, qrnya masih yang lama
+- [ ] ML: Kalo orang cancel order, qrnya masih yang lama
+- [ ] FO: Bug Transaction History, additional price + base price
 ## Backend Task
 - [ ] Remove print and console log
 - [ ] Remove placeholder api SLCatering
