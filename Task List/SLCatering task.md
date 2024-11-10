@@ -5,6 +5,7 @@
 - [x] Login page slcatering ganti UI label password jadi username
 - [x] Checkout Responsive
 - [x] Authorization order khusus untuk logged in users
+- [ ] Kalo orang cancel order, qrnya masih yang lama
 ## Backend Task
 - [ ] Remove print and console log
 - [ ] Remove placeholder api SLCatering
