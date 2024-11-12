@@ -7,6 +7,9 @@
 - [x] Checkout Responsive
 - [x] Authorization order khusus untuk logged in users
 - [ ] Custom Error Page
+- [ ] ML: Kalo orang cancel order, qrnya masih yang lama
+- [ ] FO: Bug Transaction History, additional price + base price
+
 ## Backend Task
 - [x] Remove print and console log
 - [ ] Remove placeholder api SLCatering

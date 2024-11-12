@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-### Big Data 
-=======
 ## Big Data 
->>>>>>> d6d608055da25f6d04bba9c61cd76c72829faada
 Data yang sangat besar
 
 #### 5V Characteristics:
