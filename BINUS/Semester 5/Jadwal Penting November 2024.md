@@ -3,19 +3,19 @@
 
 5 November 2024
 - [x] 08:00 - 09:40 **UTS** Operating Systems
-- [ ] 00:01 **UTS** Computer Vision Start (Online)
+- [x] 00:01 **UTS** Computer Vision Start (Online)
 
 7 November 2024
-- [ ] 15:00 - 17:00 **UTS** Compilation Techniques
+- [x] 15:00 - 17:00 **UTS** Compilation Techniques
 
 8 November 2024
-- [ ] 13:00 **UTS** Deep Learning End (Online)
+- [x] 13:00 **UTS** Deep Learning End (Online)
 
 11 November 2024
-- [ ] 08:00 - 11:20 **UTS** Web Programming
+- [x] 08:00 - 11:20 **UTS** Web Programming
 
 12 November 2024
-- [ ] 13:00 **UTS** Computer Vision End (Online)
+- [x] 13:00 **UTS** Computer Vision End (Online)
 
 
 Saturday, October 12, 2024 - Shift 5
