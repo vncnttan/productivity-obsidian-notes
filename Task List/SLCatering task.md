@@ -2,13 +2,15 @@
 - [x] Close Catering Feature
 - [x] Ada bug sepertinya pada saat login dan di hosting
 - [ ] Beli Domain
+- [ ] Leaderboard
 ## Frontend Task
 - [x] Login page slcatering ganti UI label password jadi username
 - [x] Checkout Responsive
 - [x] Authorization order khusus untuk logged in users
 - [ ] Custom Error Page
-- [ ] ML: Kalo orang cancel order, qrnya masih yang lama
-- [ ] FO: Bug Transaction History, additional price + base price
+- [ ] Quantity Validation Max
+- [x] ML: Kalo orang cancel order, qrnya masih yang lama
+- [x] FO: Bug Transaction History, additional price + base price
 
 ## Backend Task
 - [x] Remove print and console log
