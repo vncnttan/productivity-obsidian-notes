@@ -2,7 +2,7 @@
 
 ### URGENT + IMPORTANT
 *Do it now*
-
+- [ ] Check Post Training Deep Learning Result
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] Payment Gateway 
