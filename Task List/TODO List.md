@@ -4,7 +4,7 @@
 *Do it now*
 - [x] Check Post Training Deep Learning Result
 - [x] Fix SLcatering
-- [ ] Fix Porto kalo tembak link ngebug nginx
+- [x] Fix Porto kalo tembak link ngebug nginx
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] Payment Gateway 
