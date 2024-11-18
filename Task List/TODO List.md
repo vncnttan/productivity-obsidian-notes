@@ -10,6 +10,7 @@
 - [x] Payment Gateway 
 - [ ] Fix CV for Tiktok
 - [ ] Add Work samples for CV and Tiktok
+- [ ] Send Porto ke Hanry Ham
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [x] Create Migration di VPS
