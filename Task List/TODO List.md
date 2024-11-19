@@ -5,11 +5,13 @@
 - [x] Check Post Training Deep Learning Result
 - [x] Fix SLcatering
 - [x] Fix Porto kalo tembak link ngebug nginx
+- [ ] Download my resume di web porto
+- [ ] Notes emote masih ngebug catering
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] Payment Gateway 
-- [ ] Fix CV for Tiktok
-- [ ] Add Work samples for CV and Tiktok
+- [x] Fix CV for Tiktok
+- [x] Add Work samples for CV and Tiktok
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [x] Create Migration di VPS
