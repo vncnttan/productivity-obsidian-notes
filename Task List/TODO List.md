@@ -3,9 +3,9 @@
 ### Today's Task
 - [x] Masukin projects ke cv
 - [ ] Legalisasi
-- [ ] Apply AI Engineer + LACAK
+- [ ] Apply AI Engineer
 - [ ] Fix Tanggal di Web porto
-- [ ] Download my resume di web porto
+- [x] Download my resume di web porto
 - [ ] Leetcode
 ### URGENT + IMPORTANT
 *Do it now*
