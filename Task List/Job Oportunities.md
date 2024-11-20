@@ -18,5 +18,8 @@
 [Thank you for your application to GoTo Group - vincent.tanjaya.vt@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKDgbkDztKsbDSLGgckjfhSNr)❓ 15 November
 
 #### Appier
-[Job Applications | Glassdoor](https://www.glassdoor.com/Job/Home/appliedJobs.htm) 19 November
+[Job Applications | Glassdoor](https://www.glassdoor.com/Job/Home/appliedJobs.htm) 18 November
 
+
+#### Razer
+[Razer Candidate Home](https://razer.wd3.myworkdayjobs.com/en-US/Careers/userHome) 18 November
