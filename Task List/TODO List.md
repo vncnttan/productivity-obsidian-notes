@@ -1,10 +1,10 @@
-# Eisenhower Matrix ✅
-
 ### Today's Task
 - [x] Masukin projects ke cv
 - [ ] Legalisasi
+- [ ] Ambil Banner
 - [ ] Apply AI Engineer
 - [ ] Fix Tanggal di Web porto
+- [ ] Up Porto & CV di Linkedin & Instagram
 - [x] Download my resume di web porto
 - [ ] Leetcode
 ### URGENT + IMPORTANT
@@ -25,7 +25,7 @@
 *Decide when to do it*
 - [x] Create Migration di VPS
 - [x] Fix Bug History Transaction
-- [ ] Tanya ko Aduy Traveloka offering
+- [ ] Tanya ko Aduy / ko Vasang Traveloka offering
 - [ ] Notes emote masih ngebug catering
 
 ### NOT URGENT, NOT IMPORTANT
