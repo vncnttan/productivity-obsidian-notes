@@ -32,4 +32,5 @@
 *Do it later / Dump it*
 - [x] Benerin routing Detail
 - [ ] Clean C:/ laptop
+- [ ] Ganti Config Obsidian di PC binus biar git commitnya auto
 
