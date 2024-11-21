@@ -23,3 +23,9 @@
 
 #### Razer
 [Razer Candidate Home](https://razer.wd3.myworkdayjobs.com/en-US/Careers/userHome) 18 November
+
+#### Rockstar
+[Data Engineer Job in Jakarta Pusat, Jakarta Raya - Jobstreet](https://id.jobstreet.com/id/job/80275166?tracking=TMC-AppConfirmed-asia-4-jobapplied)
+
+#### Kawan Lama
+[Tahapan - Kawan Lama Group E-Recruitment](https://karir.kawanlamagroup.com/JoinUs)

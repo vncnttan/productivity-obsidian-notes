@@ -7,6 +7,7 @@
 - [ ] Up Porto & CV di Linkedin & Instagram
 - [x] Download my resume di web porto
 - [ ] Leetcode
+- [ ] Kerjain Kawan Lama test
 ### URGENT + IMPORTANT
 *Do it now*
 - [x] Check Post Training Deep Learning Result
