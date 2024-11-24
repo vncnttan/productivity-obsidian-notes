@@ -5,3 +5,6 @@
 - [ ] Topic
 - [ ] Dosen Pembimbing
 - [ ] Registration
+
+Weekly Meeting:
+- Every Saturday - 20.00
