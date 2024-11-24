@@ -1,6 +1,7 @@
 ### Today's Task
 - [x] Masukin projects ke cv
-- [ ] Legalisasi
+- [x] Legalisasi
+- [ ] Upload soal legalisasi ke messier dan galaxion
 - [ ] Ambil Banner
 - [ ] Apply AI Engineer
 - [ ] Fix Tanggal di Web porto
