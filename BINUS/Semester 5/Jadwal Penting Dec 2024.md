@@ -2,7 +2,7 @@ Current GSLC:
 
 Wednesday
 - Comptech
-  Top Down Parsing
+  Bottom Up Parsing
 - Deep Learning
   GAN
 - Operating Systems
@@ -17,3 +17,5 @@ Friday
 - Computer Vision
 	Progress Project
 
+
+Comptech Bottom Up Parsing Session 19 20, QUIZ GSLC sisa nomor 3 4
