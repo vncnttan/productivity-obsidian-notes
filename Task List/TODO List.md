@@ -1,12 +1,15 @@
 ### Today's Task
 - [x] Masukin projects ke cv
 - [x] Legalisasi
+<<<<<<< HEAD
 - [x] Ambil Banner
+- [ ] Upload soal legalisasi ke messier dan galaxion
 - [ ] Apply AI Engineer
 - [ ] Fix Tanggal di Web porto
 - [ ] Up Porto & CV di Linkedin & Instagram
 - [x] Download my resume di web porto
 - [ ] Leetcode
+- [ ] Kerjain Kawan Lama test
 ### URGENT + IMPORTANT
 *Do it now*
 - [x] Check Post Training Deep Learning Result
