@@ -1,7 +1,6 @@
 ### Today's Task
 - [x] Masukin projects ke cv
 - [x] Legalisasi
-<<<<<<< HEAD
 - [x] Ambil Banner
 - [ ] Upload soal legalisasi ke messier dan galaxion
 - [ ] Apply AI Engineer
