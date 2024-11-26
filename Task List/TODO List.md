@@ -1,7 +1,7 @@
 ### Today's Task
 - [x] Masukin projects ke cv
-- [ ] Legalisasi
-- [ ] Ambil Banner
+- [x] Legalisasi
+- [x] Ambil Banner
 - [ ] Apply AI Engineer
 - [ ] Fix Tanggal di Web porto
 - [ ] Up Porto & CV di Linkedin & Instagram
