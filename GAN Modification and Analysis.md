@@ -10,6 +10,7 @@ Model GAN dari code awalnya menggunakan ReLU sebagai activation function di laye
 
 ###### Learning Rate
 
+
 #### After Modification
 
 
