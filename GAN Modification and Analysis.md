@@ -5,9 +5,9 @@
 #### Analysis
 
 ###### Activation Function ReLU
-Model GAN dari code awalnya menggunakan ReLU sebagai activation function di layer Generator dan Discriminatornya
+Model GAN dari code awalnya menggunakan ReLU sebagai activation function di layer Generator dan Discriminatornya. ReLU kurang efektif digunakan karena ada beberapa output negative yang 
 
-
+###### Learning Rate
 #### After Modification
 
 
