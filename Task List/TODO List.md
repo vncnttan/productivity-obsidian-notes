@@ -1,17 +1,11 @@
 ### Today's Task
-- [x] Masukin projects ke cv
-- [x] Legalisasi
-- [x] Ambil Banner
-- [x] Daftar Enrichment Apps
-- [x] Queue
-- [x] Upload soal legalisasi ke messier dan galaxion
 - [ ] Laravel AOL
 - [x] Database ASG2 BD, FO-> Nomor 2, 3, 7 ilangin subquery
 - [x] Up Porto & CV di Linkedin & Instagram
 - [x] Download my resume di web porto
-- [ ] Waste4Track
 - [ ] Leetcode
 - [x] Apply AI Engineer
+- [ ] Soal AL Benerin screenshot dari Documentation yang di outlook SCC
 - [ ] Kerjain Kawan Lama test
 - [ ] Fix Tanggal di Web porto
 ### URGENT + IMPORTANT
