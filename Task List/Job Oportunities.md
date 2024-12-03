@@ -10,6 +10,7 @@
 [Machine Learning Engineer (Data Compass) Intern, TikTok Global E-Commerce - 2025 Start - TikTok](https://careers.tiktok.com/referral/tiktok/position/7403600622296484147/detail?token=MTsxNzI0MzgyNDMxOTY2OzY5NjA0ODIyMzY5NTMwMDM1MzM7NzMzMDc5Mzc2NDM5Njc3OTc4Njsy)❓
 [Machine Learning Engineer Intern (Core Recommendation-Dedup) -2025 Start - TikTok](https://careers.tiktok.com/referral/tiktok/position/7400610216658913586/detail?token=MTsxNzI0MzgyNDMxOTY2OzY5NjA0ODIyMzY5NTMwMDM1MzM7NzMzMDc5Mzc2NDM5Njc3OTc4Njsy)
 
+[FAQ – HackerRank Candidates](https://candidatesupport.hackerrank.com/hc/en-us/categories/4402828710675-FAQ)
 
 ### StockBit
 [AI/ML Engineer - Stockbit - vincent.tanjaya.vt@gmail.com - Gmail](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXKDgbjzcJphBLnWzfhvjhJpsw) ❓ 15 November
