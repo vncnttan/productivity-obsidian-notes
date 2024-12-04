@@ -7,13 +7,14 @@
 - [x] Upload soal legalisasi ke messier dan galaxion
 - [x] Queue
 - [ ] Leetcode
-- [x] Laravel AOL
 - [x] Database ASG2 BD, FO-> Nomor 2, 3, 7 ilangin subquery
 - [x] Up Porto & CV di Linkedin & Instagram
 - [x] Download my resume di web porto
 - [ ] Waste4Track
 - [x] Apply AI Engineer
 - [ ] SLCatering Line Bot Reminder
+- [ ] Laravel AOL
+- [x] Soal AL Benerin screenshot dari Documentation yang di outlook SCC
 - [ ] Kerjain Kawan Lama test
 - [ ] Fix Tanggal di Web porto
 
