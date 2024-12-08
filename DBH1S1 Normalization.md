@@ -6,11 +6,25 @@ Materi:
 - Boyce-Codd Normal Form (BCNF)
 - Fourth Normal Form (4NF)
 - Fifth Normal Form (5NF)
+- Entity Relationship Diagram (ERD)
+- DDL, DML Basic
+	- CREATE
+	- INSERT
+	- UPDATE
+	- DROP
+	- DELETE
 
-- Teori & Jenis Anomali
+Theory:
+- Teori & Jenis Anomaly
 	- Insert Anomaly
-	- Update Anomaly 
+	- Modification Anomaly 
 	- Delete Anomaly
+- Jenis-jenis key:
+	- Primary Key
+	- Foreign Key 
+	- Composite Key
+	- Candidate Key
+- Relationship di ERD
 - Alurnya di rekomendasikan saat pemisahan tabel: 
 	- Buat tabel baru
 	- Define *foreign key* yang ada
