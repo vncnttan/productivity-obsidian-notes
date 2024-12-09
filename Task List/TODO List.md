@@ -6,17 +6,18 @@
 - [x] Queue
 - [x] Upload soal legalisasi ke messier dan galaxion
 - [x] Queue
-- [ ] Leetcode
 - [x] Database ASG2 BD, FO-> Nomor 2, 3, 7 ilangin subquery
 - [x] Up Porto & CV di Linkedin & Instagram
 - [x] Download my resume di web porto
-- [ ] Waste4Track
 - [x] Apply AI Engineer
-- [ ] SLCatering Line Bot Reminder
 - [ ] Laravel AOL
+- [ ] Host API Trashare Entre
+- [x] Neksus
+- [ ] Leetcode
 - [x] Soal AL Benerin screenshot dari Documentation yang di outlook SCC
-- [ ] Kerjain Kawan Lama test
+- [x] Kerjain Kawan Lama test
 - [ ] Fix Tanggal di Web porto
+- [ ] SLCatering Line Bot Reminder
 
 #### Web Prog Task
 - [ ] Policy Gate
