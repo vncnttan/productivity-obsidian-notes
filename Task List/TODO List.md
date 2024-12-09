@@ -1,23 +1,9 @@
 ### Today's Task
-- [x] Masukin projects ke cv
-- [x] Legalisasi
-- [x] Ambil Banner
-- [x] Daftar Enrichment Apps
-- [x] Queue
-- [x] Upload soal legalisasi ke messier dan galaxion
-- [x] Queue
-- [x] Database ASG2 BD, FO-> Nomor 2, 3, 7 ilangin subquery
-- [x] Up Porto & CV di Linkedin & Instagram
-- [x] Download my resume di web porto
-- [x] Apply AI Engineer
 - [ ] Laravel AOL
 - [ ] Host API Trashare Entre
-- [x] Neksus
-- [ ] Leetcode
-- [x] Soal AL Benerin screenshot dari Documentation yang di outlook SCC
-- [x] Kerjain Kawan Lama test
-- [ ] Fix Tanggal di Web porto
 - [ ] SLCatering Line Bot Reminder
+- [ ] Leetcode
+- [ ] Fix Tanggal di Web porto
 
 #### Web Prog Task
 - [ ] Policy Gate
