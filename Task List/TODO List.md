@@ -1,5 +1,5 @@
 ### Today's Task
-- [ ] Laravel AOL
+- [ ] Laravel Eventure Error when deployed
 - [ ] Host API Trashare Entre
 - [ ] SLCatering Line Bot Reminder
 - [ ] Leetcode
