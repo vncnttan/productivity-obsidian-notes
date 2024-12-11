@@ -5,6 +5,7 @@
 - [x] Leetcode
 - [ ] [[Web Programming Project]]
 - [ ] Fix Tanggal di Web porto
+- [ ] Upload answer AN galaxion Semarang
 
 #### Web Prog Task
 - [ ] Policy Gate
