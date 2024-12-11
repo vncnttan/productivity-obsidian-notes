@@ -1,5 +1,6 @@
 ### Today's Task
-- [ ] Host AI Trashare Entre
+- [x] Host AI Trashare Entre
+- [ ] Export APKs for Trashare Entre
 - [ ] SLCatering Line Bot Reminder
 - [ ] Leetcode
 - [ ] [[Web Programming Project]]
