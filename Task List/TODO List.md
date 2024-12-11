@@ -2,7 +2,7 @@
 - [x] Host AI Trashare Entre
 - [ ] Export APKs for Trashare Entre
 - [ ] SLCatering Line Bot Reminder
-- [ ] Leetcode
+- [x] Leetcode
 - [ ] [[Web Programming Project]]
 - [ ] Fix Tanggal di Web porto
 
