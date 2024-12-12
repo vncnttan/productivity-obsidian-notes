@@ -1,11 +1,11 @@
 ### Today's Task
 - [x] Host AI Trashare Entre
 - [x] Export APKs for Trashare Entre
-- [ ] SLCatering Line Bot Reminder
+- [x] SLCatering Line Bot Reminder
 - [x] Leetcode
+- [ ] Upload answer AN galaxion Semarang
 - [ ] [[Web Programming Project]]
 - [ ] Fix Tanggal di Web porto
-- [ ] Upload answer AN galaxion Semarang
 
 #### Web Prog Task
 - [ ] Policy Gate
