@@ -4,6 +4,7 @@
 - [ ] Beli Domain
 - [ ] Leaderboard
 - [ ] Fix Responsive: Today menu & catering details
+- [ ] Tambahin /help atau /info di bot catering
 ## Frontend Task
 - [x] Login page slcatering ganti UI label password jadi username
 - [x] Checkout Responsive
