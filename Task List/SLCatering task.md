@@ -9,6 +9,7 @@
 - [x] Checkout Responsive
 - [x] Authorization order khusus untuk logged in users
 - [ ] Custom Error Page
+- [ ] Date Format Checkout
 - [ ] Quantity Validation Max
 - [x] ML: Kalo orang cancel order, qrnya masih yang lama
 - [x] FO: Bug Transaction History, additional price + base price
@@ -19,7 +20,8 @@
 - [x] Unicode purify
 - [x] Testing Payment Gateway
 - [ ] Bill already paid error -> Ganti merchantOrderIdnya dengan sesuatu yang unique
-      data["catering_id"] + user.username + 
+      data["catering_id"] + user.username
+ 
 - [ ] Only Allow specific host - Tunggu sampai documentation payment gateway sampai ga down
 - [ ] Fix Quantity Issue
 ## Additional Task
