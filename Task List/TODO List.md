@@ -1,3 +1,4 @@
+![[StandBySchedule.xlsx]]
 ### Today's Task
 - [x] Host AI Trashare Entre
 - [x] Export APKs for Trashare Entre
@@ -6,6 +7,7 @@
 - [ ] Upload answer AN galaxion Semarang
 - [ ] [[Web Programming Project]]
 - [ ] Fix Tanggal di Web porto
+- [ ] 
 
 #### Web Prog Task
 - [ ] Policy Gate
@@ -17,13 +19,14 @@
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
+
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
-- [ ] Notes emote masih ngebug catering
+- [ ] [[SLCatering task]]
 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
-- [x] Benerin routing Detail
+- [ ] [[Portfolio Task]]
 - [ ] Clean C:/ laptop
 
 
