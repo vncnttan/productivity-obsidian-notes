@@ -11,7 +11,8 @@
 - [x] Authorization order khusus untuk logged in users
 - [ ] Custom Error Page
 - [ ] Date Format Checkout
-- [ ] Quantity Validation Max
+- [ ] Remove Quantity Overall
+- [ ] Create Summary for merchant
 - [x] ML: Kalo orang cancel order, qrnya masih yang lama
 - [x] FO: Bug Transaction History, additional price + base price
 

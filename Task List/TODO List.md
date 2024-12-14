@@ -27,3 +27,7 @@
 - [ ] Clean C:/ laptop
 
 
+### AOL
+- Compvis: 23 Desember
+- Deep Learning: 28 Desember
+- OS: 30 Desember
