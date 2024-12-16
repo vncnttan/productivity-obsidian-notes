@@ -5,14 +5,9 @@
 - [x] SLCatering Line Bot Reminder
 - [x] Leetcode
 - [ ] Upload answer AN galaxion Semarang
-- [ ] [[Web Programming Project]]
+- [x] [[Web Programming Project]]
 - [ ] Fix Tanggal di Web porto
-- [ ] 
 
-#### Web Prog Task
-- [ ] Policy Gate
-- [ ] Storage folder fix biar ga ke spam ke github
-- [ ] 
 ### URGENT + IMPORTANT
 *Do it now*
 
@@ -28,7 +23,6 @@
 *Do it later / Dump it*
 - [ ] [[Portfolio Task]]
 - [ ] Clean C:/ laptop
-
 
 ### AOL
 - Compvis: 23 Desember
