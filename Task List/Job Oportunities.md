@@ -31,3 +31,6 @@
 #### Kawan Lama
 [Tahapan - Kawan Lama Group E-Recruitment](https://karir.kawanlamagroup.com/JoinUs)
 
+##### DevoTeam
+[Application Status • Devoteam](https://jobs.smartrecruiters.com/my-applications/Devoteam/e6d55222-abce-4e23-8408-b5861f8c43f5?dcr_ci=Devoteam)
+
