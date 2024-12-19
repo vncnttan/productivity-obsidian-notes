@@ -4,8 +4,8 @@
 - [x] Export APKs for Trashare Entre
 - [x] SLCatering Line Bot Reminder
 - [x] Leetcode
-- [ ] Upload answer AN galaxion Semarang
-- [ ] Upload answer VS
+- [x] Upload answer AN galaxion Semarang
+- [x] Upload answer VS
 - [x] [[Web Programming Project]]
 - [ ] Fix Tanggal di Web porto
 
