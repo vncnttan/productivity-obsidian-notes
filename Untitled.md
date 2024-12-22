@@ -10,5 +10,5 @@ Find more about this VLM:
 
 min. 20 literature reviews, bertopik
 - VLMs in general
-- Self-Driving Autonomous
+- Self-Driving Autonomous (State of the art, ,weakness, etc.) & Input Output, State & Action
 - Already existing VLM architecture (HydraNet from Google, etc.)
