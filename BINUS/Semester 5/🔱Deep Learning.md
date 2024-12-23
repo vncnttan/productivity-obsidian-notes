@@ -71,3 +71,5 @@ In the end of the day, the neural network is uninpretable, (there is still a bla
 ### Session 22
 ### Session 23
 ### Session 24
+Tugas, salah satunya
+[[Netflix Agent State]]

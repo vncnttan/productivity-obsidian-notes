@@ -18,14 +18,3 @@
 - [x] 13:00 **UTS** Computer Vision End (Online)
 
 
-Saturday, October 12, 2024 - Shift 5
-Saturday, October 19, 2024 - Shift 1  
-Tuesday, October 22, 2024 - Shift 5
-Tuesday, October 22, 2024 - Shift 6
-Saturday, October 26, 2024 - Shift 5
-
-Used Extra Shift:
-31 October 2024 - 2 jam
-5 November 2024 - 4 jam
-8 November 2024 - 2 jam
-12 November 2024 - 2 jam
