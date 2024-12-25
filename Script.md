@@ -1,4 +1,24 @@
+Title - Melakukan hosting website aplikasi svelte berbasis nodejs menggunakan AWS
 
+Kami dari kelompok 16 terdiri dari :
+Nobel Shan Setiono - 2602080762
+Teresa Stefanie Sheryl - 2602060035
+Vincent Tanjaya - 2602128346
+
+Background: 
+Portfolio merupakan suatu hal yang penting dibuat untuk meningkatkan peluang mendapatkan pekerjaan, terutama dalam industri kreatif, teknologi, ,dan profesi yang menuntuk keterampilan teknis. Portfolio juga seharusnya mudah untuk diakses oleh rekruter, sehingga sebaiknya dideploy di internet. Nah disini AWS dapat menawarkan solusi lengkap untuk deploy aplikasi yang mencakup fleksibilitas, keamanan, efisiensi, dan performa untuk hosting website.
+
+Berikut adalah cara melakukan hosting website portfolio di AWS menggunakan docker!
+
+Disini kita akan melakukan hosting website menggunakan container docker!
+Container docker adalah linkungan runtime yang berisi semua komponen yang dibutuhkan untuk menjalankan aplikasi/website
+
+```
+docker build -t portfolio .
+docker login registry.vncnttan.my.id
+docker tag portfolio:latest registry.vncnttan.my.id/portfolio:latest
+docker push registry.vncnttan.my.id/portfolio:latest
+```
 
 Create Key Pair 
 - Key pair type: RSA
@@ -45,4 +65,5 @@ services:
     - Source: Anywhere (0.0.0.0/0)
     - Click "Save rules"
 
-Done
+Terima kasih sudah mengikuti tutorial ini, semoga bermanfaat
+
