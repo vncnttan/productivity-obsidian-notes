@@ -1,8 +1,9 @@
+
+
 Create Key Pair 
 - Key pair type: RSA
 - Private key format .pem
 - Simpan key .pem nya
-
 
 Paste this to User Data : Untuk install curl ca-certificates, dan docker
 ```
@@ -31,11 +32,17 @@ services:
     container_name: portfolio
     ports:
       - "5002:80"
-    networks:
-      - internal
-networks:
-  internal:
-    external: true
-    name: internal
 ```
 
+2. Check if port 5002 is open in EC2 Security Group:
+- Go to EC2 dashboard
+- Click on your instance
+- Click on the Security Group link
+- Click "Edit inbound rules"
+- Add a new rule:
+    - Type: Custom TCP
+    - Port range: 5002
+    - Source: Anywhere (0.0.0.0/0)
+    - Click "Save rules"
+
+Done
