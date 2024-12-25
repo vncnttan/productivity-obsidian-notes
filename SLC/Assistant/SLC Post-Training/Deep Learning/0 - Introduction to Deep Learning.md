@@ -1,4 +1,4 @@
-Reminder: Buka course outline di acad juga
+[]()Reminder: Buka course outline di acad juga
 
 [[Basic Deep Learning Teminology]]
 ## Introduction

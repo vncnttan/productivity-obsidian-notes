@@ -1,4 +1,4 @@
-![[StandBySchedule.xlsx]]
+[]()![[StandBySchedule.xlsx]]
 ### Today's Task
 - [x] Host AI Trashare Entre
 - [x] Export APKs for Trashare Entre

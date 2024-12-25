@@ -1,7 +1,7 @@
 13 Session - 2 SKS
 #COMPSCIBINUS🏫5thSEM *onehashtagsubject*
 
-Lili Ayu Wulandari 
+Lili Ayu Wulandari []()
 Contact Melalui Teams
 
 - Baseline: Tensorflow
