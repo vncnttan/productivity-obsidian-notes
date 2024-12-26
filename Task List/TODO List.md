@@ -7,14 +7,19 @@
 - [x] Upload answer AN galaxion Semarang
 - [x] Upload answer VS
 - [x] [[Web Programming Project]]
+- [ ] Kirim Email
+- [ ] Rapihin Linkedin
+- [ ] Komen every block for deep learning
 - [ ] Fix Tanggal di Web porto
 
 ### URGENT + IMPORTANT
 *Do it now*
 
-
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
+- [ ] Beli Kacamata
+- [ ] Photoshoot
+
 
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
@@ -24,6 +29,8 @@
 *Do it later / Dump it*
 - [ ] [[Portfolio Task]]
 - [ ] Clean C:/ laptop
+- [ ] Listing Extra Shift
+
 
 ### AOL
 - Compvis: 23 Desember
