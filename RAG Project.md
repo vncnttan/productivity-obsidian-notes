@@ -15,3 +15,7 @@ Steps:
 3. Embed all of the chunks of the textbook and turn them into embedding which can store for later
 4. Create a prompt that incorporates the retrieved pieces of text
 5. Generate an answer to a query based on the passages of the textbook with an LLM
+
+Why would we care about token count?
+1. Embedding models dont deal with infinite tokens
+2. LLMs dont deal with infinite tokens
