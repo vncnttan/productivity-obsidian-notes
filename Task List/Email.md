@@ -15,7 +15,7 @@ Thank you for the opportunity to interview for the Data Scientist / Database Spe
 
 I noticed that the resume registered in BINUS Enrichment Apps system might not fully reflect my relevant experiences and skills for this role. Therefore, I am attaching an updated version of my resume that better showcases my qualifications and alignment with the requirements of this position. 
 
-Please feel free to reach out if you require any additional information or documents. Thank you again for considering my application. I look forward to speaking with you tomorrow.
+Please feel free to reach out if you require any additional information or documents by replying this email. Thank you again for considering my application. I look forward to speaking with you tomorrow.
 
 Best Regards,
 Vincent Tanjaya
