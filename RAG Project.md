@@ -19,3 +19,12 @@ Steps:
 Why would we care about token count?
 1. Embedding models dont deal with infinite tokens
 2. LLMs dont deal with infinite tokens
+
+Chunking: Splitting larger pieces of text into smaller ones -> Text Splitting or chunking
+
+
+Why we chunk?
+- Easier to filter
+- Chunks and can fit into embedding model context window
+- Context pased to an LLM can be more spesific and focused
+
