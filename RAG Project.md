@@ -28,3 +28,7 @@ Why we chunk?
 - Chunks and can fit into embedding model context window
 - Context pased to an LLM can be more spesific and focused
 
+
+We would like to embed each chunk of sentences into its own numerical representation that will give us a good level of granunality
+
+
