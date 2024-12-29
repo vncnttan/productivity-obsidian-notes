@@ -7,9 +7,9 @@
 - [x] Upload answer AN galaxion Semarang
 - [x] Upload answer VS
 - [x] [[Web Programming Project]]
-- [ ] Kirim Email
+- [x] Kirim Email
 - [ ] Rapihin Linkedin
-- [ ] Komen every block for deep learning
+- [x] Komen every block for deep learning
 - [ ] Fix Tanggal di Web porto
 
 ### URGENT + IMPORTANT
@@ -31,7 +31,6 @@
 - [ ] Clean C:/ laptop
 - [ ] Listing Extra Shift
 - [ ] Tanya bisa jual ga earbudsnya doang
-- [ ] 
 
 
 ### AOL
