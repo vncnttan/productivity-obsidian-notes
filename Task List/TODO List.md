@@ -30,6 +30,8 @@
 - [ ] [[Portfolio Task]]
 - [ ] Clean C:/ laptop
 - [ ] Listing Extra Shift
+- [ ] Tanya bisa jual ga earbudsnya doang
+- [ ] 
 
 
 ### AOL
