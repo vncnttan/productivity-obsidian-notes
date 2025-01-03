@@ -1,6 +1,6 @@
 Current GSLC:
 
-Wednesday
+Wednesday 
 - Comptech
   Bottom Up Parsing V
 - Deep Learning
