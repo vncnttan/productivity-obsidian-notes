@@ -17,7 +17,7 @@
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Beli Kacamata
+- [x] Beli Kacamata
 - [ ] Photoshoot
 
 
