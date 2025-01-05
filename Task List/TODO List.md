@@ -15,6 +15,8 @@
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] [[SLCatering task]]
+- [ ] Wrapping Paper
+- [ ] Bikin Sticker Line
 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
@@ -22,8 +24,4 @@
 - [ ] Clean C:/ laptop ATAU beli laptop baru!
 - [ ] Listing Extra Shift
 
-### AOL
-- Compvis: 23 Desember
-- Deep Learning: 28 Desember
-- OS: 30 Desember
 
