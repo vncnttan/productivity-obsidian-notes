@@ -5,7 +5,6 @@
 - [ ] Custom Error Page
 - [ ] Date Format Checkout
 - [ ] Remove Quantity Overall
-- [ ] Create Summary for merchant
 - [ ] Notes emote masih ngebug catering
 ## Backend Task
 - [ ] Bill already paid error -> Ganti merchantOrderIdnya dengan sesuatu yang unique
