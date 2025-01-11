@@ -1,6 +1,11 @@
-- [ ] Not Found kalo langsung tembak link
-- [ ] Check Out my CV Download Resume
-- [ ] Custom Scroll
+- [x] Not Found kalo langsung tembak link
+- [ ] Update Resume
+	- [ ] GoTrash
+	- [ ] SiRekap
+	- [ ] RAG Instagram Chatbot
+	- [ ] Pose Estimator
+
+- [ ] Custom Scrollbar
 - [ ] Custom Cursor
 - [ ] Buat kalau main banner di hover dia gerak jadi gif
 - [ ] Certifications loading gambar ada placeholdernya
