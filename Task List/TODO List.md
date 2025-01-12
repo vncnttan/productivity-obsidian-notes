@@ -21,5 +21,6 @@
 - [ ] [[Portfolio Task]]
 - [ ] Clean C:/ laptop ATAU beli laptop baru!
 - [ ] Listing Extra Shift
+- [ ] Have the car talk with efran
 
 
