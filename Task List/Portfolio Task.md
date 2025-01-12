@@ -1,7 +1,7 @@
 - [x] Not Found kalo langsung tembak link
 - [ ] Update Resume
 	- [x] GoTrash
-	- [ ] SiRekap
+	- [ ] SiRekap (minus gambar)
 	- [ ] RAG Instagram Chatbot
 	- [ ] Pose Estimator
 
