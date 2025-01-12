@@ -59,3 +59,4 @@ Ke memory costnya mahal
 ### Session 22
 ### Session 23
 ### Session 24
+[[UAS Operating System Learning]]
