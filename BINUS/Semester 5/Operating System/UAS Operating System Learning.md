@@ -24,7 +24,22 @@ Architecture File System:
 **Access Method:** 
 Standard interface yang menghubungkan antara aplikasi dan file system (ada banyak jenis, dan setiap jenisnya memiliki caranya sendiri -> *pile, sequential, etc.*)
 
+![[Pasted image 20250112215558.png]]
+- File Management Concerns: Urusan user ke aplikasi
+- Operating System Concerns: Urusan Internal system
 
+File Organization and Access
+`Bagaimana cara mengatur struktur record dalam file -> Penting karena menentukan cara mengaksesnya juga`
+
+Kriteria:
+- Short Acess Time
+- Ease of Update
+- Economy of Storage
+- Simple Maintenance
+- Reliability
+
+Jenis-jenis file organization:
+- **The Pile**
 ###### 2. System & Nvetwork Threat
 ###### 3. Virtualization
 ###### 4. Hypervisor & Microservices

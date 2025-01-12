@@ -14,6 +14,7 @@
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] [[SLCatering task]]
+- [ ] Clean Up Obsidian Mess
 - [ ] Bikin Sticker Line
 
 ### NOT URGENT, NOT IMPORTANT
