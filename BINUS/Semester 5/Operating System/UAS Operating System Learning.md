@@ -235,6 +235,10 @@ Hypervisor:
 
 **Container Virtualization**: Lightweight and efficient. Focusing on virtualizing the application layer rather than the entire stack.
 
+Processor Management:
+- Emulate Chip as a Software
+- Scheduling vCPU to Physical CPU
+
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
 ###### 2. Page Placement Algorithm (First Fit, Next Fit, Best Fit, **Buddy System**) V
