@@ -196,7 +196,19 @@ Membagi program menjadi fixed-sized block kecil dalam secondary memory
 **Segmentation**
 Membagi program menjadi variable-sized block kecil dalam secondary memory
 ###### 4. Virtual Memory
+`Sistem manajemen memori yang digunakan komputer untuk memperluas kapasitas main memory (RAM) dengan menggunakan sebagian dari ruang secondary memory (hard disk)`
 
+Terminologies
+- Virtual Address
+- Virtual Address Space
+- Address Space
+- Real Address
+
+**Trashes**: Sistem lebih banyak ngabisin waktu buat nuker-nuker process pieces daripada jalanin instruksi
+
+Fetch Policy:
+- Demand Paging
+- Prepaging
 
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
