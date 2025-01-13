@@ -285,6 +285,48 @@ Program Threats:
 - Viruses (Malware, Trojan Horse, Trap Door, Back Door, Logic Bomb)
 - Code Injection
 - Keystroke Loggers
+
+System and Network Threat:
+System Threat: Viruses, Worms
+Network Threat: Port Scan, DoS
+
+- **Worms**:
+Viruses that able to replicate itself and overwhelm the system
+Planted by a grapling hook
+
+- Port Scan
+- DoS
+- Masquerading
+- MITM
+
+
+Zero Trust Architecture
+Assumes a network is hostile and verifies each request
+1. Verify Explicitly (MFA, IAM)
+2. Least Privilege Access (RBAC)
+3. Assume Breach
+
+**Authentication**
+Process:
+- Identification Step
+- Verification Step
+
+Auth Methods:
+- Knowledge-Based Authentication
+- Posession-Based Authentication
+- Biometric Authentication (Static & Dynamic)
+
+**Security Defenses**
+`Layered security approach where multiple defense are implemented`
+Layers:
+- Vulnerability Assesment
+- Intrusion Detection System (Signature Based, Anomaly Detection)
+- Virus Protection (Scanning, Sandbox)
+- Auditing, Accounting, Logging
+- Practice Safe Computing
+- Firewalls
+- Access Control
+- Buffer Overflow Counter Measures
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
 ###### 2. Page Placement Algorithm (First Fit, Next Fit, Best Fit, **Buddy System**) V
