@@ -204,11 +204,28 @@ Terminologies
 - Address Space
 - Real Address
 
-**Trashes**: Sistem lebih banyak ngabisin waktu buat nuker-nuker process pieces daripada jalanin instruksi
+**Thrashes**: Sistem lebih banyak ngabisin waktu buat nuker-nuker process pieces daripada jalanin instruksi
 
 Fetch Policy:
 - Demand Paging
 - Prepaging
+
+##### Virtualization
+`Allows a single machine to run multiple virtual machines / multiple instances of Operating System on top of them.`
+
+Advantage:
+- Legacy hardware support 
+- Rapid Deployment
+- Consolidation (Efficiently share resource)
+- Ease of Management
+- Increased Availability
+
+Hypervisor:
+`Layer virtualization yang mengatur pembuatan dan management VMs`
+- Execution Management
+- Device Emulation and Access Control
+- Privileged Operation
+- VM Lifecycle Management
 
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
