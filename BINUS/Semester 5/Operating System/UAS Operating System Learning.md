@@ -324,9 +324,21 @@ Layers:
 - Virus Protection (Scanning, Sandbox)
 - Auditing, Accounting, Logging
 - Practice Safe Computing
-- Firewalls
-- Access Control
-- Buffer Overflow Counter Measures
+- Firewalls (Packet Filtering Firewall, App Proxy Firewall, Personal)
+- Access Control (DAC, MAC, RBAC, ABAC)
+- Buffer Overflow Counter Measures (Compile Time Defenses, Runtime defenses)
+
+**OS Hardening**
+- Install and Patch OS
+- Remove Unneccessary Apps
+- Config users, groups, and permissions
+- Cong resource control
+- IOnstall and Configure Additional Security Controls
+- Test Security Configurations
+
+**Security Maintenance**:
+- Auditing Logging
+- Backup
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
 ###### 2. Page Placement Algorithm (First Fit, Next Fit, Best Fit, **Buddy System**) V
