@@ -227,6 +227,14 @@ Hypervisor:
 - Privileged Operation
 - VM Lifecycle Management
 
+**Virtualization Technique**
+- Paravirtualization: Guest OS interact with hypervisor through specialized communication
+- Hardware-Assisted Virtualziation: Leverage hardware-level feature of modern processors
+
+**Virtual Appliances**: Self-contained software solution distributed as VM images
+
+**Container Virtualization**: Lightweight and efficient. Focusing on virtualizing the application layer rather than the entire stack.
+
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
 ###### 2. Page Placement Algorithm (First Fit, Next Fit, Best Fit, **Buddy System**) V
