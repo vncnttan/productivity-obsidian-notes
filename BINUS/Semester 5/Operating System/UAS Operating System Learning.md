@@ -239,6 +239,16 @@ Processor Management:
 - Emulate Chip as a Software
 - Scheduling vCPU to Physical CPU
 
+**Technique Memory Management di VM**:
+- Page Sharing: Hypervisor identifies identical memory pages accross VMs and store only one copy in the physical memory
+- Ballooning: Memory Reclamation technique used to dynamically manage memory between VM
+
+I/O Management
+- IOAT (I/O Acceleration Technology)
+- TOE (TCP Offload Engine)
+- LRO (Large Receive Offload)
+- LSO (Large Send Offload)
+
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
 ###### 2. Page Placement Algorithm (First Fit, Next Fit, Best Fit, **Buddy System**) V
