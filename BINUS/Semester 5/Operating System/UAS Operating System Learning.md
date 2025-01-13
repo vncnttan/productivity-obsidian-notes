@@ -249,6 +249,42 @@ I/O Management
 - LRO (Large Receive Offload)
 - LSO (Large Send Offload)
 
+##### Computer Security
+- Intruders
+- Threat
+- Attack
+
+CIA Triad
+- Confidentiality
+- Integrity
+- Availability
+
+Threat Categories:
+- Breach of confidentiality (unathorized person akses DB)
+- Breach of integrity (manipulating log file)
+- Breach of availability (DDOS, listrik padam)
+- Theft of Service (pake tanpa bayar, unathorized access to cloud computing resources)
+- Denial of Service (DoS)
+
+Security violation methods:
+- Masquerading
+- Replay Attack
+- MITM (Man in the middle)
+- Session Hijacking
+- Privilege Escalation
+
+Security Measures Level:
+- Physical
+- Application
+- Operating System
+- Network
+
+- Social Engineering
+
+Program Threats:
+- Viruses (Malware, Trojan Horse, Trap Door, Back Door, Logic Bomb)
+- Code Injection
+- Keystroke Loggers
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
 ###### 2. Page Placement Algorithm (First Fit, Next Fit, Best Fit, **Buddy System**) V
