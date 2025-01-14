@@ -206,6 +206,7 @@ Terminologies
 
 **Trashes**: Sistem lebih banyak ngabisin waktu buat nuker-nuker process pieces daripada jalanin instruksi
 
+
 Fetch Policy:
 - Demand Paging
 - Prepaging
