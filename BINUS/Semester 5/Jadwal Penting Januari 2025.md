@@ -1,6 +1,6 @@
 Jadwal UAS
 14 Jan 
-- [ ] UAS OS (08:00)
+- [x] UAS OS (08:00)
 - [ ] UAS Entre Start (08:00)
 
 16 Jan

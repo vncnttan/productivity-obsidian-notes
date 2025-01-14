@@ -22,6 +22,10 @@
 - [ ] [[Portfolio Task]]
 - [ ] Clean C:/ laptop ATAU beli laptop baru!
 - [ ] Listing Extra Shift
+- [ ] Beresin Obsidian
 - [ ] Have the car talk with efran
 
 
+Libraries:
+- DreamBooth
+- 
