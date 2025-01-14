@@ -204,13 +204,142 @@ Terminologies
 - Address Space
 - Real Address
 
-**Trashes**: Sistem lebih banyak ngabisin waktu buat nuker-nuker process pieces daripada jalanin instruksi
+**Thrashes**: Sistem lebih banyak ngabisin waktu buat nuker-nuker process pieces daripada jalanin instruksi
 
 
 Fetch Policy:
 - Demand Paging
 - Prepaging
 
+##### Virtualization
+`Allows a single machine to run multiple virtual machines / multiple instances of Operating System on top of them.`
+
+Advantage:
+- Legacy hardware support 
+- Rapid Deployment
+- Consolidation (Efficiently share resource)
+- Ease of Management
+- Increased Availability
+
+Hypervisor:
+`Layer virtualization yang mengatur pembuatan dan management VMs`
+- Execution Management
+- Device Emulation and Access Control
+- Privileged Operation
+- VM Lifecycle Management
+
+**Virtualization Technique**
+- Paravirtualization: Guest OS interact with hypervisor through specialized communication
+- Hardware-Assisted Virtualziation: Leverage hardware-level feature of modern processors
+
+**Virtual Appliances**: Self-contained software solution distributed as VM images
+
+**Container Virtualization**: Lightweight and efficient. Focusing on virtualizing the application layer rather than the entire stack.
+
+Processor Management:
+- Emulate Chip as a Software
+- Scheduling vCPU to Physical CPU
+
+**Technique Memory Management di VM**:
+- Page Sharing: Hypervisor identifies identical memory pages accross VMs and store only one copy in the physical memory
+- Ballooning: Memory Reclamation technique used to dynamically manage memory between VM
+
+I/O Management
+- IOAT (I/O Acceleration Technology)
+- TOE (TCP Offload Engine)
+- LRO (Large Receive Offload)
+- LSO (Large Send Offload)
+
+##### Computer Security
+- Intruders
+- Threat
+- Attack
+
+CIA Triad
+- Confidentiality
+- Integrity
+- Availability
+
+Threat Categories:
+- Breach of confidentiality (unathorized person akses DB)
+- Breach of integrity (manipulating log file)
+- Breach of availability (DDOS, listrik padam)
+- Theft of Service (pake tanpa bayar, unathorized access to cloud computing resources)
+- Denial of Service (DoS)
+
+Security violation methods:
+- Masquerading
+- Replay Attack
+- MITM (Man in the middle)
+- Session Hijacking
+- Privilege Escalation
+
+Security Measures Level:
+- Physical
+- Application
+- Operating System
+- Network
+
+- Social Engineering
+
+Program Threats:
+- Viruses (Malware, Trojan Horse, Trap Door, Back Door, Logic Bomb)
+- Code Injection
+- Keystroke Loggers
+
+System and Network Threat:
+System Threat: Viruses, Worms
+Network Threat: Port Scan, DoS
+
+- **Worms**:
+Viruses that able to replicate itself and overwhelm the system
+Planted by a grapling hook
+
+- Port Scan
+- DoS
+- Masquerading
+- MITM
+
+
+Zero Trust Architecture
+Assumes a network is hostile and verifies each request
+1. Verify Explicitly (MFA, IAM)
+2. Least Privilege Access (RBAC)
+3. Assume Breach
+
+**Authentication**
+Process:
+- Identification Step
+- Verification Step
+
+Auth Methods:
+- Knowledge-Based Authentication
+- Posession-Based Authentication
+- Biometric Authentication (Static & Dynamic)
+
+**Security Defenses**
+`Layered security approach where multiple defense are implemented`
+Layers:
+- Vulnerability Assesment
+- Intrusion Detection System (Signature Based, Anomaly Detection)
+- Virus Protection (Scanning, Sandbox)
+- Auditing, Accounting, Logging
+- Practice Safe Computing
+- Firewalls (Packet Filtering Firewall, App Proxy Firewall, Personal)
+- Access Control (DAC, MAC, RBAC, ABAC)
+- Buffer Overflow Counter Measures (Compile Time Defenses, Runtime defenses)
+
+**OS Hardening**
+- Install and Patch OS
+- Remove Unneccessary Apps
+- Config users, groups, and permissions
+- Cong resource control
+- IOnstall and Configure Additional Security Controls
+- Test Security Configurations
+
+**Security Maintenance**:
+- Auditing Logging
+- Backup
 ### Kasus:
 ###### 1. Disk Scheduling (SCAN, CSCAN, FIFO, SSTF) V
 ###### 2. Page Placement Algorithm (First Fit, Next Fit, Best Fit, **Buddy System**) V
