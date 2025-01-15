@@ -1,6 +1,7 @@
 []()![[StandBySchedule.xlsx]]
 ### Today's Task
 - [ ] Rapihin Linkedin
+- [ ] Bayar Utang dan cek invest
 - [ ] Literature Review
 
 ### URGENT + IMPORTANT
