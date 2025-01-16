@@ -6,7 +6,7 @@
 
 ### URGENT + IMPORTANT
 *Do it now*
-
+- [ ] Tanya Pak Danny 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] Beli Kacamata
