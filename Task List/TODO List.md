@@ -1,9 +1,8 @@
 []()![[StandBySchedule.xlsx]]
 ### Today's Task
 - [ ] Rapihin Linkedin
-- [ ] Bayar Utang dan cek investR
+- [ ] Bayar Utang dan cek invest
 - [ ] Literature Review
-
 
 ### URGENT + IMPORTANT
 *Do it now*
@@ -11,7 +10,6 @@
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] Beli Kacamata
-- [ ] Photoshoot
 
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
@@ -22,6 +20,7 @@
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] [[Portfolio Task]]
+- [ ] Photoshoot
 - [ ] Clean C:/ laptop ATAU beli laptop baru!
 - [ ] Listing Extra Shift
 - [ ] Beresin Obsidian
