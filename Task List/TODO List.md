@@ -1,25 +1,25 @@
 []()![[StandBySchedule.xlsx]]
 ### Today's Task
-- [ ] Rapihin Linkedin
-- [ ] Bayar Utang dan cek invest
 - [ ] Literature Review
+- [ ] Compgraph
 
 ### URGENT + IMPORTANT
 *Do it now*
-- [ ] Tanya Pak Danny 
+- [x] Tanya Pak Danny 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] Beli Kacamata
 
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
-- [ ] [[SLCatering task]]
+- [ ] [[Portfolio Task]]
 - [ ] Clean Up Obsidian Mess
 - [ ] Bikin Sticker Line
+- [ ] Rapihin Linkedin
 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
-- [ ] [[Portfolio Task]]
+- [ ] [[SLCatering task]]
 - [ ] Photoshoot
 - [ ] Clean C:/ laptop ATAU beli laptop baru!
 - [ ] Listing Extra Shift
@@ -29,4 +29,4 @@
 
 Libraries:
 - DreamBooth
-- 
+
