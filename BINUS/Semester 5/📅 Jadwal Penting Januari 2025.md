@@ -1,10 +1,10 @@
 Jadwal UAS
 14 Jan 
 - [x] UAS OS (08:00)
-- [ ] UAS Entre Start (08:00)
+- [x] UAS Entre Start (08:00)
 
 16 Jan
-- [ ] UAS Comp Tech (15:00)
+- [x] UAS Comp Tech (15:00)
 - [ ] EO Deadline Correction 
 
 17 Jan
