@@ -8,7 +8,7 @@ Jadwal UAS
 - [ ] EO Deadline Correction 
 
 17 Jan
-- [ ] SN Deadline Correction
+- [x] SN Deadline Correction
 
 18 Jan
 - [ ] UAS Deep Learning Start (00:00)
