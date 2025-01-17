@@ -6,6 +6,7 @@
 ### URGENT + IMPORTANT
 *Do it now*
 - [x] Tanya Pak Danny 
+
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] Beli Kacamata
@@ -14,7 +15,7 @@
 *Decide when to do it*
 - [ ] [[Portfolio Task]]
 - [ ] Clean Up Obsidian Mess
-- [ ] Bikin Sticker Line
+- [x] Bikin Sticker Line
 - [ ] Rapihin Linkedin
 
 ### NOT URGENT, NOT IMPORTANT
