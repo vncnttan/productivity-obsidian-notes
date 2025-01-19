@@ -4,5 +4,5 @@
 - [x] CRUD Eloquent harusnya
 - [x] Localization
 - [x] Login & Auth
-- [ ] Session
+- [x] Session
 - [x] Middleware
