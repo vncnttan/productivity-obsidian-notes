@@ -5,4 +5,4 @@
 - [x] Localization
 - [x] Login & Auth
 - [ ] Session
-- [ ] Middleware
+- [x] Middleware
