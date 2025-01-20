@@ -14,11 +14,11 @@ Jadwal UAS
 - [ ] UAS Deep Learning Start (00:00)
 
 20 Jan
-- [ ] UAS Web Prog (08:00)
+- [x] UAS Web Prog (08:00)
 - [ ] MR Deadline Correction
 
 21 Jan
-- [ ] UAS Entre End (17:00)
+- [x] UAS Entre End (17:00)
 - [ ] LC103, RV Deadline Correction
 
 25 Jan
