@@ -1,5 +1,5 @@
 - [x] Routing
-- [x] MVC
+	- [x] MVC
 - [x] Migration Seeding Faker
 - [x] CRUD Eloquent harusnya
 - [x] Localization
