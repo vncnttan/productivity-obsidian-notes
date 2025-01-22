@@ -12,7 +12,7 @@ Jadwal UAS
 
 18 Jan
 - [ ] UAS Deep Learning Start (00:00)
-
+[]()
 20 Jan
 - [x] UAS Web Prog (08:00)
 - [ ] MR Deadline Correction

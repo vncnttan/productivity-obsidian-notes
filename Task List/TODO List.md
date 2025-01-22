@@ -1,6 +1,6 @@
 []()![[StandBySchedule.xlsx]]
 ### Today's Task
-- [ ] Literature Review
+[]()- [ ] Literature Review
 - [ ] Compgraph
 
 ### URGENT + IMPORTANT

@@ -1,4 +1,4 @@
-###  Esai 
+[]()###  Esai 
 ###### 1. File Organization Type
 > File System: Struktur logika yanng memungkinkan user untuk membuat koleksi data (Files), serta melakukan kumpulan fungsi terhadap files tersebut (*create, delete, open, close, read, write*)
 

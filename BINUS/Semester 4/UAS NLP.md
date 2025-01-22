@@ -1,4 +1,4 @@
-Natural Language Processing:
+Natural Language Processing:[]()
 4 Nomor, Calculator, di ANN ada perhitungan
 
 1. ANN (35%)
