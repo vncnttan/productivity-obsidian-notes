@@ -13,15 +13,15 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
    `Keadaan dari environment di waktu tertentu, memberikan semua informasi yang dibutuhkan oleh agent untuk menentukan keputusan. Representasi environment di suatu waktu tertentu. State datangnya dari environment.`
 	   - **Posisi kurir saat ini**
 	   - **Jalan selanjutnya yang dapat dilalui oleh kurir/ditutup**
-	   - **Tujuan dari masing-masing paket yang belum diantar**
-	   - **Kurir sampai di tujuan**
+	   - **Destinasi dari paket yang belum diantar**
+	   - **Paket sampai di tujuan**
 
 4. Action:
    `Action yang dapat diambil oleh agent. Action datangnya dari agent.`
 	   - **Alokasi paket yang akan dikirim oleh setiap kurir**
 	   - **Memutuskan paket selanjutnya yang akan dikirim**
 	   - **Menuju ke lokasi selanjutnya**
-	   - **Drop paket di lokasi**
+	   - **Drop paket di lokasi?**
 	   - **Kembali ke pos (posisi awal kurir)**
    
 5. Reward:
@@ -35,15 +35,21 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 
 6. Policy:
    `Strategi atau mapping yang digunakan oleh agent untuk memilih suatu action dari state tertentu. Mendifinisikan bagaimana agent memutuskan action yang tepat di state tertentu.`
-	   - **Neighboring Destination Policy**:
+	   - **Neighboring Destination Policy**
 	     Model clustering bisa digunakan untuk melakukan grouping terhadap lokasi destination, sehingga packet dengan destination yang berdekatan diantar oleh kurir yang sama dengan k tertentu (k =  jumlah paket yang bisa dibawa, bergantung dengan berat masing-masing paket) 
-	   - **Brute Force**:
-	     Algoritma dapat menggunakan metode Brute Force untuk mencoba **semua kemungkinan** dari rute yang dapat diambil, lalu model prediktif akan menghitung estimasi waktu yang dibutuhkan untuk mengantar semua paket (harus dibawah 8 jam)
 	   - **Dijkstra / A*?***
-	     Dijkstra / A* dan algoritma serupa dapat digunakan untuk menentukan rute paling optimal dari suatu titik ke titik lain dalam peta.
+	     Dijkstra / A* dan algoritma serupa dapat digunakan untuk menentukan rute paling optimal dari suatu titik ke titik lain dalam peta. Algoritma-algoritma ini juga dapat digunakan untuk menentukan urutan paket yang akan diantar selanjutnya, bergantung dengan cost yang dihasilkan dari suatu trip.
+	   - **Brute Force**
+	     Algoritma dapat menggunakan metode Brute Force untuk mencoba **semua kemungkinan** dari rute yang dapat diambil, lalu model prediktif akan menghitung estimasi waktu yang dibutuhkan untuk mengantar semua paket (harus dibawah 8 jam)
    
 7. Value Function (Return):
-
+   `Expected cummulative rewards yang dihasilkan dari state / action. Bagaimana cara searching route system menghasilkan route paling optimal dan menghindari penalti.`
+	   - **State Value Function**
+	     `Expected rewards from state s`
+	     State *paket sampai di tujuan* akan menghasilkan reward point positive. Semakin sering dan cepat paket sampai di tujuan, semakin baik.
+	   - **Action Value Function**
+	     `Expected reward from taking action a in state s`
+	     Action *menuju ke lokasi selanjutnya* akan menghasilkan reward point positive jika *destinasi paket* dengan *posisi kurir saat ini* dekat. Sedangkan akan menghasilkan punishment jika kurir perlu mengantar jauh dari destinasi 1 ke destinasi lainnya. 
 
 References:
 [Day 62: Reinforcement Learning Basics — Agent, Environment, Rewards | by Adithya Prasad Pandelu | Dec, 2024 | Medium](https://medium.com/@bhatadithya54764118/day-62-reinforcement-learning-basics-agent-environment-rewards-306b8e7e555c)
