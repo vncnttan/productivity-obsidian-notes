@@ -10,14 +10,14 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 	   - **Berat dan ukuran dari paket yang dikirim (?)**
 
 3. State:
-   `Keadaan dari environment di waktu tertentu, memberikan semua informasi yang dibutuhkan oleh agent untuk menentukan keputusan`
+   `Keadaan dari environment di waktu tertentu, memberikan semua informasi yang dibutuhkan oleh agent untuk menentukan keputusan. Representasi environment di suatu waktu tertentu. State datangnya dari environment.`
 	   - **Posisi kurir saat ini**
-	   - **Jalan yang dapat dilalui oleh kurir/ditutup**
+	   - **Jalan selanjutnya yang dapat dilalui oleh kurir/ditutup**
 	   - **Tujuan dari masing-masing paket yang belum diantar**
 	   - **Kurir sampai di tujuan**
 
 4. Action:
-   `Action yang dapat diambil oleh agent`
+   `Action yang dapat diambil oleh agent. Action datangnya dari agent.`
 	   - **Alokasi paket yang akan dikirim oleh setiap kurir**
 	   - **Memutuskan paket selanjutnya yang akan dikirim**
 	   - **Menuju ke lokasi selanjutnya**
@@ -25,7 +25,7 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 	   - **Kembali ke pos (posisi awal kurir)**
    
 5. Reward:
-   `Yang diterima oleh agent setelah melakukan action tertentu`
+   `Feedback yang diterima oleh agent setelah melakukan action tertentu. Menentukan seberapa bagus atau buruk suatu keputusan yang dipilih oleh agent.`
 	   - **Customer Rating**
 	     Semakin tinggi user rating, berarti agent sudah memilih jalur pengantaran paket yang cepat dan efisien.
 	   - **Delivered Packet Efficiency**
