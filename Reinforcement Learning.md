@@ -66,3 +66,9 @@ References:
 
 b. \[LO 1, LO 2, LO 3, 10 Points] Definisikan bagaimana perhitungan value function (return) untuk menentukan apakah tujuan dari model reinforcement learning ini sudah tercapai, anda dapat menentukan asumsi untuk perhitungan ini.
 
+Goal dari Model:
+- Mengantar 30 barang dalam satu hari
+- Memastikan bahwa setiap batch pengantaran <= 20 kg
+- Meminimalkan total jarak perjalanan kurir dalam radius 20 km.
+
+Perhitungan value function 
