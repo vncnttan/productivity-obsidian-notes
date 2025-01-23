@@ -1,5 +1,7 @@
 Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 
+a. \[LO 1, LO 2, LO 3, 15 Points] Mendefinisikan semua element dalam reinforcement learning agent, environment, state, action, reward, policy dan value function (return) untuk problem ini
+
 1. Agent
    `Decision maker / learner yang melakukan aksi dengan cara berinteraksi dengan environment. Bertujuan memilih keputusan terbaik untuk mencapai tujuan.`
 	   - **Searching Route System**
@@ -60,3 +62,7 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 
 References:
 [Day 62: Reinforcement Learning Basics — Agent, Environment, Rewards | by Adithya Prasad Pandelu | Dec, 2024 | Medium](https://medium.com/@bhatadithya54764118/day-62-reinforcement-learning-basics-agent-environment-rewards-306b8e7e555c)
+
+
+b. \[LO 1, LO 2, LO 3, 10 Points] Definisikan bagaimana perhitungan value function (return) untuk menentukan apakah tujuan dari model reinforcement learning ini sudah tercapai, anda dapat menentukan asumsi untuk perhitungan ini.
+

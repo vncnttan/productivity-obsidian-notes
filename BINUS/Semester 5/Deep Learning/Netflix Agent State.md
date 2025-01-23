@@ -1,7 +1,7 @@
 Recommendation System Netflix
 
 * Agent -> Yang melakukan aksi rekomendasi
-Recommendation System (yang melakukan aksi rekomendasi)
+	Recommendation System (yang melakukan aksi rekomendasi)
 
 * Environment -> Hal eksternal diluar, yang berinteraksi dengan agent
 	- Region/Negara
