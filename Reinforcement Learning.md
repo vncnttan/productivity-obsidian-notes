@@ -86,12 +86,12 @@ Reinforcement Learning dapat menggunakan formula **Action Value Function** untuk
 γ (0≤γ≤1) adalah discount factor yang mementingkan reward masa depan dibandingkan dengan reward saat ini. Tujuannya untuk mendapatkan hasil yang paling optimal di masa depan dan membuat model tidak greedy (naif). 
 
 Contoh perhitungan value function yang dapat digunakan:
-**Reward Positif**:
+**Reward Positif (+)**:
 	\+ 100 jika semua 30 barang berhasil diantarkan dalam 8 jam
 	\+ 50 jika barang berhasil diantarkan ke alamat tujuan
 	+ 5 jika barang diterima dengan rating tinggi (barang diterima dengan kondisi baik)
 
-**Reward Negatif**:
+**Reward Negatif (-)**:
 	\- 500 jika dalam 8 jam pengantaran paket masih belum selesai
 	- 10 setiap jam yang terbuang dalam pengantaran barang (memastikan tetap mencari jalur yang optimal)
 	- 20 jika jarak tempuh dalam satu perjalanan melebihi jarak optimal dalam radius 20km
