@@ -1,6 +1,6 @@
 Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 
-a. \[LO 1, LO 2, LO 3, 15 Points] Mendefinisikan semua element dalam reinforcement learning agent, environment, state, action, reward, policy dan value function (return) untuk problem ini
+##### a. \[LO 1, LO 2, LO 3, 15 Points] Mendefinisikan semua element dalam reinforcement learning agent, environment, state, action, reward, policy dan value function (return) untuk problem ini
 
 1. Agent
    `Decision maker / learner yang melakukan aksi dengan cara berinteraksi dengan environment. Bertujuan memilih keputusan terbaik untuk mencapai tujuan.`
@@ -66,23 +66,47 @@ References:
 [Day 62: Reinforcement Learning Basics — Agent, Environment, Rewards | by Adithya Prasad Pandelu | Dec, 2024 | Medium](https://medium.com/@bhatadithya54764118/day-62-reinforcement-learning-basics-agent-environment-rewards-306b8e7e555c)
 
 
-b. \[LO 1, LO 2, LO 3, 10 Points] Definisikan bagaimana perhitungan value function (return) untuk menentukan apakah tujuan dari model reinforcement learning ini sudah tercapai, anda dapat menentukan asumsi untuk perhitungan ini.
+##### b. \[LO 1, LO 2, LO 3, 10 Points] Definisikan bagaimana perhitungan value function (return) untuk menentukan apakah tujuan dari model reinforcement learning ini sudah tercapai, anda dapat menentukan asumsi untuk perhitungan ini.
 
-Goal dari Model:
+**Goal dari Model**:
 - Mengantar 30 barang dalam satu hari
 - Memastikan bahwa setiap batch pengantaran <= 20 kg
 - Meminimalkan total jarak perjalanan kurir dalam radius 20 km.
 
-Perhitungan value function:
+**Asumsi yang diambil**:
+- Pengantaran dilakukan beberapa barang sekaligus
+- Rute tercepat antar titik sudah ditemukan melalui GPS dan algoritma
+- Fokus lebih ke alokasi paket ke kurir dan waktu yang dibutuhkan
 
 
+![[Pasted image 20250123111531.png]]
+
+Reinforcement Learning dapat menggunakan formula **Action Value Function** untuk menentukan expected return (cummulative reward) dari state s, yang mengambil action a.
+
+γ (0≤γ≤1) adalah discount factor yang mementingkan reward masa depan dibandingkan dengan reward saat ini. Tujuannya untuk mendapatkan hasil yang paling optimal di masa depan dan membuat model tidak greedy (naif). 
+
+Contoh perhitungan value function yang dapat digunakan:
+**Reward Positif**:
+	\+ 100 jika semua 30 barang berhasil diantarkan dalam 8 jam
+	\+ 50 jika barang berhasil diantarkan ke alamat tujuan
+	+ 5 jika barang diterima dengan rating tinggi (barang diterima dengan kondisi baik)
+
+**Reward Negatif**:
+	\- 500 jika dalam 8 jam pengantaran paket masih belum selesai
+	- 10 setiap jam yang terbuang dalam pengantaran barang (memastikan tetap mencari jalur yang optimal)
+	- 20 jika jarak tempuh dalam satu perjalanan melebihi jarak optimal dalam radius 20km
+	- 50 jika barang melampaui kapasitas maksimal
 
 
+References:
+[Relationship between state (V) and action(Q) value function in Reinforcement Learning | by Dhanoop Karunakaran | Intro to Artificial Intelligence | Medium](https://medium.com/intro-to-artificial-intelligence/relationship-between-state-v-and-action-q-value-function-in-reinforcement-learning-bb9a988c0127)
+
+Algoritma berikut dapat digunakan untuk membantu agent memberikan keputusan
+  - **Neighboring Destination Policy**
+	 Model clustering bisa digunakan untuk melakukan grouping terhadap lokasi destination, sehingga packet dengan destination yang berdekatan diantar oleh kurir yang sama dengan k tertentu (k =  jumlah paket yang bisa dibawa, bergantung dengan berat masing-masing paket) 
+   - **Dijkstra / A****
+	 Dijkstra / A* dan algoritma serupa dapat digunakan untuk menentukan rute paling optimal dari suatu titik ke titik lain dalam peta. Algoritma-algoritma ini juga dapat digunakan untuk menentukan urutan paket yang akan diantar selanjutnya, bergantung dengan cost yang dihasilkan dari suatu trip.
+   - **Brute Force**
+	 Algoritma dapat menggunakan metode Brute Force untuk mencoba **semua kemungkinan** dari rute yang dapat diambil, lalu action value function akan menghitung estimasi reward yang dihasilkan dari state yang ada saat ini.
 
 
-	  - **Neighboring Destination Policy**
-	     Model clustering bisa digunakan untuk melakukan grouping terhadap lokasi destination, sehingga packet dengan destination yang berdekatan diantar oleh kurir yang sama dengan k tertentu (k =  jumlah paket yang bisa dibawa, bergantung dengan berat masing-masing paket) 
-	   - **Dijkstra / A****
-	     Dijkstra / A* dan algoritma serupa dapat digunakan untuk menentukan rute paling optimal dari suatu titik ke titik lain dalam peta. Algoritma-algoritma ini juga dapat digunakan untuk menentukan urutan paket yang akan diantar selanjutnya, bergantung dengan cost yang dihasilkan dari suatu trip.
-	   - **Brute Force**
-	     Algoritma dapat menggunakan metode Brute Force untuk mencoba **semua kemungkinan** dari rute yang dapat diambil, lalu model prediktif akan menghitung estimasi waktu yang dibutuhkan untuk mengantar semua paket (harus dibawah 8 jam)
