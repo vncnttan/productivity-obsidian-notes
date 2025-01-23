@@ -110,3 +110,8 @@ Algoritma berikut dapat digunakan untuk membantu agent memberikan keputusan
 	 Algoritma dapat menggunakan metode Brute Force untuk mencoba **semua kemungkinan** dari rute yang dapat diambil, lalu action value function akan menghitung estimasi reward yang dihasilkan dari state yang ada saat ini.
 
 
+
+
+References Nomor 1
+
+[[1708.07747] Fashion-MNIST: a Novel Image Dataset for Benchmarking Machine Learning Algorithms](https://arxiv.org/abs/1708.07747)
