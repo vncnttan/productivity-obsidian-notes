@@ -44,12 +44,14 @@ a. \[LO 1, LO 2, LO 3, 15 Points] Mendefinisikan semua element dalam reinforceme
 
 6. Policy:
    `Strategi atau mapping yang digunakan oleh agent untuk memilih suatu action dari state tertentu. Mendifinisikan bagaimana agent memutuskan action yang tepat di state tertentu.`
-	   - **Neighboring Destination Policy**
-	     Model clustering bisa digunakan untuk melakukan grouping terhadap lokasi destination, sehingga packet dengan destination yang berdekatan diantar oleh kurir yang sama dengan k tertentu (k =  jumlah paket yang bisa dibawa, bergantung dengan berat masing-masing paket) 
-	   - **Dijkstra / A****
-	     Dijkstra / A* dan algoritma serupa dapat digunakan untuk menentukan rute paling optimal dari suatu titik ke titik lain dalam peta. Algoritma-algoritma ini juga dapat digunakan untuk menentukan urutan paket yang akan diantar selanjutnya, bergantung dengan cost yang dihasilkan dari suatu trip.
-	   - **Brute Force**
-	     Algoritma dapat menggunakan metode Brute Force untuk mencoba **semua kemungkinan** dari rute yang dapat diambil, lalu model prediktif akan menghitung estimasi waktu yang dibutuhkan untuk mengantar semua paket (harus dibawah 8 jam)
+	   - **Alokasi paket dalam satu perjalanan**
+	     Dalam satu perjalanan, kurir dapat mengangkut beberapa paket secara sekaligus, maka agent harus dapat menentukan paket mana yang sebaiknya diambil oleh kurir yang mana. Perlu diperhatian juga bahwa paket tidak boleh melebihi 20kg dan destinasi dari paket tidak melebihi 20km.
+	   - **Urutan optimal pengantaran**
+	     Urutan optimal pengantaran perlu dijadikan sebagai policy agar kurir dapat memprioritaskan pengantaran dengan baik. Jika urutan pengantaran tidak optimal, maka jalur yang dilewati kurir akan tidak efisien sehingga boros waktu.
+	   - **Kapan harus kembali ke posisi awal**
+	     Model juga harus memutuskan kapan harus kembali ke posisi awal. Perlu dipertimbangkan jumlah berat dan destinasi paket yang tersisa, serta posisi kurir sekarang dengan posisi pos. Jika posisi kurir mendekati posisi awal dan barang yang dibawa sedikit, serta destinasi paketnya akan melewati pos, maka kemungkinan besar kurir akan diarahkan untuk kembali ke posisi awal untuk mengambil paket yang dialokasikan.
+	   - **Rute terpendek antara titik pengantaran**
+	     Rute terpendek antara titik pengantaran / lokasi kurir saat ini perlu dicari yang paling optimal agar waktu yang terbuang minimal dan semakin banyak paket yang sampai ke destinasi tujuan.
    
 7. Value Function (Return):
    `Expected cummulative rewards yang dihasilkan dari state / action. Bagaimana cara searching route system menghasilkan route paling optimal dan menghindari penalti.`
@@ -71,4 +73,16 @@ Goal dari Model:
 - Memastikan bahwa setiap batch pengantaran <= 20 kg
 - Meminimalkan total jarak perjalanan kurir dalam radius 20 km.
 
-Perhitungan value function 
+Perhitungan value function:
+
+
+
+
+
+
+	  - **Neighboring Destination Policy**
+	     Model clustering bisa digunakan untuk melakukan grouping terhadap lokasi destination, sehingga packet dengan destination yang berdekatan diantar oleh kurir yang sama dengan k tertentu (k =  jumlah paket yang bisa dibawa, bergantung dengan berat masing-masing paket) 
+	   - **Dijkstra / A****
+	     Dijkstra / A* dan algoritma serupa dapat digunakan untuk menentukan rute paling optimal dari suatu titik ke titik lain dalam peta. Algoritma-algoritma ini juga dapat digunakan untuk menentukan urutan paket yang akan diantar selanjutnya, bergantung dengan cost yang dihasilkan dari suatu trip.
+	   - **Brute Force**
+	     Algoritma dapat menggunakan metode Brute Force untuk mencoba **semua kemungkinan** dari rute yang dapat diambil, lalu model prediktif akan menghitung estimasi waktu yang dibutuhkan untuk mengantar semua paket (harus dibawah 8 jam)
