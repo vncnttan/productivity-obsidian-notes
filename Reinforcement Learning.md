@@ -44,13 +44,13 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 
 6. Policy:
    `Strategi atau mapping yang digunakan oleh agent untuk memilih suatu action dari state tertentu. Mendifinisikan bagaimana agent memutuskan action yang tepat di state tertentu.`
-	   - **Alokasi paket dalam satu perjalanan**
+	   - **Paket mana saja yang perlu diantar dalam suatu perjalanan tertentu**
 	     Dalam satu perjalanan, kurir dapat mengangkut beberapa paket secara sekaligus, maka agent harus dapat menentukan paket mana yang sebaiknya diambil oleh kurir yang mana. Perlu diperhatian juga bahwa paket tidak boleh melebihi 20kg dan destinasi dari paket tidak melebihi 20km.
-	   - **Urutan optimal pengantaran**
+	   - **Urutan pengantaran mana yang paling optimal**
 	     Urutan optimal pengantaran perlu dijadikan sebagai policy agar kurir dapat memprioritaskan pengantaran dengan baik. Jika urutan pengantaran tidak optimal, maka jalur yang dilewati kurir akan tidak efisien sehingga boros waktu.
 	   - **Kapan harus kembali ke posisi awal**
 	     Model juga harus memutuskan kapan harus kembali ke posisi awal. Perlu dipertimbangkan jumlah berat dan destinasi paket yang tersisa, serta posisi kurir sekarang dengan posisi pos. Jika posisi kurir mendekati posisi awal dan barang yang dibawa sedikit, serta destinasi paketnya akan melewati pos, maka kemungkinan besar kurir akan diarahkan untuk kembali ke posisi awal untuk mengambil paket yang dialokasikan.
-	   - **Rute terpendek antara titik pengantaran**
+	   - **Rute terpendek antara titik pengantaran yang mana yang bisa diambil**
 	     Rute terpendek antara titik pengantaran / lokasi kurir saat ini perlu dicari yang paling optimal agar waktu yang terbuang minimal dan semakin banyak paket yang sampai ke destinasi tujuan.
    
 7. Value Function (Return):
