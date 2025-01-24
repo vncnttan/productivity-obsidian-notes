@@ -27,10 +27,12 @@ Recommendation System Netflix
 	* Close (karena rekomendasi offensive/buruk, user hingga keluar dari aplikasi netflix dan tidak mood untuk nonton lagi)
 
 - Policy
+	- INI NGACO PARAH JANGAN DIIKUTIN
 	- Parametric Policy: Model predictive bisa digunakan untuk mencari dari feature user seperti preferensi genre dll, mana film yang bisa di rekomendasikan
 	- Graph Machine Learning: Graph machine learning dapat digunakan untuk melihat film apa yang dinikmati oleh user yang menonton hal serupa
 	- Random: Random bisa digunakan untuk membuat user explore ke film2 baru
 
 - Value Function:
+	- YANG INI JUGA NGACO PARAH HASIL GPT
 	- State Value Function: Apakah user yang direkomendasikan sesuatu memberikan nilai yang tinggi
 	- Action Value Function: Bagaimana rekomendasi mempengarui reward yang diberikan user dan bagaimana long-term benefitnya, misalnya dari engagement user dll
