@@ -57,10 +57,10 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
    `Expected cummulative rewards yang dihasilkan dari state / action. Bagaimana cara searching route system menghasilkan route paling optimal dan menghindari penalti.`
 	   - **State Value Function**
 	     `Expected rewards from state s`
-	     State *paket sampai di tujuan* akan menghasilkan reward point positive. Semakin sering dan cepat paket sampai di tujuan, semakin baik.
+	     Contoh: State *paket sampai di tujuan* akan menghasilkan reward point positive. Semakin sering dan cepat paket sampai di tujuan, semakin baik.
 	   - **Action Value Function**
 	     `Expected reward from taking action a in state s`
-	     Action *menuju ke lokasi selanjutnya* akan menghasilkan reward point positive jika *destinasi paket* dengan *posisi kurir saat ini* dekat. Sedangkan akan menghasilkan punishment jika kurir perlu mengantar jauh dari destinasi 1 ke destinasi lainnya. 
+	     Contoh: Action *menuju ke lokasi selanjutnya* akan menghasilkan reward point positive jika *destinasi paket* dengan *posisi kurir saat ini* dekat. Sedangkan akan menghasilkan punishment jika kurir perlu mengantar jauh dari destinasi 1 ke destinasi lainnya. 
 
 References:
 [Day 62: Reinforcement Learning Basics — Agent, Environment, Rewards | by Adithya Prasad Pandelu | Dec, 2024 | Medium](https://medium.com/@bhatadithya54764118/day-62-reinforcement-learning-basics-agent-environment-rewards-306b8e7e555c)
