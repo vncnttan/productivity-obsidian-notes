@@ -110,6 +110,7 @@ Algoritma berikut dapat digunakan untuk membantu agent memberikan keputusan
 	 Algoritma dapat menggunakan metode Brute Force untuk mencoba **semua kemungkinan** dari rute yang dapat diambil, lalu action value function akan menghitung estimasi reward yang dihasilkan dari state yang ada saat ini.
 
 
+TODO: Penjelasan kode nomor 1 2
 
 
 References Nomor 1
