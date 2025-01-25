@@ -84,7 +84,7 @@ References:
 
 Reinforcement Learning dapat menggunakan formula **Action Value Function** untuk menentukan expected return (cummulative reward) dari state s, yang mengambil action a.
 
-γ (0≤γ≤1) adalah discount factor yang mementingkan reward masa depan dibandingkan dengan reward saat ini. Tujuannya untuk mendapatkan hasil yang paling optimal di masa depan dan membuat model tidak greedy (naif). 
+γ (0≤γ≤1) adalah discount factor yang mementingkan reward masa depan dibandingkan dengan reward saat ini. Tujuannya untuk mendapatkan hasil yang paling optimal di masa depan dan membuat model tidak greedy (naif). Semakin tinggi sigma, maka semakin tinggi model memikirkan masa depan atas keputusan yang akan diambil sekarang.
 
 Contoh perhitungan value function yang dapat digunakan:
 **Reward Positif (+)**:
@@ -98,7 +98,9 @@ Contoh perhitungan value function yang dapat digunakan:
 	- 20 jika jarak tempuh dalam satu perjalanan melebihi jarak optimal dalam radius 20km
 	- 50 jika barang melampaui kapasitas maksimal
 
-Discount Factor 0.7
+**Contoh Perhitungan**
+
+**Discount Factor 0.7**
 Sampe barang: 50 * γ ^ t  = 50 * 1 = 50
 Udah 1 jam berlalu = -10 * 0.7 ^ 1 = - 10 * 0.7 = -7
 Sum = 50 - 7 = 43
