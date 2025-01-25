@@ -1,10 +1,11 @@
+Vincent Tanjaya - 2602128346
 Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 
 ##### a. \[LO 1, LO 2, LO 3, 15 Points] Mendefinisikan semua element dalam reinforcement learning agent, environment, state, action, reward, policy dan value function (return) untuk problem ini
 
 1. Agent
    `Decision maker / learner yang melakukan aksi dengan cara berinteraksi dengan environment. Bertujuan memilih keputusan terbaik untuk mencapai tujuan.`
-	   - **Searching Route System**
+	   - **Searching Route, Decision, and Allocation System**
    
 2. Environment:
    `Hal eksternal diluar sistem yang berinteraksi dengan agent dan merespon dengan agent, menghasilkan feedback dan state baru.`
@@ -13,12 +14,11 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
 	   - **Kondisi jalan dan rute yang tersedia**
 
 3. State:
-   `Keadaan dari environment di waktu tertentu, memberikan semua informasi yang dibutuhkan oleh agent untuk menentukan keputusan. Representasi environment di suatu waktu tertentu. State datangnya dari environment.`
+   `Keadaan dari environment di satu waktu tertentu, memberikan semua informasi yang dibutuhkan oleh agent untuk menentukan keputusan. Representasi environment di suatu waktu tertentu. State datangnya dari environment.`
 	   - **Posisi kurir saat ini**
 	   - **Jalan selanjutnya yang dapat dilalui oleh kurir/ditutup**
 	   - **Destinasi dari paket yang belum diantar**
 	   - **Sisa waktu dari 8 jam**
-	   - **Paket sampai di tujuan**
 
 4. Action:
    `Action yang dapat diambil oleh agent. Action datangnya dari agent.`
