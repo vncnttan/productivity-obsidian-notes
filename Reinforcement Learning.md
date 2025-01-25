@@ -24,7 +24,7 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
    `Action yang dapat diambil oleh agent. Action datangnya dari agent.`
 	   - **Alokasi paket yang akan dikirim oleh setiap kurir**
 	   - **Memutuskan paket selanjutnya yang akan dikirim**
-	   - **Menuju ke lokasi selanjutnya**
+	   - **Menuju ke lokasi selanjutnya (nyari rutenya)**
 	   - **Drop paket di lokasi**
 	   - **Kembali ke pos (posisi awal kurir)**
    
