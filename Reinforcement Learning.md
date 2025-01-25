@@ -57,7 +57,7 @@ Mencari rute paling optimal untuk perjalanan kurir yang mengangkut paket.
    `Expected cummulative rewards yang dihasilkan dari state / action. Bagaimana cara searching route system menghasilkan route paling optimal dan menghindari penalti.`
 	   - **State Value Function**
 	     `Expected rewards from state s`
-	     Contoh: State *paket sampai di tujuan* akan menghasilkan reward point positive. Semakin sering dan cepat paket sampai di tujuan, semakin baik.
+	     Contoh: State *sisa waktu dari 8 jam* akan menghasilkan reward point positive. Semakin sering dan cepat paket sampai di tujuan, semakin baik.
 	   - **Action Value Function**
 	     `Expected reward from taking action a in state s`
 	     Contoh: Action *menuju ke lokasi selanjutnya* akan menghasilkan reward point positive jika *destinasi paket* dengan *posisi kurir saat ini* dekat. Sedangkan akan menghasilkan punishment jika kurir perlu mengantar jauh dari destinasi 1 ke destinasi lainnya. 
@@ -77,6 +77,7 @@ References:
 - Pengantaran dilakukan beberapa barang sekaligus
 - Rute tercepat antar titik sudah ditemukan melalui GPS dan algoritma
 - Fokus lebih ke alokasi paket ke kurir dan waktu yang dibutuhkan
+- Bisa lebih dari 8 jam tapi jadi penalti, barangnya bisa lebih dari 20 kg tapi jadi penalti
 
 
 ![[Pasted image 20250123111531.png]]
@@ -96,6 +97,18 @@ Contoh perhitungan value function yang dapat digunakan:
 	- 10 setiap jam yang terbuang dalam pengantaran barang (memastikan tetap mencari jalur yang optimal)
 	- 20 jika jarak tempuh dalam satu perjalanan melebihi jarak optimal dalam radius 20km
 	- 50 jika barang melampaui kapasitas maksimal
+
+Discount Factor 0.7
+Sampe barang: 50 * γ ^ t  = 50 * 1 = 50
+Udah 1 jam berlalu = -10 * 0.7 ^ 1 = - 10 * 0.7 = -7
+Sum = 50 - 7 = 43
+
+Udah 1 jam berlalu = -10 * 0.7 ^ 0 = - 10 * 1 = -10
+Sampe barang: 50 * 0.7 ^ 1 = 50 * 0.7 = 35
+Sum = -10 + 35 = 25
+
+
+
 
 
 References:
