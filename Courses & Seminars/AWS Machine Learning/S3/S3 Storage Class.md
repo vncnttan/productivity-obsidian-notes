@@ -12,7 +12,7 @@
 - Low latency and high throughput 
 - Sustain 2 conccurent facility failures
 
-Use Case: Big Data Analyticcs, Mobile & Gaming Applications, Content Distribution
+Use Case: Big Data Analytics, Mobile & Gaming Applications, Content Distribution
 
 ## S3 Storage Classes – Infrequent Access: Low Storage Cost, Requires rapid access when needed ⛈
 • For data that is less frequently accessed, but requires rapid access when needed 
@@ -66,7 +66,7 @@ Tiers:
   - Example: Move objects to Standard IA class 60 days after creation
   - Example: Move to Glacier for archiving after 6 months
 - Expiration Actions
-  Configure objects to expire(delete after some time)
+  Configure objects to expire (delete after some time)
   - Can be used to delete old versions of files (if versioning is enabled)
   - Can be used to delete incomplete Multi-Part uploads
 
