@@ -2,7 +2,7 @@
 ## Data Engineering (20%)
 [[Amazon S3]]
 [[Amazon AWS Kinesis]]
-[[Glue Data Catalog]]
+[[Glue]]
 
 ##  Exploratory Data Analysis (24%)
 
