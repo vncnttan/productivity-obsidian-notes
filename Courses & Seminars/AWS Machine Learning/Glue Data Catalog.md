@@ -15,6 +15,8 @@ Helping to build the Glue Data Catalog
 - Need an IAM role / credentials to access the data stores
 
 
-Glue and S3 Partitions
+#### Glue and S3 Partitions
+`Glue crawlers will extract partitions based on how the data is organized in the S3, so you need to think up front about how the data is stored`
+![[Pasted image 20250131133219.png]]
 
 
