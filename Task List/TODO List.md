@@ -1,5 +1,8 @@
 []()![[StandBySchedule.xlsx]]
 
+#### The first thing you do
+- [ ] Kabarin kak cia2 completing Blackwolves Group Employee Onboarding Form
+
 ### URGENT + IMPORTANT
 *Do it now*
 - [x] Tanya Pak Danny 
