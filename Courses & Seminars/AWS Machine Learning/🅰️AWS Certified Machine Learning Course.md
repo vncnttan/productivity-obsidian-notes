@@ -5,6 +5,7 @@
 [[Amazon Glue]]
 [[Amazon Athena]]
 [[AWS Data Stores for Machine Learning]]
+[[AWS Data Pipeline]]
 
 ##  Exploratory Data Analysis (24%)
 
