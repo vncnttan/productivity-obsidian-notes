@@ -7,12 +7,15 @@
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [x] Beli Kacamata
+- [ ] Migrate important things from onedrive @binus.edu to @binus.ac.id
+- [ ] HC Exit Clearance
 
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] [[Portfolio Task]]
 - [ ] Literature Review
 - [ ] Clean Up Obsidian Mess
+- [ ] Clean Up Google Drive Mess
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] [[SLCatering task]]
