@@ -1,6 +1,6 @@
 []()![[StandBySchedule.xlsx]]
 
-#### The first thing you do
+#### The first thing you do in the morning
 
 
 ### URGENT + IMPORTANT
@@ -26,6 +26,7 @@
 - [ ] Clean C:/ laptop ATAU beli laptop baru!
 	- [ ] Beli Komputer
 	- [ ] [[Backup Laptop]]
+- [ ] Set Tanda Tangan Gmail vincent@val.id
 - [ ] Listing Extra Shift
 - [ ] Rapihin Linkedin
 - [ ] Beresin Obsidian
