@@ -27,9 +27,13 @@ AHU
 
 Question:
 AHU
-- Q: Test and Evaluation itu sudah di fix kah?
+- Q: Test and Evaluation itu sudah di fix kah, atau to be fixed? Soalnya di task list gaada bagian testingnya
 
 DJKI Search Engine
 - Q: http://210.247.245.156:9031 Username: valid Password: Valid1235* Ini cara aksesnya gimana?
 - Q: Biasanya yang di AI Task Management apakah selama mengerjakan, kalau kepikiran step selanjutnya baru nambahin, atau langsung dari awal di define smua dlu stepnya apa aja? Soalnya kayak berarti yang Machine Translatiuon itu work in progress tapi step nya finished semua
-- 
+
+
+
+#### Suggestion:
+- Kenapa test gambarnya sama yang kembar dan yang mirip aja?
