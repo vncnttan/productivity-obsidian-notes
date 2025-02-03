@@ -5,8 +5,6 @@ Ongoing:
 Project -> Dari client luar
 Product -> Dari kita
 
-
-
 Task Sekarang:
 - Pahami semua project dari sekarang
 - Bantu brainstorming aja 
@@ -18,4 +16,4 @@ Yang udah video
 
 
 Notes / Question:
-- 
+- Q: Test and Evaluation itu sudah di fix kah?
