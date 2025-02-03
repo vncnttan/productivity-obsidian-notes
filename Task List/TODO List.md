@@ -2,6 +2,7 @@
 
 #### The first thing you do
 - [ ] Kabarin kak cia2 completing Blackwolves Group Employee Onboarding Form
+- [ ] Kabarin ko DR cuti
 
 ### URGENT + IMPORTANT
 *Do it now*
