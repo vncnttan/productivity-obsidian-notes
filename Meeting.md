@@ -17,3 +17,4 @@ Yang udah video
 
 Notes / Question:
 - Q: Test and Evaluation itu sudah di fix kah?
+- 
