@@ -28,11 +28,11 @@ AHU
 Question:
 AHU
 - Q: Test and Evaluation itu sudah di fix kah, atau to be fixed? Soalnya di task list gaada bagian testingnya
+- Q (Untuk Project): Berarti untuk flownya itu kita yang brainstorming sendiri kah kira-kira gimana baiknya, sebelum di acc oleh client atau tergantung clientnya masing-masing?  
 
 DJKI Search Engine
 - Q: http://210.247.245.156:9031 Username: valid Password: Valid1235* Ini cara aksesnya gimana?
 - Q: Biasanya yang di AI Task Management apakah selama mengerjakan, kalau kepikiran step selanjutnya baru nambahin, atau langsung dari awal di define smua dlu stepnya apa aja? Soalnya kayak berarti yang Machine Translation itu work in progress tapi step nya finished semua
-- Q: Untuk diagram diliat dari chat itu buatan ko Luis, nah itu biasanya dibuatin 
 
 DJKI Machine Translation
 - Q: Kalau ini berarti kita kan dah nemu yah, potentialnya apa aja. Nah ini tugas kita kah untuk bandingin dan tentuin mana yang paling cocok, buat inferencenya dll? Atau emang tergantung clientnya? Soalnya di Task Management cuma ***Design architecture & models*** aja 
