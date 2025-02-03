@@ -15,3 +15,7 @@ Yang udah video
 
 
 [‌​​​​​⁠​‬‬‬‌​​​​‌‬​‬⁠​⁠​⁠​​​‌‌​‍​‬‍﻿​⁠﻿​‬⁠​​﻿‍​​[ONBOARDING] AI Engineer - Lark Docs](https://lacak.larksuite.com/docx/Vs4UdWvZcoqeVtxyATTuo9pqsVe)
+
+
+Notes / Question:
+- 
