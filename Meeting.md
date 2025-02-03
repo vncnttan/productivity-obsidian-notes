@@ -31,7 +31,15 @@ AHU
 
 DJKI Search Engine
 - Q: http://210.247.245.156:9031 Username: valid Password: Valid1235* Ini cara aksesnya gimana?
-- Q: Biasanya yang di AI Task Management apakah selama mengerjakan, kalau kepikiran step selanjutnya baru nambahin, atau langsung dari awal di define smua dlu stepnya apa aja? Soalnya kayak berarti yang Machine Translatiuon itu work in progress tapi step nya finished semua
+- Q: Biasanya yang di AI Task Management apakah selama mengerjakan, kalau kepikiran step selanjutnya baru nambahin, atau langsung dari awal di define smua dlu stepnya apa aja? Soalnya kayak berarti yang Machine Translation itu work in progress tapi step nya finished semua
+- Q: Untuk diagram diliat dari chat itu buatan ko Luis, nah itu biasanya dibuatin 
+
+DJKI Machine Translation
+- Q: Kalau ini berarti kita kan dah nemu yah, potentialnya apa aja. Nah ini tugas kita kah untuk bandingin dan tentuin mana yang paling cocok, buat inferencenya dll? Atau emang tergantung clientnya? Soalnya di Task Management cuma ***Design architecture & models*** aja 
+```
+1. En to Id: https://huggingface.co/pricing#endpoints | https://huggingface.co/Helsinki-NLP/opus-mt-en-id | https://huggingface.co/facebook/nllb-200-distilled-600M | https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt | Google Translate API
+```
+
 
 
 
