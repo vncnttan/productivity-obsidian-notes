@@ -12,3 +12,6 @@ Task Sekarang:
 - Bantu brainstorming aja 
 
 Yang udah video 
+
+
+[‌​​​​​⁠​‬‬‬‌​​​​‌‬​‬⁠​⁠​⁠​​​‌‌​‍​‬‍﻿​⁠﻿​‬⁠​​﻿‍​​[ONBOARDING] AI Engineer - Lark Docs](https://lacak.larksuite.com/docx/Vs4UdWvZcoqeVtxyATTuo9pqsVe)
