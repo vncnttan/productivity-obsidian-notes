@@ -18,6 +18,7 @@
 *Decide when to do it*
 - [ ] [[Portfolio Task]]
 - [ ] Literature Review
+- [ ] Uninstall Obsidian from Phone and clean up any mess
 - [ ] Clean Up Obsidian Mess
 - [ ] Clean Up Google Drive Mess
 ### NOT URGENT, NOT IMPORTANT
