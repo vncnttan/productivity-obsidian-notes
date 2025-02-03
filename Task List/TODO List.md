@@ -1,17 +1,14 @@
 []()![[StandBySchedule.xlsx]]
 
 #### The first thing you do
-- [x] Kabarin kak cia2 completing Blackwolves Group Employee Onboarding Form
-- [x] Kabarin ko DR cuti
+
 
 ### URGENT + IMPORTANT
 *Do it now*
-- [x] Tanya Pak Danny 
 - [ ] Cari Kosan
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [x] Beli Kacamata
 - [ ] Migrate important things from onedrive @binus.edu to @binus.ac.id
 - [ ] HC Exit Clearance
 
