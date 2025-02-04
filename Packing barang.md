@@ -5,7 +5,7 @@ Packing:
 	 - [x] (2) Cadangan
 	 - [ ] Celana Dalam
 - [x] Jaket 
-- [x] Alat mandi + handuk (opsional)
+- [x] Alat mandi + handuk (opsional)    
 - [x] Skincare & Makeup & Sisir (Opsional)    
 - [x] Obat2an pribadi
 - [x] Sendal (biar ga pake sepatu arung jeramnya)
