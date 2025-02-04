@@ -13,7 +13,7 @@ Packing:
 - [x] Payung / Jas Hujan
 - [x] Thermos
 - [ ] Tas Kecil
-- [x] Topi
+- [x] Topi  
 
 Essentials:
 - [x] HP
@@ -24,7 +24,7 @@ Essentials:
 
 Unique:
 - [ ] Drone (DK)
-- [ ] Stop Kontak + Speaker (NJ)
+- [x] Stop Kontak + Speaker (NJ)
 - [ ] Autan + Sunscreen + Stop Kontak (IC)
 - [ ] Tissue Kering + Basah (ML / VI)
 - [ ] Barang Berharga Nobel (SN)
