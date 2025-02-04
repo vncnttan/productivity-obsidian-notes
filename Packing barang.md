@@ -1,9 +1,9 @@
 Packing:
-- [ ] Pakaian 6 pasang (baju, celana, daleman, Kaos Kaki)
+- [x] Pakaian 6 pasang (baju, celana, daleman, Kaos Kaki)
 	 - [x] (2) Baju tidur
 	 - [x] (2) Baju jalan2 
 	 - [x] (2) Cadangan
-	 - [ ] Celana Dalam
+	 - [x] Celana Dalam
 - [x] Jaket 
 - [x] Alat mandi + handuk (opsional)    
 - [x] Skincare & Makeup & Sisir (Opsional)    
@@ -12,7 +12,7 @@ Packing:
 - [x] Plastik baju kotor
 - [x] Payung / Jas Hujan
 - [x] Thermos
-- [ ] Tas Kecil
+- [x] Tas Kecil
 - [x] Topi  
 
 Essentials:
