@@ -1,15 +1,16 @@
 Packing:
 - [ ] Pakaian 6 pasang (baju, celana, daleman, Kaos Kaki)
-	 - [ ] (2) Baju tidur
-	 - [ ] (2) Baju jalan2 
-	 - [ ] (2) Cadangan
-- [ ] Jaket
-- [ ] Alat mandi + handuk (opsional)
-- [ ] Skincare & Makeup & Sisir (Opsional)
-- [ ] Obat2an pribadi
-- [ ] Sendal (biar ga pake sepatu arung jeramnya)
-- [ ] Plastik baju kotor
-- [ ] Payung / Jas Hujan
+	 - [x] (2) Baju tidur
+	 - [x] (2) Baju jalan2 
+	 - [x] (2) Cadangan
+	 - [ ] Celana Dalam
+- [x] Jaket 
+- [x] Alat mandi + handuk (opsional)
+- [x] Skincare & Makeup & Sisir (Opsional)
+- [x] Obat2an pribadi
+- [x] Sendal (biar ga pake sepatu arung jeramnya)
+- [x] Plastik baju kotor
+- [x] Payung / Jas Hujan
 - [ ] Thermos
 - [ ] Tas Kecil
 - [ ] Topi
