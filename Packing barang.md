@@ -6,12 +6,12 @@ Packing:
 	 - [ ] Celana Dalam
 - [x] Jaket 
 - [x] Alat mandi + handuk (opsional)
-- [x] Skincare & Makeup & Sisir (Opsional)
+- [x] Skincare & Makeup & Sisir (Opsional)    
 - [x] Obat2an pribadi
 - [x] Sendal (biar ga pake sepatu arung jeramnya)
 - [x] Plastik baju kotor
 - [x] Payung / Jas Hujan
-- [ ] Thermos
+- [x] Thermos
 - [ ] Tas Kecil
 - [ ] Topi
 
