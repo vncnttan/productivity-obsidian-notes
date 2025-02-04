@@ -13,13 +13,13 @@ Packing:
 - [x] Payung / Jas Hujan
 - [x] Thermos
 - [ ] Tas Kecil
-- [ ] Topi
+- [x] Topi
 
 Essentials:
-- [ ] HP
-- [ ] Dompet (KTP + Uang Tunai + Flazz)
-- [ ] Charger
-- [ ] Powerbank
+- [x] HP
+- [x] Dompet (KTP + Uang Tunai + Flazz)
+- [x] Charger
+- [x] Powerbank
 
 
 Unique:
