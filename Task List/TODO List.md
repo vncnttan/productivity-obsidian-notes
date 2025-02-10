@@ -9,6 +9,15 @@
 - [ ] HC Exit Clearance
 - [ ] Migrate important things from onedrive @binus.edu to @binus.ac.id
 
+
+### Lacak Task
+- [ ] Main-main dengan langflow dan buat fast api sendiri
+	- [ ] Langflow
+	- [ ] FastAPI
+	- [ ] UVIcorn to create new worker
+	- [ ] Boleh pake langflow yang dibuat juga
+	- [ ] Kotak-katik sendiri lah intinya
+
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [ ] Buat video glamping
