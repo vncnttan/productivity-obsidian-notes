@@ -6,11 +6,12 @@
 ### URGENT + IMPORTANT
 *Do it now*
 - [ ] Cari Kosan
+- [ ] HC Exit Clearance
+- [ ] Migrate important things from onedrive @binus.edu to @binus.ac.id
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Migrate important things from onedrive @binus.edu to @binus.ac.id
-- [ ] HC Exit Clearance
+- [ ] Buat video glamping
 
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
