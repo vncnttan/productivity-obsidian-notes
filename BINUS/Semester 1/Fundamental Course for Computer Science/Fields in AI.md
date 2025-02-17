@@ -1,5 +1,5 @@
 ## Fields in Artificial Intelligence
-- [[Computer Vision]]
+- [[SLC/Assistant/SLC Post-Training/Computer Vision]]
   Analyzes images to recognize pattern such as human faces, etc. The most familiar example is live video filter.
   ![[Pasted image 20220921222724.png]]
   
