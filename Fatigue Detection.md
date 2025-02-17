@@ -11,5 +11,5 @@ Rencananya:
 - Bikin AI kita sendiri, di layer atasnya dashcam AI -> Filter out false positive2 yang ada
 
 Question:
-- 
+- Research: Challenges
 
