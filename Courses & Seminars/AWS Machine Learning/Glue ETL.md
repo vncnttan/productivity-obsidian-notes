@@ -26,3 +26,5 @@ Run on the serverless spark platform
 #### Format Conversion
 - CSV, JSON, Avro, Parquet, ORC, XML
 - Apache Spark Transformations (example: K-Means)
+
+![[Pasted image 20250302125917.png]]

@@ -5,18 +5,6 @@
 
 ### URGENT + IMPORTANT
 *Do it now*
-- [ ] Cari Kosan
-- [ ] HC Exit Clearance
-- [ ] Migrate important things from onedrive @binus.edu to @binus.ac.id
-
-
-### Lacak Task
-- [ ] Main-main dengan langflow dan buat fast api sendiri
-	- [ ] Langflow
-	- [ ] FastAPI
-	- [ ] UVIcorn to create new worker
-	- [ ] Boleh pake langflow yang dibuat juga
-	- [ ] Kotak-katik sendiri lah intinya
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
@@ -25,17 +13,12 @@
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*
 - [ ] [[Portfolio Task]]
-- [ ] Literature Review
 - [ ] Uninstall Obsidian from Phone and clean up any mess
 - [ ] Clean Up Obsidian Mess
+- [ ] Fix Obsidian Git Issue
 - [ ] Clean Up Google Drive Mess
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
-- [ ] [[SLCatering task]]
-- [ ] Photoshoot
-- [ ] Clean C:/ laptop ATAU beli laptop baru!
-	- [ ] Beli Komputer
-	- [ ] [[Backup Laptop]]
 - [ ] Set Tanda Tangan Gmail vincent@val.id
 - [ ] Listing Extra Shift
 - [ ] Rapihin Linkedin
@@ -45,3 +28,10 @@
 Libraries:
 - DreamBooth
 
+
+#### Dumped
+- [ ] Clean C:/ laptop ATAU beli laptop baru!
+	- [ ] Beli Komputer
+	- [ ] [[Backup Laptop]]
+- [ ] Photoshoot
+- [ ] [[SLCatering task]]

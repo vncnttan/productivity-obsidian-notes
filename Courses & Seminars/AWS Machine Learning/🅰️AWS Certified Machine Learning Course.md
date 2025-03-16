@@ -3,11 +3,25 @@
 [[Amazon S3]]
 [[Amazon AWS Kinesis]]
 [[Amazon Glue]]
-[[Amazon Athena]]
+[[AWS Amazon Athena]]
 [[AWS Data Stores for Machine Learning]]
 [[AWS Data Pipeline]]
+[[AWS Batch]]
+[[AWS DMS (Database Migration Service]]
+[[AWS Step Functions]]
+[[AWS Full Data Engineering Pipeline]]
+[[AWS - misc.]]
+[[AWS Data Engineering Summary]]
 
-##  Exploratory Data Analysis (24%)
+
+## Exploratory Data Analysis (24%)
+[[Explanatory Data Analysis - ML]]
+[[Defining Variables]] (Categorical, Nominal, Ordinal)
+[[EDA - Data Distribution]]
+[[EDA - Time Series Analysis]]
+[[AWS Amazon Athena]]
+[[AWS - Amazon Quicksight]]
+[[AWS - EMR]]
 
 
 ##  Modelling (36%)
