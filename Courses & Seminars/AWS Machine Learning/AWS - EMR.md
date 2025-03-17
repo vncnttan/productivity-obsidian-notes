@@ -111,3 +111,40 @@ Features:
 - Query results can be visualized in charts and graphs
 - Makes spark feel more like a data science tool
 ![[Pasted image 20250316185939.png]]
+## EMR Notebook
+`Similar concept to Zepellin, with more AWS integrations`
+
+- Notebooks backed up to S3
+- Provisionn clusters from the nnotebook
+- Hosted inside a VPC
+- Accessed only via AWS console
+- Also can be used collaboratively like google colab
+
+## EMR Security
+- IAM Policies
+- Kerberos → Secret key cryptography
+- SSH
+- IAM Roles
+- Security Configurations may be specified for Lake Formation
+- Native integration with Apache Ranger → For data security on Hadoop / Hive
+
+
+## EMR: Choosing Instance Type
+
+- Master Node
+	- m4.large if < 50 nodes, else 4.xlarge
+- Core & Task Node
+	- m4.large is usually good
+	- t2.medium → if cluster waits a lot on external dependencies e.g web crawler (lite)
+	- m4.xlarge → improved performance
+	  
+	- high CPU instances → Computation-intensive applications
+	- high memory instances → Database, memory-caching applications
+	- cluster computer instances → Network / CPU intensive (NLP, ML)
+	-  Accelerated Computing / AI - GPU instances (g3, g4, p2, p3) → AI with neural network
+
+- Spot instances 
+	- Good choice for task nodes
+	- Only use on core & master if you’re testing / very cost-sensitive → Risking partial data loss
+
+
