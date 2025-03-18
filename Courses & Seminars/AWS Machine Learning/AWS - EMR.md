@@ -1,4 +1,4 @@
-                 `Elastic MapReduce`
+                        `Elastic MapReduce`
 
 Managed Hadoop framework on EC2 instances
 - Includes spark, HBase, Presto, Flink, Hive, & more
