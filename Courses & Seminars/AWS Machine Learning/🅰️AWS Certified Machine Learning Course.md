@@ -23,6 +23,8 @@
 [[AWS - Amazon Quicksight]]
 [[AWS - EMR]]
 
+[[Feature Engineering]]
+
 
 ##  Modelling (36%)
 - Deep Learning Crash Course
