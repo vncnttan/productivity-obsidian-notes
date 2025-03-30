@@ -1,0 +1,20 @@
+#### Inputting Missing Data
+- Mean Replacement → Replace with the means of the column
+	- Fast & Easy
+	- Ineffective when outliers are present
+	- Generally pretty terrible
+- Dropping Data → Drop NaN data
+	- If not many rows contain missing data
+	- May affect and bias the data
+	- Fast & Easy
+	- Almost anything is better
+- Using Machine Learning
+	- [[K-Nearest Neighbor]] → Take K “most similar” row and average their values
+		- Assumes numerical data, not categorical → As the workaround can uses hamming distance, but it is better using Deep Learning method.
+	- Deep Learning
+		- Build a machine learning model to impute data for your machine learning model
+		- Complicated
+	- Regression
+		- Find linear / non-linear relationships between the missing feature and other features
+		- Most advanced technique: MICE (Multiple Imputation by Chained Equations)
+- Just get more data!

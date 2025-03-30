@@ -24,6 +24,8 @@
 [[AWS - EMR]]
 
 [[Feature Engineering]]
+[[Feature Engineering - Solving Missing Data]]
+[[Handling Unbalanced Data]]
 
 
 ##  Modelling (36%)
