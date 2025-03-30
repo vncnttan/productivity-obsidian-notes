@@ -27,6 +27,7 @@
 [[Feature Engineering - Solving Missing Data]]
 [[Handling Unbalanced Data]]
 [[Handling Outliers]]
+[[Misc. Feature Engineering Techniques]]
 
 
 ##  Modelling (36%)
