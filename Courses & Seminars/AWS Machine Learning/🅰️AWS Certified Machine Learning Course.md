@@ -26,6 +26,7 @@
 [[Feature Engineering]]
 [[Feature Engineering - Solving Missing Data]]
 [[Handling Unbalanced Data]]
+[[Handling Outliers]]
 
 
 ##  Modelling (36%)
