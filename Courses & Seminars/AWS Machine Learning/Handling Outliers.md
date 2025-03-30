@@ -1,7 +1,6 @@
 [[Variance]] → Measures how spread-out the data is
 [[Standard Deviation]] → The square root of variance
 
-
 - Somtimes it’s appropriate to remove outliers from the training data, sometimes it is not
 
 Examples:
@@ -12,5 +11,5 @@ Dealing with outliers:
 - Standard Deviation
 - Find data points more than some multiple of a standard deviation
 - AWS: Random Cut Forest → made for outlier detection
-	- Found in Quicksight, Kinesis Analytics, SageMaker, and more
+	- `Found in Quicksight, Kinesis Analytics, SageMaker, and more`
 
