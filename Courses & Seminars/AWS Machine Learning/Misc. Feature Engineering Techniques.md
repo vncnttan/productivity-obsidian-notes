@@ -13,3 +13,14 @@ Example → One-hot encoding
 - Very common for deep learning where categories are represented by individual output “neurons”
 
 #### Scaling / Normalization
+`Some models prefer feature data to be normally distributed around 0 and most models require feature to be scaled to comparable values`
+
+- To combat features with larger magnitudes getting more weight than they should
+- Example: Modeling age and income as features → Incomes will be much higher values than ages
+
+Scikit_learn has a preprocessor module that helps (MinMaxScaler, StandardScaler, etc.)
+
+#### Shuffling
+- Otherwise they may learn from residual signals in the training data resulting from the order in which they were collected
+
+
