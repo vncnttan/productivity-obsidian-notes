@@ -1,7 +1,4 @@
-
-
-Searching for occurences of n word in the text.
-
+`Searching for occurences of n word in the text`.
 
 ex. 2-gram
 I want to eat 
