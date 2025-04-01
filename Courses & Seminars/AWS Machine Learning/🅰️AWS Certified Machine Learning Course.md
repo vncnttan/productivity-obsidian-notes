@@ -36,6 +36,7 @@
 [[🔱Deep Learning]]
 [[0 - Introduction to Deep Learning]]
 [[1 - Perceptron (SLP & MLP)]]
+[[3 - Deep Convolutional Neural Network]]
 
 - Evaluating and Tuning
 
