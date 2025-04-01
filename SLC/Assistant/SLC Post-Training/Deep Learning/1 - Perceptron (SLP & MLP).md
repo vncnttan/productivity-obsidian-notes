@@ -1,4 +1,4 @@
-[]()- Bagian utama dari Neural Network
+`Bagian utama dari Neural Network`
 - Seperti neuron di otak namun artificial
 - Memiliki input, bias, dan weight yang akan diubah-ubah dalam tahap pembelajaran model
 
