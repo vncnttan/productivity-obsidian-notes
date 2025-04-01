@@ -29,11 +29,13 @@
 [[Handling Outliers]]
 [[Misc. Feature Engineering Techniques]]
 [[Amazon Sagemaker]]
-[[TF - IDF]]
+[[TF-IDF]]
 
 
 ##  Modelling (36%)
 - Deep Learning Crash Course
+[[AWS - Section Intro Modelling]]
+
 - Evaluating and Tuning
 
 ##  Machine Learning Implementations and Operations
