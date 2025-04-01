@@ -33,9 +33,8 @@
 
 
 ##  Modelling (36%)
-- Deep Learning Crash Course
-[[AWS - Section Intro Modelling]]
-
+[[🔱Deep Learning]]
+[[0 - Introduction to Deep Learning]]
 - Evaluating and Tuning
 
 ##  Machine Learning Implementations and Operations
