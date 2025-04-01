@@ -36,8 +36,11 @@
 [[🔱Deep Learning]]
 [[0 - Introduction to Deep Learning]]
 [[1 - Perceptron (SLP & MLP)]]
+[[2 - Regression]]
 [[3 - Deep Convolutional Neural Network]]
-
+[[4 - Word Embeddings]]
+[[5 - Recurrent Neural Networks with Attention Mechanism (cont. from 4)]]
+ 
 - Evaluating and Tuning
 
 ##  Machine Learning Implementations and Operations
