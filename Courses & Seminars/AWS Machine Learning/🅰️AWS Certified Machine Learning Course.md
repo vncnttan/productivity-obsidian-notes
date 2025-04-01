@@ -35,6 +35,8 @@
 ##  Modelling (36%)
 [[🔱Deep Learning]]
 [[0 - Introduction to Deep Learning]]
+[[1 - Perceptron (SLP & MLP)]]
+
 - Evaluating and Tuning
 
 ##  Machine Learning Implementations and Operations
