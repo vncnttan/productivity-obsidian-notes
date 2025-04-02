@@ -42,7 +42,8 @@
 [[5 - Recurrent Neural Networks with Attention Mechanism (cont. from 4)]]
 [[AWS - Deep Learning on EC2 EMR]]
 [[10 - Self-Supervised Learning]] (Transfer Learning)
-
+[[Success Performance Measure - AI]]
+ [[Ensemble - Machine Learning]]
  
 - Evaluating and Tuning
 
