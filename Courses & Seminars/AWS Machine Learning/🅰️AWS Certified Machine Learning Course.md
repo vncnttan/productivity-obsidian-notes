@@ -40,6 +40,8 @@
 [[3 - Deep Convolutional Neural Network]]
 [[4 - Word Embeddings]]
 [[5 - Recurrent Neural Networks with Attention Mechanism (cont. from 4)]]
+[[AWS - Deep Learning on EC2 EMR]]
+
  
 - Evaluating and Tuning
 
