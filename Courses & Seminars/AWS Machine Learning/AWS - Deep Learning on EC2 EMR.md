@@ -17,3 +17,8 @@ or you can use Deep Learning AMI’s
 	- “Powered by Trainium” 
 	- Optimized for training (50% savings) 
 	- 800 Gbps of Elastic Fabric Adapter (EFA) networking for fast clusters
+- Trn1n instances
+	- Even more bandwidth (1600 Gbps)
+- Inf2 instances 
+	- “Powered by AWS Inferentia2” 
+	- Optimized for inference
