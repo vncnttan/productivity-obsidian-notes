@@ -41,7 +41,7 @@
 [[4 - Word Embeddings]]
 [[5 - Recurrent Neural Networks with Attention Mechanism (cont. from 4)]]
 [[AWS - Deep Learning on EC2 EMR]]
-
+[[10 - Self-Supervised Learning]] (Transfer Learning)
  
 - Evaluating and Tuning
 
