@@ -47,6 +47,12 @@
  
 - Evaluating and Tuning
 [[AWS - Amazon Sagemaker]]
+[[AWS - Sagemaker Built-in algorithms]]
+[[AWS - XGBoost]]
+[[AWS - Seq2Seq]]
+[[AWS - DeepAR Sagemaker]]
+
+
 
 ##  Machine Learning Implementations and Operations
 - SageMaker Operations
