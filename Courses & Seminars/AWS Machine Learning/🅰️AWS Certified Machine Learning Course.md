@@ -33,6 +33,8 @@
 
 
 ##  Modelling (36%)
+Evaluating and Tuning
+Machine Learning Implementations and Operations
 [[🔱Deep Learning]]
 [[0 - Introduction to Deep Learning]]
 [[1 - Perceptron (SLP & MLP)]]
@@ -45,7 +47,7 @@
 [[Success Performance Measure - AI]]
  [[Ensemble - Machine Learning]]
  
-- Evaluating and Tuning
+SageMaker Operations
 [[AWS - Amazon Sagemaker]]
 [[AWS - Sagemaker Built-in algorithms]]
 [[AWS - XGBoost]]
@@ -58,10 +60,6 @@
 [[AWS - Semantic Segmentation]]
 [[AWS - Random Cut Forest]]
 [[AWS - Neural Topic Model]]
+[[AWS - Latent Dirichlet Allocation (LDA)]]
+[[AWS - K-Nearest Neighbors (KNN)]]
 
-
-
-
-
-##  Machine Learning Implementations and Operations
-- SageMaker Operations
