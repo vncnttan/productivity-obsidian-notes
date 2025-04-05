@@ -57,6 +57,7 @@
 [[AWS - Image Classification]]
 [[AWS - Semantic Segmentation]]
 [[AWS - Random Cut Forest]]
+[[AWS - Neural Topic Model]]
 
 
 
