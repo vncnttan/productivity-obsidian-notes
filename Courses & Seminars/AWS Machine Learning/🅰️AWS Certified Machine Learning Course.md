@@ -54,6 +54,9 @@
 [[AWS - Blazing Text]]
 [[AWS - Object2Vec]]
 [[AWS - Object Detection]]
+[[AWS - Image Classification]]
+[[AWS - Semantic Segmentation]]
+[[AWS - Random Cut Forest]]
 
 
 
