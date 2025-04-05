@@ -51,6 +51,11 @@
 [[AWS - XGBoost]]
 [[AWS - Seq2Seq]]
 [[AWS - DeepAR Sagemaker]]
+[[AWS - Blazing Text]]
+[[AWS - Object2Vec]]
+[[AWS - Object Detection]]
+
+
 
 
 
