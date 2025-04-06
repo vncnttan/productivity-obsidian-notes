@@ -62,4 +62,6 @@ SageMaker Operations
 [[AWS - Neural Topic Model]]
 [[AWS - Latent Dirichlet Allocation (LDA)]]
 [[AWS - K-Nearest Neighbors (KNN)]]
+[[AWS - K-Means]]
+[[AWS - Principal Component Analysis (PCA)]]
 
