@@ -64,4 +64,9 @@ SageMaker Operations
 [[AWS - K-Nearest Neighbors (KNN)]]
 [[AWS - K-Means]]
 [[AWS - Principal Component Analysis (PCA)]]
+[[AWS - Factorization Machines]]
+[[AWS - IP Insight]]
+
+
+[[AWS - Reinforcement Learning]]
 
