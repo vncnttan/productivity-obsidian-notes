@@ -69,4 +69,8 @@ SageMaker Operations
 
 
 [[AWS - Reinforcement Learning]]
-
+[[AWS - Automatic Model Tuning]]
+[[AWS - Sagemaker & Apache Spark]]
+[[AWS - Sagemaker New Features (Notebooks, Debugger, Autopilot)]]
+[[AWS - Sagemaker Model Monitor]]
+[[AWS - Deployment Safeguards]]
