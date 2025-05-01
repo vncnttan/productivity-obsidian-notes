@@ -74,3 +74,5 @@ SageMaker Operations
 [[AWS - Sagemaker New Features (Notebooks, Debugger, Autopilot)]]
 [[AWS - Sagemaker Model Monitor]]
 [[AWS - Deployment Safeguards]]
+
+[[AWS - SageMaker Canvas]]
