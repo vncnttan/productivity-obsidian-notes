@@ -76,3 +76,8 @@ SageMaker Operations
 [[AWS - Deployment Safeguards]]
 
 [[AWS - SageMaker Canvas]]
+[[AWS - SageMaker Clarify (Bias)]]
+[[AWS - SageMaker Training Compiler]]
+[[AWS - SageMaker Feature Store]]
+[[AWS - SageMaker ML Linear Tracking]]
+[[AWS - SageMaker Data Wrangler]]
