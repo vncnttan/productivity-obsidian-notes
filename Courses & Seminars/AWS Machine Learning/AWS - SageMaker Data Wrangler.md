@@ -22,4 +22,4 @@ Common Problems:
 - EC2 instance limit
 	- The following instance type is not available… error
 	- May need to request quota increase
-	- Services Quotas / Amazon SageMaker / Studio Kernel Gateways Apps → Wait for approval
+	- Services Quotas / Amazon SageMaker / Studio Kernel Gateways Apps → Wait for approval     
