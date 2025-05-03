@@ -81,3 +81,11 @@ SageMaker Operations
 [[AWS - SageMaker Feature Store]]
 [[AWS - SageMaker ML Linear Tracking]]
 [[AWS - SageMaker Data Wrangler]]
+
+## Higher-Level AI/ML Services
+[[AWS - Amazon Comprehend]]
+[[AWS - Amazon Translate]]
+[[AWS - Amazon Transcribe]]
+[[AWS - Amazon Polly]]
+[[AWS - Amazon Rekognition]]
+

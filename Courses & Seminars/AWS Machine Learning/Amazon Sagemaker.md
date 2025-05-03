@@ -13,10 +13,10 @@ Who are these human labelers:
 - Professional Labeler company
 
 Other ways to generate training labels:
-- Rekognition
+- [[AWS - Amazon Rekognition]]
 	- AWS Service for image recognition
 	- Automatically classify image
-- Comprehend
+- [[AWS - Amazon Comprehend]]
 	- AWS Service for text analysis and topic modelling
 	- Automatically classify text by topics, sentiment
 - Any pre-trained model or unsupervised technique that may be helpful
