@@ -88,4 +88,7 @@ SageMaker Operations
 [[AWS - Amazon Transcribe]]
 [[AWS - Amazon Polly]]
 [[AWS - Amazon Rekognition]]
+[[AWS - Amazon Forecast]]
+[[AWS - Amazon Lex]]
+[[AWS - Amazon Personalize]]
 

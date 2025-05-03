@@ -19,3 +19,8 @@ Specifics:
 ![[Pasted image 20250503161049.png]]
 
 
+`Rekognition Custom Labels` → Train with a small set of labeled images
+- Use your own labels for unique items
+
+
+
