@@ -13,3 +13,9 @@ Bot built around **intents**
 - Extract intents, user requests, phrases, values for slots are extracted
 - Ensures intents are well defined and separated
 - Integrates with Amazon Connect transcripts
+
+
+Utterances: Intents (“I want to order pizza”)
+Lambda functions: Function that are invoked to fulfill the intent
+Slots: Extra information needed by the intent (“topping”)
+Slot Value: The information provided (“pepperoni”)
