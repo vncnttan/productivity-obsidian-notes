@@ -96,3 +96,4 @@ SageMaker Operations
 
 # ML Implementation and Operations (20%)
 [[AWS - SageMaker and Docker Container]]
+[[AWS - SageMaker on the Edge]]
