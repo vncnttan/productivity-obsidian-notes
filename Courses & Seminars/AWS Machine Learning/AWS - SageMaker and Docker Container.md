@@ -78,7 +78,7 @@ estimator.fit()
 #### Production Variants
 `Test multiple models on live traffic using Production Variants`
 
-> Lets you to do A/B tests
+> Lets you to do A/B tests & validate performance in real-world settings
 
 - Variant Weights
 	- How to distribute traffic among the variants

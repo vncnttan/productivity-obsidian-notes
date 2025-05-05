@@ -1,12 +1,13 @@
 []()![[StandBySchedule.xlsx]]
 
-#### The first thing you do in the morning
-
-
 ### URGENT + IMPORTANT
 *Do it now*
 - [ ] PreThesis BibTex search duplicates
 - [ ] PreThesis Labelling Dataset 
+- [ ] Tagih Utang
+	- [ ] Es krim efran dep
+	- [ ] Shopifud Takoyaki Bento dep
+	- [ ] Gua utang sosis ke ko Johe
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
