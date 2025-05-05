@@ -5,10 +5,12 @@
 
 ### URGENT + IMPORTANT
 *Do it now*
+- [ ] PreThesis BibTex search duplicates
+- [ ] PreThesis Labelling Dataset 
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Buy Towel
+- [ ] AWS Practice
 
 ### IMPORTANT, NOT URGENT
 *Decide when to do it*

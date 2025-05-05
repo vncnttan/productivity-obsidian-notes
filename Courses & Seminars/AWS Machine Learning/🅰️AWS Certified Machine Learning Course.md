@@ -93,3 +93,6 @@ SageMaker Operations
 [[AWS - Amazon Personalize]]
 
 [[Other ML Service]]
+
+# ML Implementation and Operations (20%)
+[[AWS - SageMaker and Docker Container]]

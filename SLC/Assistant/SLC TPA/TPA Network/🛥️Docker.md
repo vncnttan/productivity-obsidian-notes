@@ -33,3 +33,10 @@ sudo docker build --tag pretpa:1.0 .
 In Docker, a registry is a storage and content delivery system, holding named Docker images, available in different tagged versions.
 
 
+
+### Summary
+- Docker **containers** are created from **images**
+- **Images** are built from **Dockerfile**
+- **Images** are saved in a **Registry**
+	- DockerHub → Docker
+	- Amazon Elastic Container Registry → from AWS
