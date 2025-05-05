@@ -73,3 +73,13 @@ estimator = Estimator(image_name='foo',
 			 train_instance_type='local')
 estimator.fit()
 ```
+
+
+#### Production Variants
+`Test multiple models on live traffic using Production Variants`
+
+> Lets you to do A/B tests
+
+- Variant Weights
+	- How to distribute traffic among the variants
+	- Can be changed as how confident you are in the project
