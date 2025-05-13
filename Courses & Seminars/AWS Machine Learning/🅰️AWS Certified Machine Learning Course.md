@@ -98,3 +98,6 @@ SageMaker Operations
 [[AWS - SageMaker and Docker Container]]
 [[AWS - SageMaker on the Edge]]
 [[AWS - Security]]
+[[AWS - Managing SageMaker Resources]]
+[[AWS - Inference Pipelines]]
+[[AWS - MLOps with SageMaker and Kubernetes]]
