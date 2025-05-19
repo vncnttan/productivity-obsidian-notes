@@ -12,3 +12,10 @@ misc. Libraries:
 - TanStack Query (useQuery)
 - React lodash
 - React useForm
+
+
+
+Meeting Notes:
+- Register dari sisi admin
+- Reseller == Merchant
+- Add new SalesPerson tidak perlu di approve lagi
