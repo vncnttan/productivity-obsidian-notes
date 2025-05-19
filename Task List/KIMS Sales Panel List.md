@@ -19,3 +19,6 @@ Meeting Notes:
 - Register dari sisi admin
 - Reseller == Merchant
 - Add new SalesPerson tidak perlu di approve lagi
+- Daftar Negara fetch dari DB
+
+- Product Code, Product Name, License Number
