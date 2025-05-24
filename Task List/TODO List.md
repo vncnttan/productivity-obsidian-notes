@@ -8,6 +8,9 @@
 	- [ ] Es krim efran dep
 	- [ ] Shopifud Takoyaki Bento dep
 	- [ ] Gua utang sosis ke ko Johe
+	- [ ] Sumomatsu Dep utang
+	- [ ] Aeon Sheryl Efran Utang
+	- [ ] 
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
