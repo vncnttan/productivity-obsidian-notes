@@ -51,6 +51,6 @@ Dynamic Agent Behavior
 - Brake Check → Vehicle Recognition
 - Lane Takeover → Vehicle Cut-in
 - Deadlock → Kemungkinan gabung dengan Misbehaved Driver
-- Opposite Direction → Contra-Flow Vehicle Detection
+- Opposite Direction → Evasive Maneuver Planning
 
     
