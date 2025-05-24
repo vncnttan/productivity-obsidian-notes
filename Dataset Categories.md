@@ -23,33 +23,34 @@
 Spatial Reasoning:
 - Small Roads → Narrow Roadway
 - One Way → Unidirectional Traffic
-- Turning → Trajectory Planning at Intersections
 
 Navigation and Planning:
-- Bike Lane → 
-- Busway Lane → Bus Rapid Transit Lanes
+- Bike Lane → Bike Lanes → ini gabungin ke Lane Recognition 
+- Busway Lane → Lane Recognition
 - Navigation Decisions → Navigation Decision Making
 
 #### Safety & Compliance
 Environmental Conditions:
-- Flood 
-- Night Street
+- Flood → Kemungkinan dihapus
+- Night Street  → Kemungkinan dihapus
+- Potholes → Inadequate Road Conditions
 
 Obstacles & Blockages
-- Road Blocks
-- Train Railways
-- Wild Parking
+- Road Blocks → Obstacle Recognition
+- Train Railways → Train Railway Recognition
+- Parking → Long-Short Parking
 
 Road Infrastructure & Signage
-- Traffic Lights
-- Road Signs
+- Traffic Lights → Traffic Signal
+- Road Signs → Road Sign 
+- Turning → Trajectory Planning Signs
 
 ##### Urban Flow Complexity
 Dynamic Agent Behavior
-- Deadlock
-- Street Paddler
-- Brake Check
-- Lane Takeover
-- Opposite Direction
+- Street Paddler → VRU Cut-in
+- Brake Check → Vehicle Recognition
+- Lane Takeover → Vehicle Cut-in
+- Deadlock → Kemungkinan gabung dengan Misbehaved Driver
+- Opposite Direction → Contra-Flow Vehicle Detection
 
     
