@@ -24,8 +24,7 @@ Spatial Reasoning:
 - Small Roads
 - One Way
 - Turning
-- Lane Takeover
-
+	
 Navigation and Planning:
 - Bike Lane
 - Busway Lane
@@ -49,3 +48,4 @@ Dynamic Agent Behavior
 - Lane Takeover
 - Opposite Direction
 
+Dynamic 
