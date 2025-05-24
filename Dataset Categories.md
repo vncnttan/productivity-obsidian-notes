@@ -21,22 +21,27 @@
 
 ##### Perception & Reasoning
 Spatial Reasoning:
-- Small Roads
-- One Way
-- Turning
-	
+- Small Roads → Narrow Roadway
+- One Way → Unidirectional Traffic
+- Turning → Trajectory Planning at Intersections
+
 Navigation and Planning:
-- Bike Lane
-- Busway Lane
-- Directional
+- Bike Lane → 
+- Busway Lane → Bus Rapid Transit Lanes
+- Navigation Decisions → Navigation Decision Making
 
 #### Safety & Compliance
-Environmental Hazards:
+Environmental Conditions:
 - Flood 
 - Night Street
+
+Obstacles & Blockages
 - Road Blocks
-Road Semantics & Static Elements
-- Ignore Red Lights
+- Train Railways
+- Wild Parking
+
+Road Infrastructure & Signage
+- Traffic Lights
 - Road Signs
 
 ##### Urban Flow Complexity
@@ -44,8 +49,7 @@ Dynamic Agent Behavior
 - Deadlock
 - Street Paddler
 - Brake Check
-- Train
 - Lane Takeover
 - Opposite Direction
 
-Dynamic 
+    
