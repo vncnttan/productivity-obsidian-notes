@@ -2,8 +2,8 @@
 
 ### URGENT + IMPORTANT
 *Do it now*
-- [ ] PreThesis BibTex search duplicates
-- [ ] PreThesis Labelling Dataset 
+- [x] PreThesis BibTex search duplicates
+- [x] PreThesis Labelling Dataset 
 - [ ] Tagih Utang
 	- [ ] Es krim efran dep
 	- [ ] Shopifud Takoyaki Bento dep
