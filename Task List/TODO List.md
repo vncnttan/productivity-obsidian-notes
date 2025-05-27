@@ -5,13 +5,14 @@
 - [x] PreThesis BibTex search duplicates
 - [x] PreThesis Labelling Dataset 
 - [ ] Tagih Utang
-	- [ ] Es krim efran dep
-	- [ ] Shopifud Takoyaki Bento dep
+	- [x] Es krim efran dep
+	- [x] Shopifud Takoyaki Bento dep
 	- [ ] Gua utang sosis ke ko Johe
 	- [ ] Sumomatsu Dep utang
 	- [ ] Aeon Sheryl Efran Utang
 	- [ ] 
 
+119 + 20 + 10 = 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
 - [ ] AWS Practice
