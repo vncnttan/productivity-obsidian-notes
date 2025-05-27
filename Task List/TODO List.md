@@ -4,12 +4,12 @@
 *Do it now*
 - [x] PreThesis BibTex search duplicates
 - [x] PreThesis Labelling Dataset 
-- [ ] Tagih Utang
+- [x] Tagih Utang
 	- [x] Es krim efran dep
 	- [x] Shopifud Takoyaki Bento dep
 	- [ ] Gua utang sosis ke ko Johe
-	- [ ] Sumomatsu Dep utang
-	- [ ] Aeon Sheryl Efran Utang
+	- [x] Sumomatsu Dep utang
+	- [x] Aeon Sheryl Efran Utang
 	- [ ] 
 
 119 + 20 + 10 = 
