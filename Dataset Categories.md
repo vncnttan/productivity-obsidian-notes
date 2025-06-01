@@ -20,14 +20,16 @@
 
 
 ##### Perception & Reasoning
-Spatial Reasoning:
-- Small Roads → Narrow Roadway
-- One Way → Unidirectional Traffic
-
 Navigation and Planning:
 - Bike Lane → Bike Lanes → ini gabungin ke Lane Recognition 
 - Busway Lane → Lane Recognition
 - Navigation Decisions → Navigation Decision Making
+
+Spatial Reasoning:
+- Small Roads → Narrow Roadway
+- One Way → Unidirectional Traffic
+
+
 
 #### Safety & Compliance
 Environmental Conditions:
