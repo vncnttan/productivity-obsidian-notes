@@ -45,7 +45,7 @@ Obstacles & Blockages
 Road Infrastructure & Signage
 - Traffic Lights → Traffic Signal
 - Road Signs → Road Sign 
-- Turning → Trajectory Planning Signs
+- Turning → Trajectory Planning 
 
 ##### Urban Flow Complexity
 Dynamic Agent Behavior
