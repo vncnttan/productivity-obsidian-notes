@@ -29,12 +29,10 @@ Spatial Reasoning:
 - Small Roads → Narrow Roadway
 - One Way → Unidirectional Traffic
 
-
-
 #### Safety & Compliance
 Environmental Conditions:
-- Flood → Kemungkinan dihapus
-- Night Street  → Kemungkinan dihapus
+- Flood → Inadequate Road Conditions
+- Night Street  → Inadequate Road Conditions
 - Potholes → Inadequate Road Conditions
 
 Obstacles & Blockages
