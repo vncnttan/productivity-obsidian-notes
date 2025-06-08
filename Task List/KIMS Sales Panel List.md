@@ -22,8 +22,15 @@ Meeting Notes:
 - Daftar Negara fetch dari DB
 
 
+TODO Core:
+- [ ] AppendableForm Builder
+- [ ] 
+
 TODO: 
-- [ ] Sidebar Active Tab
+- [ ] Sidebar Active Tab highlight
+- [ ] useMemo untuk table tab
 - [ ] Table No. column
 - [ ] Table Alternating Color
+- [ ] Table Showing n of n
 - [ ] Table Sort Highlight Current
+- [ ] useMemo untuk semuanya
