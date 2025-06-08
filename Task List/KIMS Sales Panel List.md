@@ -24,5 +24,6 @@ Meeting Notes:
 
 TODO: 
 - [ ] Sidebar Active Tab
-- [ ] Table Alternating Color
 - [ ] Table No. column
+- [ ] Table Alternating Color
+- [ ] Table Sort Highlight Current
