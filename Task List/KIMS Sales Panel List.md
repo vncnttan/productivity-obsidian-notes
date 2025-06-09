@@ -32,5 +32,7 @@ TODO:
 - [ ] Table No. column
 - [ ] Table Alternating Color
 - [ ] Table Showing n of n
+- [ ] Field disable bg color ganti
 - [ ] Table Sort Highlight Current
+- [ ] Pertimbangkan apakah SalesDetail perlu componentize considering yang lain engga
 - [ ] useMemo untuk semuanya
