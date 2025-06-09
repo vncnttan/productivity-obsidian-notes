@@ -35,4 +35,5 @@ TODO:
 - [ ] Field disable bg color ganti
 - [ ] Table Sort Highlight Current
 - [ ] Pertimbangkan apakah SalesDetail perlu componentize considering yang lain engga
+- [ ] Kalo fieldnya sama berarti buat formDef baru kah?
 - [ ] useMemo untuk semuanya
