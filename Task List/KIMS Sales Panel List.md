@@ -27,13 +27,14 @@ TODO Core:
 - [ ] 
 
 TODO: 
-- [ ] Sidebar Active Tab highlight
-- [ ] useMemo untuk table tab
+- [x] Sidebar Active Tab highlight
+- [ ] Table Showing n of n
 - [ ] Table No. column
 - [ ] Table Alternating Color
-- [ ] Table Showing n of n
-- [ ] Field disable bg color ganti
 - [ ] Table Sort Highlight Current
+- [ ] Field disable bg color ganti
+- [ ] Lanjutin page baru
 - [ ] Pertimbangkan apakah SalesDetail perlu componentize considering yang lain engga
 - [ ] Kalo fieldnya sama berarti buat formDef baru kah?
+- [ ] useMemo untuk table tab
 - [ ] useMemo untuk semuanya
