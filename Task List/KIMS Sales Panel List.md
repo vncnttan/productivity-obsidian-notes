@@ -28,7 +28,7 @@ TODO Core:
 
 TODO: 
 - [x] Sidebar Active Tab highlight
-- [ ] Table Showing n of n
+- [x] Table Showing n of n
 - [ ] Table No. column
 - [ ] Table Alternating Color
 - [ ] Table Sort Highlight Current
