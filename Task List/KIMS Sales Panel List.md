@@ -30,7 +30,7 @@ TODO:
 - [x] Sidebar Active Tab highlight
 - [x] Table Showing n of n
 - [x] Table No. column
-- [ ] Table Alternating Color
+- [x] Table Alternating Color
 - [ ] Table Sort Highlight Current
 - [ ] Field disable bg color ganti
 - [ ] Lanjutin page baru
