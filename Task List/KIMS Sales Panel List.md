@@ -29,7 +29,7 @@ TODO Core:
 TODO: 
 - [x] Sidebar Active Tab highlight
 - [x] Table Showing n of n
-- [ ] Table No. column
+- [x] Table No. column
 - [ ] Table Alternating Color
 - [ ] Table Sort Highlight Current
 - [ ] Field disable bg color ganti
