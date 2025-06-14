@@ -23,7 +23,7 @@ Meeting Notes:
 
 
 TODO Core:
-- [ ] AppendableForm Builder
+- [x] AppendableForm Builder
 - [ ] 
 
 TODO: 
