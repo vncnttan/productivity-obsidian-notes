@@ -32,7 +32,7 @@ TODO:
 - [x] Table No. column
 - [x] Table Alternating Color
 - [x] Table Sort Highlight Current
-- [ ] Field disable bg color ganti
+- [x] Field disable bg color ganti
 - [ ] Lanjutin page baru
 - [ ] Pertimbangkan apakah SalesDetail perlu componentize considering yang lain engga
 - [ ] Kalo fieldnya sama berarti buat formDef baru kah?
