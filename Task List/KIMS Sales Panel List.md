@@ -31,7 +31,7 @@ TODO:
 - [x] Table Showing n of n
 - [x] Table No. column
 - [x] Table Alternating Color
-- [ ] Table Sort Highlight Current
+- [x] Table Sort Highlight Current
 - [ ] Field disable bg color ganti
 - [ ] Lanjutin page baru
 - [ ] Pertimbangkan apakah SalesDetail perlu componentize considering yang lain engga
