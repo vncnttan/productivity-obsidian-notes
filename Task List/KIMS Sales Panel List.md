@@ -38,3 +38,6 @@ TODO:
 - [x] useMemo untuk semuanya
 - [ ] Lanjutin page baru
 - [ ] Kalo fieldnya sama berarti buat formDef baru kah?
+
+
+- [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string 
