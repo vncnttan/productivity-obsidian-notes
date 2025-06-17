@@ -40,5 +40,6 @@ TODO:
 - [ ] Kalo fieldnya sama berarti buat formDef baru kah?
 
 
+- [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string 
 - [ ] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
