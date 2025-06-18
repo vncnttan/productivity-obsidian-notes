@@ -40,7 +40,11 @@ TODO:
 - [ ] Kalo fieldnya sama berarti buat formDef baru kah?
 
 
+TODO:
 - [ ] Detail Page / Dialog ketinggalan di komen figma
+- [ ] Refactor paths.tsx
+- [ ] Refactor AppRouter.tsx
 - [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
-- [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string 
+- [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string
+- [ ] Selectable Table
 - [ ] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
