@@ -36,7 +36,7 @@ TODO:
 - [x] Pertimbangkan apakah SalesDetail perlu componentize considering yang lain engga
 - [x] useMemo untuk table tab
 - [x] useMemo untuk semuanya
-- [ ] Lanjutin page baru
+- [x] Lanjutin page baru
 - [ ] Kalo fieldnya sama berarti buat formDef baru kah?
 
 
