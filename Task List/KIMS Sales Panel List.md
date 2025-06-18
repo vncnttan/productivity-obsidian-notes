@@ -46,5 +46,6 @@ TODO:
 - [ ] Refactor AppRouter.tsx
 - [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string
-- [ ] Selectable Table
+- [ ] Selectable Table Row
+- [ ] Perhalus Buka Tutup Knowledge Base
 - [ ] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
