@@ -49,3 +49,4 @@ TODO:
 - [ ] Selectable Table Row
 - [ ] Perhalus Buka Tutup Knowledge Base
 - [ ] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
+- [ ] Kalo gaada news, jadiin gap 4 gacor sih
