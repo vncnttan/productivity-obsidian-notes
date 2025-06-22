@@ -41,13 +41,17 @@ TODO:
 
 
 TODO:
+- [ ] Complete Knowledge Base
+- [ ] Perhalus Buka Tutup Knowledge Base
+- [ ] Rich Text
+
+Refactor:
 - [ ] Detail Page / Dialog ketinggalan di komen figma
 - [ ] Refactor paths.tsx
 - [ ] Refactor AppRouter.tsx
 - [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string
 - [ ] Selectable Table Row
-- [ ] Perhalus Buka Tutup Knowledge Base
 - [ ] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
 - [ ] Chore rename mau Definitions apa def
 - [ ] Kalo gaada news, jadiin gap 4 gacor sih
