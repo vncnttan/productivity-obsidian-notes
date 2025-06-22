@@ -41,9 +41,9 @@ TODO:
 
 
 TODO:
-- [ ] Complete Knowledge Base
-- [ ] Perhalus Buka Tutup Knowledge Base
 - [ ] Rich Text
+- [x] Complete Knowledge Base
+- [ ] Perhalus Buka Tutup Knowledge Base
 
 Refactor:
 - [ ] Detail Page / Dialog ketinggalan di komen figma
