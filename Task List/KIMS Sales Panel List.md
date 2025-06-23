@@ -41,9 +41,11 @@ TODO:
 
 
 TODO:
-- [ ] Rich Text
+- [x] Rich Text
 - [x] Complete Knowledge Base
 - [ ] Perhalus Buka Tutup Knowledge Base
+- [ ] Perhalus Buka Tutup Quiz 
+- [ ] Fix Bug DnDkit height berbeda
 
 Refactor:
 - [ ] Detail Page / Dialog ketinggalan di komen figma
