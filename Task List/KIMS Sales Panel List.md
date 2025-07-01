@@ -51,6 +51,8 @@ Refactor:
 - [ ] Detail Page / Dialog ketinggalan di komen figma
 - [ ] Refactor paths.tsx
 - [ ] Refactor AppRouter.tsx
+- [ ] Refactor Query Keys
+- [ ] Refactor Invalidate Queries
 - [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string
 - [ ] Selectable Table Row
