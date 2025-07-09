@@ -48,8 +48,7 @@ TODO:
 - [x] Fix Bug DnDkit height berbeda
 
 Refactor:
-- [ ] Protected Routes
-- [ ] Detail Page / Dialog ketinggalan di komen figma
+- [x] Basic Protected Routes
 - [ ] Refactor paths.tsx
 - [ ] Refactor AppRouter.tsx
 - [ ] Refactor Query Keys
@@ -67,3 +66,4 @@ Refactor:
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
+- [ ] Detail Page / Dialog ketinggalan di komen figma
