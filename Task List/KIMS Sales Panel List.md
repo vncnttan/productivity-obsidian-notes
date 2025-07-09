@@ -67,3 +67,4 @@ Refactor:
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Detail Page / Dialog ketinggalan di komen figma
+- [ ] Dashboard should have key props
