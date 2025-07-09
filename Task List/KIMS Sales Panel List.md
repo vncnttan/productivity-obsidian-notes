@@ -48,6 +48,7 @@ TODO:
 - [x] Fix Bug DnDkit height berbeda
 
 Refactor:
+- [ ] Protected Routes
 - [ ] Detail Page / Dialog ketinggalan di komen figma
 - [ ] Refactor paths.tsx
 - [ ] Refactor AppRouter.tsx
