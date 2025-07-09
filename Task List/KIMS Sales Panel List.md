@@ -49,8 +49,8 @@ TODO:
 
 Refactor:
 - [x] Basic Protected Routes
-- [ ] Refactor paths.tsx
-- [ ] Refactor AppRouter.tsx
+- [x] Refactor paths.tsx
+- [x] Refactor AppRouter.tsx
 - [ ] Refactor Query Keys
 - [ ] Refactor Invalidate Queries
 - [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
