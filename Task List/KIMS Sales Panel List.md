@@ -70,3 +70,8 @@ Refactor:
 - [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [ ] Dashboard should have key props
 - [ ] Selectable Table Row
+
+
+Backend Notes:
+- Total City calculate di Backend (/country)
+- Items Per page
