@@ -53,9 +53,9 @@ Refactor:
 - [x] Refactor AppRouter.tsx
 - [ ] Refactor Query Keys
 - [ ] Refactor Invalidate Queries
-- [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
+	- [ ] ### Refetching Data By Invalidating Queries
+	- [ ] Create helper for this
 - [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string
-- [ ] Selectable Table Row
 - [ ] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
 - [ ] Chore rename mau Definitions apa def
 - [ ] Refactor zod profy
@@ -67,4 +67,6 @@ Refactor:
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Detail Page / Dialog ketinggalan di komen figma
+- [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [ ] Dashboard should have key props
+- [ ] Selectable Table Row
