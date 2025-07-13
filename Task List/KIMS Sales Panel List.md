@@ -93,5 +93,9 @@ Backend Notes:
 	- API buat filteringnya gimana ya? Soalnya di postman gaada paramsnya
 
 
-Inconsistent Method:
-- Update Merchandise jadi POST , padahal yang lain PUT
+- Delete Sales Person itu sama dengan Delete User kah? soalnya di sales person gaada method DELETE
+	- Berarti untuk delete sales person dengan id 4, bisa langsung /api/user/delete/4
+- Delete User Error Route Not Found"
+	  ![[Pasted image 20250713214310.png]]
+- Inconsistent Method:
+	- Update Merchandise POST , padahal yang lain kalau edit menggunakan PUT
