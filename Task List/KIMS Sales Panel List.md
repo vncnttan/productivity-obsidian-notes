@@ -97,6 +97,8 @@ Backend Notes:
 - Not Implemented Yet: PUT API Verify Sales Person
 - Bug: Semenjak update sekarang 
 - Question: Untuk edit point yang subtract 200 OK tapi pointnya ga keupdate (kalo “add” pointnya nambah aman)
+- Question: Mapping Typenya apa aja ya dari 1 sampai berapa 
+  1: Bronze… ?
 - Question: Delete Sales Person itu sama dengan Delete User kah? soalnya di sales person gaada method DELETE
 	- Berarti untuk delete sales person dengan id 4, bisa langsung /api/user/delete/4
 	- Delete User Error Route Not Found"
