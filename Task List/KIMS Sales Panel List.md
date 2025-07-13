@@ -90,3 +90,7 @@ Backend Notes:
 	- Get Sales Person By Merchant
 - Sales Person
 	- API buat filteringnya gimana ya? Soalnya di postman gaada paramsnya
+
+
+Inconsistent Method:
+- Update Merchandise jadi POST , padahal yang lain PUT
