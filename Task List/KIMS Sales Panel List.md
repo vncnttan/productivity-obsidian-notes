@@ -88,4 +88,5 @@ Backend Notes:
 	- Bug (?), the email cannot be taken again padahal merchantnya udah di delete
 - Merchant Detail
 	- Get Sales Person By Merchant
-	
+- Sales Person
+	- API buat filteringnya mana ya?
