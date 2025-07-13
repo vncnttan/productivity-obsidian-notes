@@ -93,7 +93,8 @@ Backend Notes:
 	- API buat filteringnya gimana ya? Soalnya di postman gaada paramsnya
 
 
-- (-) API Sales Person by status (status=1, status=0)
+- Not Implemented Yet: GET API Sales Person by status (status=1, status=0)
+- Not Implemented Yet: PUT API Verify Sales Person
 - Delete Sales Person itu sama dengan Delete User kah? soalnya di sales person gaada method DELETE
 	- Berarti untuk delete sales person dengan id 4, bisa langsung /api/user/delete/4
 - Delete User Error Route Not Found"
