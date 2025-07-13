@@ -95,7 +95,8 @@ Backend Notes:
 
 - Not Implemented Yet: GET API Sales Person by status (status=1, status=0)
 - Not Implemented Yet: PUT API Verify Sales Person
-- Bug: Semenjak update sekarang 
+- Not Implemented Yet: Product Stock, Available, Scanned Count for Product
+  
 - Question: Untuk edit point yang subtract 200 OK tapi pointnya ga keupdate (kalo “add” pointnya nambah aman)
 - Question: Mapping Typenya apa aja ya dari 1 sampai berapa 
   1: Bronze… ?
