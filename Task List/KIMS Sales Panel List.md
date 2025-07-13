@@ -95,9 +95,12 @@ Backend Notes:
 
 - Not Implemented Yet: GET API Sales Person by status (status=1, status=0)
 - Not Implemented Yet: PUT API Verify Sales Person
-- Delete Sales Person itu sama dengan Delete User kah? soalnya di sales person gaada method DELETE
+- Bug: Semenjak update sekarang 
+- Question: Untuk edit point yang subtract 200 OK tapi pointnya ga keupdate (kalo “add” pointnya nambah aman)
+- Question: Delete Sales Person itu sama dengan Delete User kah? soalnya di sales person gaada method DELETE
 	- Berarti untuk delete sales person dengan id 4, bisa langsung /api/user/delete/4
-- Delete User Error Route Not Found"
+	- Delete User Error Route Not Found"
 	  ![[Pasted image 20250713214310.png]]
-- Inconsistent Method:
-	- Update Merchandise POST , padahal yang lain kalau edit menggunakan PUT
+
+- Question: Inconsistent Method ini gapapa ya?
+	- Update Merchandise, Update Sales Person methodnya POST , padahal yang lain kalau edit menggunakan PUT
