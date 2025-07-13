@@ -89,4 +89,4 @@ Backend Notes:
 - Merchant Detail
 	- Get Sales Person By Merchant
 - Sales Person
-	- API buat filteringnya mana ya?
+	- API buat filteringnya gimana ya? Soalnya di postman gaada paramsnya
