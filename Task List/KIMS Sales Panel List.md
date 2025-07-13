@@ -71,6 +71,7 @@ Refactor:
 - [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [ ] Dashboard should have key props
 - [ ] Selectable Table Row
+- [ ] Validasi Password & Confirm Password
 - [ ] Toast success and error message fetching from backend
 
 
