@@ -86,4 +86,6 @@ Backend Notes:
 	- Country Object
 	- City Object
 	- Bug (?), the email cannot be taken again padahal merchantnya udah di delete
+- Merchant Detail
+	- Get Sales Person By Merchant
 	
