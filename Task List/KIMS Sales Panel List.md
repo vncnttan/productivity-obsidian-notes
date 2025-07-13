@@ -77,11 +77,13 @@ Refactor:
 Backend Notes:
 - Country
 	- Total City for each country
-- All Endpint
+- All Endpoint
 	- Items Per page
+	- Buat Country & City Endpoint tanpa pagination untuk di fetch ketika dimunculkan di field select country (isinya label dan value idnya aja)
+	- Gaada endpoint summary untuk setiap page → yang dimunculkan dalam bentuk card di setiap page
 - Merchant List
 	- Calculated total sales
 	- Country Object
 	- City Object
-	- Bug (?), the email cannot be taken again
+	- Bug (?), the email cannot be taken again padahal merchantnya udah di delete
 	
