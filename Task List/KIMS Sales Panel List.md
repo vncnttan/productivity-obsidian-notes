@@ -57,6 +57,7 @@ Refactor:
 	- [ ] Create helper for this
 - [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string
 - [ ] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
+- [ ] Preview Dialog
 - [ ] Chore rename mau Definitions apa def
 - [ ] Refactor zod profy
 - [ ] Fetch Roles Admin User Create
