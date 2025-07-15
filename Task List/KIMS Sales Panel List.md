@@ -62,6 +62,7 @@ Refactor:
 - [ ] Refactor zod profy
 - [ ] Fetch Roles Admin User Create
 - [ ] Kalo gaada news, jadiin gap 4 gacor sih
+- [ ] Make Profile Picture Validation pake helper
 - [ ] Bug fix, something not appearing on system dark theme
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
 - [ ] Rich Text ga muncul pada saat accordion create quiz di close
@@ -93,8 +94,15 @@ Backend Not Implemented Yet:
 - API untuk Quiz
 - API Verify Sales Person
 - Gaada endpoint summary untuk setiap page → yang dimunculkan dalam bentuk card di setiap page
+- Preview Dialog benerin
+- Dialog untuk reject implementation yang bener
 
 Incomplete data:
 - Field Product Stock, Available, Scanned Count di Get Product List tidak ada
 - Product Object (Product code & name), Merchant Object (Merchant name), Scanned Date di Get Product List tidak ada
 - Calculated Total Sales, Country Object, City Object di Merchant List tidak ada
+
+
+
+New founding:
+- API Reset Password Profile
