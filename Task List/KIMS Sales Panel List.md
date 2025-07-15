@@ -51,12 +51,12 @@ Refactor:
 - [x] Basic Protected Routes
 - [x] Refactor paths.tsx
 - [x] Refactor AppRouter.tsx
-- [ ] Refactor Query Keys
-- [ ] Refactor Invalidate Queries
-	- [ ] ### Refetching Data By Invalidating Queries
-	- [ ] Create helper for this
-- [ ] Refactor useDelete, useDetail, etc. to accept objects, not id string
-- [ ] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
+- [x] Refactor Query Keys
+- [x] Refactor Invalidate Queries
+	- [x] Refetching Data By Invalidating Queries
+	- [x] Create helper for this
+- [x] Refactor useDelete, useDetail, etc. to accept objects, not id string
+- [x] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
 - [ ] Preview Dialog
 - [ ] Chore rename mau Definitions apa def
 - [ ] Refactor zod profy
@@ -76,47 +76,25 @@ Refactor:
 - [ ] Toast success and error message fetching from backend
 
 
-Backend Notes:
-- Country
-	- Total City for each country
-- All Endpoint
-	- Items Per page
-	- Buat Country & City Endpoint tanpa pagination untuk di fetch ketika dimunculkan di field select country (isinya label dan value idnya aja)
-	- Gaada endpoint summary untuk setiap page → yang dimunculkan dalam bentuk card di setiap page
-- Merchant List
-	- Calculated total sales
-	- Country Object
-	- City Object
-	- Bug (?), the email cannot be taken again padahal merchantnya udah di delete
-- Merchant Detail
-	- Get Sales Person By Merchant
-- Sales Person
-	- API buat filteringnya gimana ya? Soalnya di postman gaada paramsnya
-
-
-- Not Implemented Yet: GET API Sales Person by status (status=1, status=0)
-- Not Implemented Yet: PUT API Verify Sales Person
-- Not Implemented Yet: Product Stock, Available, Scanned Count for Product
-- Not Implemented Yet: Product Object (Product code & name), Merchant Object (Merchant name), Scanned Date
   
-- Question: Untuk edit point yang subtract 200 OK tapi pointnya ga keupdate (kalo “add” pointnya nambah aman)
-- Question: Mapping Typenya apa aja ya dari 1 sampai berapa 
-  1: Bronze… ?
-- Question: Yang di return image dari merchandise masih NULL, ini karena emang belom di implement kah?
-- Question: Delete Sales Person itu sama dengan Delete User kah? soalnya di sales person gaada method DELETE
-	- Berarti untuk delete sales person dengan id 4, bisa langsung /api/user/delete/4
-	- Delete User Error Route Not Found"
-	  ![[Pasted image 20250713214310.png]]
 
-- Question: Inconsistent Method ini gapapa ya?
-	- Update Merchandise, Update Sales Person methodnya POST , padahal yang lain kalau edit menggunakan PUT
-
+Bug:
 - API POST Create Tutorial & QNA tertukar (current backend QnA ask for “Title” and “Description”, meanwhile the Tutorial ask for “Question” and “Answer” → should be the opposite)
-![[Pasted image 20250714235442.png]]
 
 
+Backend Not Implemented Yet:
+- API Get Search Country (Get All Country No Pagination ditambahin biar ada params untuk search querynya berdasarkan name)
+- API Get Search City in Country (Get All City No Pagination ditambahin biar ada params untuk search querynya berdasarkan name)
+- API Sales Person by status (status=1, status=0)
+- API Edit User by ID (dari adminnya yang mengedit user lain) 
+- Delete Sales Person by ID (dari adminnya yang delete user ini)
+- API Get Sales Person By Merchant (untuk ditampilkan di Merchant Detail)
+- API untuk Training Resource (Video & PDF)
+- API untuk Quiz
+- API Verify Sales Person
+- Gaada endpoint summary untuk setiap page → yang dimunculkan dalam bentuk card di setiap page
 
-
-- API untuk Training Resource (Video & PDF) belum ada ya?
-- API untuk Quiz masih belum ada ya?
-- 
+Incomplete data:
+- Field Product Stock, Available, Scanned Count di Get Product List tidak ada
+- Product Object (Product code & name), Merchant Object (Merchant name), Scanned Date di Get Product List tidak ada
+- Calculated Total Sales, Country Object, City Object di Merchant List tidak ada
