@@ -118,3 +118,5 @@ Backend Notes:
 
 
 - API untuk Training Resource (Video & PDF) belum ada ya?
+- API untuk Quiz masih belum ada ya?
+- 
