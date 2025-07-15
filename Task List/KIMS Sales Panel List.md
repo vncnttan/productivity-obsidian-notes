@@ -113,3 +113,8 @@ Backend Notes:
 
 - API POST Create Tutorial & QNA tertukar (current backend QnA ask for “Title” and “Description”, meanwhile the Tutorial ask for “Question” and “Answer” → should be the opposite)
 ![[Pasted image 20250714235442.png]]
+
+
+
+
+- API untuk Training Resource (Video & PDF) belum ada ya?
