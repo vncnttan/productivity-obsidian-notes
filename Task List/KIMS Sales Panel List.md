@@ -110,3 +110,6 @@ Backend Notes:
 
 - Question: Inconsistent Method ini gapapa ya?
 	- Update Merchandise, Update Sales Person methodnya POST , padahal yang lain kalau edit menggunakan PUT
+
+- API POST Create Tutorial & QNA tertukar (current backend QnA ask for “Title” and “Description”, meanwhile the Tutorial ask for “Question” and “Answer” → should be the opposite)
+![[Pasted image 20250714235442.png]]
