@@ -106,3 +106,5 @@ Incomplete data:
 
 New founding:
 - API Reset Password Profile
+- Update Training Resource seharusnya tidak terima status, dan dibiarkan saja
+- 
