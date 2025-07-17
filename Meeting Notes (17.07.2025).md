@@ -26,6 +26,11 @@ Ganti di /pendaftaraUser/isiBiodata (step 2):
 Ganti di /user/uploadDocument?id=:
 - Label Title “Sertifikat Kode Etik” diubah jadi “Sertifikat Kode Etik / Sertifikat CAT”
 
+Ganti di /user/previewDocument?id=:
+- Label Title “Sertifikat Kode Etik” diubah jadi “Sertifikat Kode Etik / Sertifikat CAT”
+
+
+
 Kemungkinan CR (dirampung dulu):
 - Mau autogenerate username 
 - Mekanisme expired untuk pendaftaran
