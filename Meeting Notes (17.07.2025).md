@@ -11,9 +11,15 @@ Ganti beberapa di /pendaftaranUser/isiBiodata (step 1):
 - Di input foto, pastikan file size nya > 0KB
 - Tambahkan notes di upload profile image
   “Pastikan foto mengikuti ketentuan yang berlaku” (fotonya sendiri, jelas, pastikan latar belakang warnanya merah, harus berwarna) + tambah contoh foto yang sesuai ketika di hover
-- 
+- “Nomor telpon” typo kurang e seharusnya “Nomor Telepon” 
+- “Nomor telpon” diubah label jadi “Nomor Telepon Rumah / Nomor Handphone Alternatif”
+- “Npwp” di label dijadikan all caps “NPWP”
+- Lepas Validasi “Nomor telepon harus diisi”
+- Validasi nomor telepon dengan nomor handphone harus berbeda
+	- Error Message: “Harap isi dengan nomor telepon berbeda”
+	- (Nomor telepon jadi tidak wajib diisi, kalau diisi pun harus berbeda dengan nomor handphone)
 
-Kemungkinan CR:
+Kemungkinan CR (dirampung dulu):
 - Mau autogenerate username 
 - Mekanisme expired untuk pendaftaran
 
