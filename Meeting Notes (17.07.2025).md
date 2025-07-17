@@ -4,6 +4,7 @@ Ganti beberapa validasi di pendaftaran page: /notariatv3/pendaftaranUser/daftar
 - Tambah validasi username harus menggunakan huruf, angka, gaboleh menggunakan spasi (ini nanti di diskusikan lagi)
 - Jadiin validasi username case insensitive (convert ke kecil sebelum masukkin ke databasenya)
 
+
 Ganti beberapa di /pendaftaranUser/isiBiodata (step 1):
 - Tambahkan notes di field *Nama lengkap dengan Gelar*
   “Pastikan kembali **Nama Lengkap dengan Gelar** tidak double” 
