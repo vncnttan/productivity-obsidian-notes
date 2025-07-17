@@ -5,3 +5,5 @@ Ganti validasi message untuk email di /notariatv3/pendaftaranUser/daftar
 
 
 
+Kemungkinan CR:
+- Mau autogenerate username 
