@@ -37,7 +37,7 @@ TODO:
 - [x] useMemo untuk table tab
 - [x] useMemo untuk semuanya
 - [x] Lanjutin page baru
-- [ ] Kalo fieldnya sama berarti buat formDef baru kah?
+- [x] Kalo fieldnya sama berarti buat formDef baru kah?
 
 
 TODO:
@@ -57,13 +57,15 @@ Refactor:
 	- [x] Create helper for this
 - [x] Refactor useDelete, useDetail, etc. to accept objects, not id string
 - [x] Refactor Dialog bisa di refactor atau bahkan pake satu aja, tergantung sama implementasi useQuery
+- [x] Chore rename mau Definitions apa def
+- [x] Refactor zod profy
+- [x] Fetch Roles Admin User Create
+- [x] Kalo gaada news, jadiin gap 4 gacor sih
+	- [ ] Jadinya jadinya knowledge basenya turun
 - [ ] Preview Dialog
-- [ ] Chore rename mau Definitions apa def
-- [ ] Refactor zod profy
-- [ ] Fetch Roles Admin User Create
-- [ ] Kalo gaada news, jadiin gap 4 gacor sih
 - [ ] Make Profile Picture Validation pake helper
-- [ ] Bug fix, something not appearing on system dark theme
+- [ ] Validasi Password & Confirm Password pake helper
+	- [ ] Consider renaming confirmPass?
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
 - [ ] Rich Text ga muncul pada saat accordion create quiz di close
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
@@ -73,8 +75,8 @@ Refactor:
 - [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [ ] Dashboard should have key props
 - [ ] Selectable Table Row
-- [ ] Validasi Password & Confirm Password
 - [ ] Toast success and error message fetching from backend
+- [ ] Bug fix, something not appearing on system dark theme
 
 
   
