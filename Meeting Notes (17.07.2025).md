@@ -1,7 +1,8 @@
-Ganti validasi message untuk email di /notariatv3/pendaftaranUser/daftar 
-- Pastikan email yang digunakan merupakan gmail yang aktif 
+Ganti beberapa validasi di pendaftaran page: /notariatv3/pendaftaranUser/daftar 
+- Ganti validasi message untuk email: “Pastikan email yang digunakan merupakan gmail yang aktif” 
+- Dibuat validasi bahwa domain dari email harus gmail
 - Tambah validasi username harus menggunakan huruf, angka, gaboleh menggunakan spasi (ini nanti di diskusikan lagi)
-- Jadiin validasi username case insensitive (convert ke kecil ke databasenya)
+- Jadiin validasi username case insensitive (convert ke kecil sebelum masukkin ke databasenya)
 
 
 
