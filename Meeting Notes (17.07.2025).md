@@ -51,6 +51,13 @@ Step 5
 	  
 	  Jadinya: “Menteri Hukum Republik Indonesia c.q. Direktur Jenderal Admiistrasi Hukum Umum”
 
+
+Di preview pindah wilayah:
+- Bug: “Pratinjau Berkas Persyaratan Pengangkatan Notaris”, seharusnya “Pratinjau Berkas Persyaratan Pindah Wilayah Jabatan Notaris”
+
+Di History Transaksi Riwayat Permohonan
+- Ganti label di button “Batalkan Perpindahan” jadi “Batalkan Pindah Wilayah”
+
 === 
 
 Kemungkinan CR (dirampung dulu):
