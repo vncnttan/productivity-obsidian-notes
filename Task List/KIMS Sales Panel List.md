@@ -61,7 +61,7 @@ Refactor:
 - [x] Refactor zod profy
 - [x] Fetch Roles Admin User Create
 - [x] Kalo gaada news, jadiin gap 4 gacor sih
-	- [ ] Jadinya jadinya knowledge basenya turun
+	- [ ] Jadinya fix knowledge basenya turun out of scope
 - [ ] Preview Dialog
 - [ ] Make Profile Picture Validation pake helper
 - [ ] Validasi Password & Confirm Password pake helper
