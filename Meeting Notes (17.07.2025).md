@@ -31,6 +31,8 @@ Ganti di /user/previewDocument?id=:
 
 
 === Pindah Wilayah === 
+- Title “Input Kode Voucher Perpindahan” diubah jadi “Input Kode Voucher Pindah Wilayah Jabatan Notaris”
+
 Ganti di notariat/v3/user/pindahWilayah/… (Step ): 
 - Title “Permohonan **Per**pindahan Wilayah Notaris“ diubah jadi “Permohonan Pindah Wilayah Jabatan Notaris”
 
