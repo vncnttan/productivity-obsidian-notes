@@ -16,7 +16,7 @@ Ganti beberapa di /pendaftaranUser/isiBiodata (step 1):
 - “Npwp” di label dijadikan all caps “NPWP”
 - Lepas Validasi “Nomor telepon harus diisi”
 - Validasi nomor telepon dengan nomor handphone harus berbeda
-	- Error Message: “Harap isi dengan nomor telepon berbeda”
+	- Error Message: “Harap isi dengan nomor telepon berbeda” jika notelp == ho hp
 	- (Nomor telepon jadi tidak wajib diisi, kalau diisi pun harus berbeda dengan nomor handphone)
 
 Ganti di /pendaftaraUser/isiBiodata (step 2):
