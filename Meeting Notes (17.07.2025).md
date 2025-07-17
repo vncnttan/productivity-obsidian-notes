@@ -30,6 +30,28 @@ Ganti di /user/previewDocument?id=:
 - Label Title “Sertifikat Kode Etik” diubah jadi “Sertifikat Kode Etik / Sertifikat CAT”
 
 
+=== Pindah Wilayah === 
+Ganti di notariat/v3/user/pindahWilayah/… (Step ): 
+- Title “Permohonan **Per**pindahan Wilayah Notaris“ diubah jadi “Permohonan Pindah Wilayah Jabatan Notaris”
+
+Step 2
+- Tambah validasi semua Surat Ikatan Jabatan Notaris mandatory
+
+Step 3
+- Ubah Label Title ”Wilayah Pindah Notaris” jadi “Wilayah Pindah Jabatan Notaris”
+- Ubah Label “Nomor Surat Permohonan Pindah Notaris” jadi “Nomor Surat Permohonan Pindah Jabatan Notaris”
+- C ke A minimal harus 4 tahun di tempat yang sama & punya instruksi menteri
+
+Step 5
+- Perubahan text di preview dibawah “Kepada Yth.” 
+	- “Menteri Hukum dan Hak Asasi Manusia Republik Indonesia” diubah jadi “Menteri Hukum Republik Indonesia”
+	- Hapus “plt”
+	- Bersama ini saya sampaikan kelengkapan “Pindah Wilayah Jabatan Notaris”
+	- “Demikian surat permohonan untuk pindah wilayah **jabatan notaris** ini dapat dikabulkan.”
+	  
+	  Jadinya: “Menteri Hukum Republik Indonesia c.q. Direktur Jenderal Admiistrasi Hukum Umum”
+
+=== 
 
 Kemungkinan CR (dirampung dulu):
 - Mau autogenerate username 
