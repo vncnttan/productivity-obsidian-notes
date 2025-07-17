@@ -5,6 +5,9 @@ Ganti beberapa validasi di pendaftaran page: /notariatv3/pendaftaranUser/daftar
 - Jadiin validasi username case insensitive (convert ke kecil sebelum masukkin ke databasenya)
 
 
-
 Kemungkinan CR:
 - Mau autogenerate username 
+- Mekanisme expired untuk pendaftaran
+
+Permintaan ke PIC AHU: 
+- Template Import Formasi
