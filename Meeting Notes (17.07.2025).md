@@ -68,3 +68,13 @@ Kemungkinan CR (dirampung dulu):
 
 Permintaan ke PIC AHU: 
 - Template Import Formasi
+
+Pengangkatan hanya untuk Kategori C
+
+
+Pindah Wilayah ke A hanya untuk instruksi menteri
+Harus melaksanakan jabatan 3 tahun berturut2 untuk bisa C ke B → 50.000.000
+Harus melaksanakan jabtan 4 tahun berturut2 untuk bisa C ke A dan instruksi menteri → 150.000.000
+Harus melaksanakan jabatan 1 tahun beruturut2 untuk bisa B ke A dan instruksi menteri → 100.000.000
+Kalo pindah jabatan yang turun / kategori sama 25.000.000 (semuanya bisa gaada syarat jabatan berapa tahun / instruksi menteri)
+
