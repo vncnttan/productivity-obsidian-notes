@@ -19,6 +19,9 @@ Ganti beberapa di /pendaftaranUser/isiBiodata (step 1):
 	- Error Message: “Harap isi dengan nomor telepon berbeda”
 	- (Nomor telepon jadi tidak wajib diisi, kalau diisi pun harus berbeda dengan nomor handphone)
 
+Ganti di /pendaftaraUser/isiBiodata (step 2):
+- Label Title “Sertifikat Kode Etik” diubah jadi “Sertifikat Kode Etik / Sertifikat CAT”
+
 Kemungkinan CR (dirampung dulu):
 - Mau autogenerate username 
 - Mekanisme expired untuk pendaftaran
