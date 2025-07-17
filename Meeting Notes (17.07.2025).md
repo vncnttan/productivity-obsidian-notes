@@ -18,6 +18,7 @@ Ganti beberapa di /pendaftaranUser/isiBiodata (step 1):
 - Validasi nomor telepon dengan nomor handphone harus berbeda
 	- Error Message: “Harap isi dengan nomor telepon berbeda” jika notelp == ho hp
 	- (Nomor telepon jadi tidak wajib diisi, kalau diisi pun harus berbeda dengan nomor handphone)
+- 
 
 Ganti di /pendaftaraUser/isiBiodata (step 2):
 - Label Title “Sertifikat Kode Etik” diubah jadi “Sertifikat Kode Etik / Sertifikat CAT”
