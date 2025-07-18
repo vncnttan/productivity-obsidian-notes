@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/9ik0u541#RJJwbKp75w++H1a/i9g3Lz49DZ5Qe3pYRSbYeBF9VnA
+share_updated: 2025-07-19T00:54:46+07:00
+---
 This year’s hackathon is a **call to action**: to create solutions that don’t just tell a story but **become** the story—turning Indonesia’s aspirations into reality through innovation in: 
 - 🌱 Sustainability
 - 🎓 Education & Equality
