@@ -30,21 +30,34 @@ Technical Judges:
     Did the team challenge themselves technically? Is the tech appropriate for the problem?
 
 ##### Idea Brainstorming
+- Connecting Language Apps 🍳
+	- Problem: sama kayak atas
+	- Fitur 1: Crowd Urban Dictionary
+		- Dokumentasi bahasa
+		- Semua bisa upload
+		- 
+	- Fitur 2: Leaderboard
+	- Fitur 3: Omegle Culture 
+		- Speech Recognition & Automatic Translation (butuh dataset bahasanya)
+- Carbon Credit Campaign 🌱
+	- Problem: dampak CO2 buruk bagi environment  
+	- Campaign untuk ngeluarin karbondioksida
+		- Community bisa berkontribusi untuk mencapai target dari karbon kredit yang dipakai sama campaign dari company
+	- Transparansi dan bisa dijadikan oportunity buat company untuk membuat campaign, sehingga bisa lebih sustainable
+> 		Through a series of checks and balances, investors hold companies accountable for their emissions and demand that these companies and industries take action in response to climate change. The Carbon Action Initiative focuses on companies determined by the industry sector to be at a high level of greenhouse gas emissions.
 - App Learning for connecting culture language 📖 
 	- Problem: Connecting buat tau bahasa lain di Indonesia, untuk melestarikan bahasa daerah yang udah mau ditinggalkan 
 	- Pembelajaran bahasa daerah 
 	- Crowd Source (orang yang gatau cara ngajarin bahasa bisa ngajarin ke aplikasi)
 		- Speech Recognition buat translate bahasanya
 		- AI untuk capture bahasa daerah 
-- Culture Omegle 
-	- Problem: sama kayak atas
-	- Nyari crowdnya gampang
-		- Speech Recognition & Automatic Translation (butuh dataset bahasanya)
+		- Biar kita provide datasetnya 
 - Food bank Application 🍔
 	- Problem: Food waste & hunger 
 	- Flash Sale makanan gitu kalau udah malem (kayak AEON gitu konsepnya)
 	- Biasanya yang dibuang itu yang branded → kerja sama brand → mereka ga merasa rugi, kita juga ga merasa rugi 
 		- Subscription Based → Consistent 
+
 - Timeleft → Connecting cultures (?)  ✈️ ❌
 	- Kita sekarang banyak individualistik (ada orang yang suka jarang ketemu)
 	- Ketemu & connect culture baru 
@@ -55,15 +68,7 @@ Technical Judges:
 		- Jadi kayak cara bayar pajak, dll 
 	- Bentuknya video generate by AI 
 	- Bisa implementasi AI juga untuk generate materi / summarize 
-- Carbon Credit Campaign 🌱
-	- Problem: dampak CO2 buruk bagi environment  
-	- Campaign untuk ngeluarin karbondioksida
-		- Community bisa berkontribusi untuk mencapai target dari karbon kredit yang dipakai sama campaign dari company
-	- Transparansi dan bisa dijadikan oportunity buat company untuk membuat campaign, sehingga bisa lebih sustainable
-> 		Through a series of checks and balances, investors hold companies accountable for their emissions and demand that these companies and industries take action in response to climate change. The Carbon Action Initiative focuses on companies determined by the industry sector to be at a high level of greenhouse gas emissions.
 - Carbon Footprint Tracker 👣
 	- Problem: sama kayak yang di atas
 	- Jadi langsung kasih buat tau ini carbon footprintnya berapa
 - Cultural Marketplace
-
-
