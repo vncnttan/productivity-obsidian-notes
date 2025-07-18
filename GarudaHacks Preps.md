@@ -38,9 +38,18 @@ Non-Technical Judges:
 	- Problem: Food waste & hunger 
 	- Flash Sale makanan gitu kalau udah malem (kayak AEON gitu konsepnya)
 	- Biasanya yang dibuang itu yang branded → kerja sama brand → mereka ga merasa rugi, kita juga ga merasa rugi 
-- 
-- Timeleft → Connecting cultures (?)  
+- Timeleft → Connecting cultures (?)  ✈️
 	- Kita sekarang banyak individualistik (ada orang yang suka jarang ketemu)
 	- Ketemu & connect culture baru 
 	- AI matching → 4 to 5 people 
 	- Kurang inovatif dan ga terlalu solve problem yang ada
+- Basic Life Skill Learning Application
+	- Problem: Education & Equality karena ga semua orang bisa / diberikan kesempatan untuk mempelajari hal-hal tersebut sebelum dewasa
+		- Jadi kayak cara bayar AI 
+	- Bentuknya video generate by AI 
+	- Bisa implementasi AI juga untuk generate materi / summarize 
+- Carbon Credit
+	- Problem: CO2 yang melebihi batas 
+	- Beli izin untuk ngeluarin karbondioksida
+		- Community bisa berkontribusi untuk mencapai target dari karbon kredit yang dipakai sama company
+
