@@ -62,10 +62,11 @@ Refactor:
 - [x] Fetch Roles Admin User Create
 - [x] Kalo gaada news, jadiin gap 4 gacor sih
 	- [ ] Jadinya fix knowledge basenya turun out of scope
-- [ ] Ganti table padding jadi lebih kecil, sesuai sama figma
-- [ ] Dashboard should have key props
-- [ ] Preview Dialog
+- [x] Ganti table padding jadi lebih kecil, sesuai sama figma
+- [x] Sidebar should have key props
+- [ ] Preview Dialog (tunggu QRnya)
 - [ ] Make Profile Picture Validation pake helper
+- [ ] Toast success and error message fetching from backend
 - [ ] Validasi Password & Confirm Password pake helper
 	- [ ] Consider renaming confirmPass?
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
@@ -75,7 +76,6 @@ Refactor:
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Detail Page / Dialog ketinggalan di komen figma
 - [ ] Selectable Table Row
-- [ ] Toast success and error message fetching from backend
 - [ ] Bug fix, something not appearing on system dark theme
 
 
