@@ -33,7 +33,7 @@ Technical Judges:
 - App Learning for connecting culture language 📖 
 	- Problem: Connecting buat tau bahasa lain di Indonesia, untuk melestarikan bahasa daerah yang udah mau ditinggalkan 
 	- Pembelajaran bahasa daerah 
-	- Crowd Source (orang tua yang gatau cara ngajarin bahasa bisa ngajarin ke aplikasi)
+	- Crowd Source (orang yang gatau cara ngajarin bahasa bisa ngajarin ke aplikasi)
 - Food bank Application 🍔
 	- Problem: Food waste & hunger 
 	- Flash Sale makanan gitu kalau udah malem (kayak AEON gitu konsepnya)
@@ -54,6 +54,7 @@ Technical Judges:
 	- Campaign untuk ngeluarin karbondioksida
 		- Community bisa berkontribusi untuk mencapai target dari karbon kredit yang dipakai sama campaign dari company
 	- Transparansi dan bisa dijadikan oportunity buat company untuk membuat campaign, sehingga bisa lebih sustainable
+		> Through a series of checks and balances, investors hold companies accountable for their emissions and demand that these companies and industries take action in response to climate change. The Carbon Action Initiative focuses on companies determined by the industry sector to be at a high level of greenhouse gas emissions.
 - Carbon Footprint Tracker 👣
 	- Problem: sama kayak yang di atas
 	- Jadi langsung kasih buat tau ini carbon footprintnya berapa
