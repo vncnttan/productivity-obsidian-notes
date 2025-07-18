@@ -54,7 +54,7 @@ Technical Judges:
 	- Campaign untuk ngeluarin karbondioksida
 		- Community bisa berkontribusi untuk mencapai target dari karbon kredit yang dipakai sama campaign dari company
 	- Transparansi dan bisa dijadikan oportunity buat company untuk membuat campaign, sehingga bisa lebih sustainable
-		> Through a series of checks and balances, investors hold companies accountable for their emissions and demand that these companies and industries take action in response to climate change. The Carbon Action Initiative focuses on companies determined by the industry sector to be at a high level of greenhouse gas emissions.
+> 		Through a series of checks and balances, investors hold companies accountable for their emissions and demand that these companies and industries take action in response to climate change. The Carbon Action Initiative focuses on companies determined by the industry sector to be at a high level of greenhouse gas emissions.
 - Carbon Footprint Tracker 👣
 	- Problem: sama kayak yang di atas
 	- Jadi langsung kasih buat tau ini carbon footprintnya berapa
