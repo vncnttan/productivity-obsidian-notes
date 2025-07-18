@@ -35,7 +35,6 @@ Technical Judges:
 	- Fitur 1: Crowd Urban Dictionary
 		- Dokumentasi bahasa
 		- Semua bisa upload
-		- 
 	- Fitur 2: Leaderboard
 	- Fitur 3: Omegle Culture 
 		- Speech Recognition & Automatic Translation (butuh dataset bahasanya)
