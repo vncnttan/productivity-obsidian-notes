@@ -34,6 +34,12 @@ Technical Judges:
 	- Problem: Connecting buat tau bahasa lain di Indonesia, untuk melestarikan bahasa daerah yang udah mau ditinggalkan 
 	- Pembelajaran bahasa daerah 
 	- Crowd Source (orang yang gatau cara ngajarin bahasa bisa ngajarin ke aplikasi)
+		- Speech Recognition buat translate bahasanya
+		- AI untuk capture bahasa daerah 
+- Culture Omegle 
+	- Problem: sama kayak atas
+	- Nyari crowdnya gampang
+		- Speech Recognition & Automatic Translation (butuh dataset bahasanya)
 - Food bank Application 🍔
 	- Problem: Food waste & hunger 
 	- Flash Sale makanan gitu kalau udah malem (kayak AEON gitu konsepnya)
@@ -58,5 +64,6 @@ Technical Judges:
 - Carbon Footprint Tracker 👣
 	- Problem: sama kayak yang di atas
 	- Jadi langsung kasih buat tau ini carbon footprintnya berapa
+- Cultural Marketplace
 
 
