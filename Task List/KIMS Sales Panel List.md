@@ -109,4 +109,7 @@ Incomplete data:
 New founding:
 - API Reset Password Profile
 - Update Training Resource seharusnya tidak terima status, dan dibiarkan saja
-- 
+- Bank Account di Sales Person Detail
+- API Withdraw for Sales Person Page
+- API Point History for Sales Person Page 
+- API Sales for Sales Person Detail Page
