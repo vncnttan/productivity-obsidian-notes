@@ -70,6 +70,8 @@ Refactor:
 - [ ] Validasi Password & Confirm Password pake helper
 	- [ ] Consider renaming confirmPass?
 - [ ] Detail Page / Dialog ketinggalan di komen figma
+- [ ] Clear form on dialog close
+- [ ] Disable Button on Submitting
 - [ ] Selectable Table Row
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
