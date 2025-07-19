@@ -64,9 +64,10 @@ Refactor:
 	- [ ] Jadinya fix knowledge basenya turun out of scope
 - [x] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [x] Sidebar should have key props
-- [ ] Toast success and error message fetching from backend
+- [x] Toast success and error message fetching from backend
 - [ ] Make Profile Picture Validation pake helper
 - [ ] Preview Dialog (tunggu QRnya)
+- [ ] Verify Sales Dialog
 - [ ] Validasi Password & Confirm Password pake helper
 	- [ ] Consider renaming confirmPass?
 - [ ] Detail Page / Dialog ketinggalan di komen figma
