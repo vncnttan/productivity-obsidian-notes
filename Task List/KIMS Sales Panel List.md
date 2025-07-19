@@ -69,13 +69,13 @@ Refactor:
 - [ ] Toast success and error message fetching from backend
 - [ ] Validasi Password & Confirm Password pake helper
 	- [ ] Consider renaming confirmPass?
-- [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
-- [ ] Rich Text ga muncul pada saat accordion create quiz di close
-- [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
-- [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
-- [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Detail Page / Dialog ketinggalan di komen figma
 - [ ] Selectable Table Row
+- [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
+- [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
+- [ ] Rich Text ga muncul pada saat accordion create quiz di close
+- [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
+- [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Bug fix, something not appearing on system dark theme
 
 
