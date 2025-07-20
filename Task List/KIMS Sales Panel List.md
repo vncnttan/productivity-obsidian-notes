@@ -71,10 +71,11 @@ Progress (16/07 - 23/07)
 - [x] Profile Picture API Fix
 - [x] Fetch Dynamic Select from API
 - [x] Profile Picture Validation pake helper
-- [x] Revision Backend dari mas Farrel
+- [x] Jahit Revision Backend dari mas Farrel
 - [ ] 
 
 - [ ] Beresin axiosClient.ts pakai helper
+- [ ] Get City by Id Country yang diisi 
 - [ ] Preview Dialog (tunggu QRnya)
 - [ ] Verify Sales Dialog
 - [ ] Validasi Password & Confirm Password pake helper
