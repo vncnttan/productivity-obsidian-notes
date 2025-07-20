@@ -86,6 +86,7 @@ Progress (16/07 - 23/07)
 	- [ ] Consider renaming confirmPass?
 - [ ] Clear form on dialog close
 - [ ] Disable Button on Submitting
+- [ ] Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
