@@ -72,14 +72,16 @@ Progress (16/07 - 23/07)
 - [x] Fetch Dynamic Select from API
 - [x] Profile Picture Validation pake helper
 - [x] Jahit Revision Backend dari mas Farrel
-- [ ] 
-
-- [ ] Beresin axiosClient.ts pakai helper
-- [ ] Ganti QnA dan tutorial rich text untuk pakai html tag
-- [ ] Get City by Id Country yang diisi 
-- [ ] Jadiin required pakai mode !== detail semua seragamin
+- [x] Get City by Id Country yang diisi 
 - [ ] Preview Dialog (tunggu QRnya)
+- [ ] Ganti QnA dan tutorial rich text untuk pakai html tag
+- [ ] Forgot Password UI
 - [ ] Verify Sales Dialog
+
+- [ ] Quiz UI
+- [ ] Beresin axiosClient.ts pakai helper
+- [ ] Sales Transaction dibagi menjadi 2
+- [ ] Jadiin required pakai mode !== detail semua seragamin
 - [ ] Validasi Password & Confirm Password pake helper
 	- [ ] Consider renaming confirmPass?
 - [ ] Clear form on dialog close
@@ -96,41 +98,3 @@ Progress (16/07 - 23/07)
 
 
   
-
-Bug:
-- API POST Create Tutorial & QNA tertukar (current backend QnA ask for “Title” and “Description”, meanwhile the Tutorial ask for “Question” and “Answer” → should be the opposite)
-
-
-Backend Not Implemented Yet:
-- API Get Search Country (Get All Country No Pagination ditambahin biar ada params untuk search querynya berdasarkan name)
-- API Get Search City in Country (Get All City No Pagination ditambahin biar ada params untuk search querynya berdasarkan name)
-- API Sales Person by status (status=1, status=0)
-- API Edit User by ID (dari adminnya yang mengedit user lain) 
-- Delete Sales Person by ID (dari adminnya yang delete user ini)
-- API Get Sales Person By Merchant (untuk ditampilkan di Merchant Detail)
-- API untuk Training Resource (Video & PDF)
-- API untuk Quiz
-- API Verify Sales Person
-- Gaada endpoint summary untuk setiap page → yang dimunculkan dalam bentuk card di setiap page
-- Preview Dialog benerin
-- Dialog untuk reject implementation yang bener
-
-Incomplete data:
-- Field Product Stock, Available, Scanned Count di Get Product List tidak ada
-- Product Object (Product code & name), Merchant Object (Merchant name), Scanned Date di Get Product List tidak ada
-- Calculated Total Sales, Country Object, City Object di Merchant List tidak ada
-
-
-
-New founding:
-- API Reset Password Profile
-- Update Training Resource seharusnya tidak terima status, dan dibiarkan saja
-- Bank Account di Sales Person Detail
-- API Withdraw for Sales Person Page
-- API Point History for Sales Person Page 
-- API Sales for Sales Person Detail Page
-- Country Service Error
-- Delete Sales Person masih dimunculkan namun datanya NULL
-- Training Resource Status seharusnya tidak bisa di edit di dialog
-- Fetch Group by name
-![[Pasted image 20250721002535.png]]
