@@ -76,6 +76,7 @@ Progress (16/07 - 23/07)
 
 - [ ] Beresin axiosClient.ts pakai helper
 - [ ] Get City by Id Country yang diisi 
+- [ ] Jadiin required pakai mode !== detail semua seragamin
 - [ ] Preview Dialog (tunggu QRnya)
 - [ ] Verify Sales Dialog
 - [ ] Validasi Password & Confirm Password pake helper
@@ -125,3 +126,4 @@ New founding:
 - API Withdraw for Sales Person Page
 - API Point History for Sales Person Page 
 - API Sales for Sales Person Detail Page
+- Country Service Error
