@@ -129,3 +129,4 @@ New founding:
 - API Point History for Sales Person Page 
 - API Sales for Sales Person Detail Page
 - Country Service Error
+- Delete Sales Person masih dimunculkan namun datanya NULL
