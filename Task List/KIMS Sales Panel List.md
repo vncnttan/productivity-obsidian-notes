@@ -91,6 +91,7 @@ Progress (16/07 - 23/07)
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Bug fix, something not appearing on system dark theme
 - [ ] Man Woman Standardization
+- [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
 
   
