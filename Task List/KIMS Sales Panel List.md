@@ -75,6 +75,7 @@ Progress (16/07 - 23/07)
 - [ ] 
 
 - [ ] Beresin axiosClient.ts pakai helper
+- [ ] Ganti QnA dan tutorial rich text untuk pakai html tag
 - [ ] Get City by Id Country yang diisi 
 - [ ] Jadiin required pakai mode !== detail semua seragamin
 - [ ] Preview Dialog (tunggu QRnya)
@@ -130,3 +131,6 @@ New founding:
 - API Sales for Sales Person Detail Page
 - Country Service Error
 - Delete Sales Person masih dimunculkan namun datanya NULL
+- Training Resource Status seharusnya tidak bisa di edit di dialog
+- Fetch Group by name
+![[Pasted image 20250721002535.png]]
