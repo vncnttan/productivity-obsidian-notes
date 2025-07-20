@@ -62,15 +62,23 @@ Refactor:
 - [x] Fetch Roles Admin User Create
 - [x] Kalo gaada news, jadiin gap 4 gacor sih
 	- [ ] Jadinya fix knowledge basenya turun out of scope
+
+Progress (16/07 - 23/07)
+- [x] Detail Page / Dialog yang ketinggalan di komen figma
 - [x] Ganti table padding jadi lebih kecil, sesuai sama figma
 - [x] Sidebar should have key props
 - [x] Toast success and error message fetching from backend
-- [ ] Make Profile Picture Validation pake helper
+- [x] Profile Picture API Fix
+- [x] Fetch Dynamic Select from API
+- [x] Profile Picture Validation pake helper
+- [x] Revision Backend dari mas Farrel
+- [ ] 
+
+- [ ] Beresin axiosClient.ts pakai helper
 - [ ] Preview Dialog (tunggu QRnya)
 - [ ] Verify Sales Dialog
 - [ ] Validasi Password & Confirm Password pake helper
 	- [ ] Consider renaming confirmPass?
-- [ ] Detail Page / Dialog ketinggalan di komen figma
 - [ ] Clear form on dialog close
 - [ ] Disable Button on Submitting
 - [ ] Selectable Table Row
