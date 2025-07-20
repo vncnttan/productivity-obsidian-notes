@@ -73,7 +73,7 @@ Progress (16/07 - 23/07)
 - [x] Profile Picture Validation pake helper
 - [x] Jahit Revision Backend dari mas Farrel
 - [x] Get City by Id Country yang diisi 
-- [ ] Preview Dialog (tunggu QRnya)
+- [x] Preview Dialog (tunggu QRnya)
 - [ ] Ganti QnA dan tutorial rich text untuk pakai html tag
 - [ ] Forgot Password UI
 - [ ] Verify Sales Dialog
