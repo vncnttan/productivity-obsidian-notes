@@ -74,13 +74,16 @@ Progress (16/07 - 23/07)
 - [x] Jahit Revision Backend dari mas Farrel
 - [x] Get City by Id Country yang diisi 
 - [x] Preview Dialog (tunggu QRnya)
-- [ ] Ganti QnA dan tutorial rich text untuk pakai html tag
+- [x] Ganti QnA dan tutorial rich text untuk pakai html tag
+- [ ] Sales Transaction dibagi menjadi 2 bank dan withdraw
 - [ ] Forgot Password UI
-- [ ] Verify Sales Dialog
+- [ ] Login Register dibenerin titlenya
+- [ ] Verify Sales Dialog & Type Password Dialog
+- [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
+- [ ] Withdraw and Unverified Sales Person yang di dashboard
 
 - [ ] Quiz UI
 - [ ] Beresin axiosClient.ts pakai helper
-- [ ] Sales Transaction dibagi menjadi 2
 - [ ] Jadiin required pakai mode !== detail semua seragamin
 - [ ] Validasi Password & Confirm Password pake helper
 	- [ ] Consider renaming confirmPass?
@@ -89,6 +92,7 @@ Progress (16/07 - 23/07)
 - [ ] Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
+- [ ] Rich Text di table view
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
 - [ ] Rich Text ga muncul pada saat accordion create quiz di close
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
@@ -97,5 +101,3 @@ Progress (16/07 - 23/07)
 - [ ] Man Woman Standardization
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
-
-  
