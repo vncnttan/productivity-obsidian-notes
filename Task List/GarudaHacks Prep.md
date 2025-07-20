@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/f49msysn#p6wgdMsa8rwKDzjiS1DpDkMyhgdZ9nO6Avb9Th5liX8
+share_updated: 2025-07-20T23:11:00+07:00
+---
 ### Agenda Hari ini 📅
 - Mau lengkapin ide kemaren
 	- Feature Detail ✅
@@ -15,7 +19,7 @@
 - Feature 2: Leaderboard
 	- Sistem Point: Banyak like dari post yang dibuat 
 - Feature 3: OmeTV
-	- Omegle: Supply dulu bahasanya apa
+	- Omegle: Supply dulu bahasanya apa 
 		- What do you speak?
 		- Turn closed caption on/off
 	- Live TV (kerjain hari H) 
@@ -29,11 +33,10 @@
 	 - PostgreSQL
 
 #### Future Work:
-	- Can contribute to [Common Voice](https://commonvoice.mozilla.org/en)
-
+- Can contribute to [Common Voice](https://commonvoice.mozilla.org/en)
 
 #### Preparation:
-- Transcription + Translation: NJ + Mbe
-- Games:  
-- Figma: Rabu Sore 
-- 
+- Transcription + Translation Senin: NJ + Mbe
+- Figma: Selasa, 20.00
+
+
