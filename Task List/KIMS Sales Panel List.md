@@ -90,6 +90,7 @@ Progress (16/07 - 23/07)
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Bug fix, something not appearing on system dark theme
+- [ ] Man Woman Standardization
 
 
   
