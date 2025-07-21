@@ -79,7 +79,7 @@ Progress (16/07 - 23/07)
 	- [x] Buat category namenya berubah sesuai dengan params type
 	- [x] Title di navbar untuk pake yang sidebar punya daripada pake yang itemnya punya title
 	- [x] Make sure only one collapsible sidebar opened
-- [ ] Login Register dibenerin titlenya
+- [x] Login Register dibenerin titlenya
 - [ ] Forgot Password UI
 - [ ] Withdraw and Unverified Sales Person yang di dashboard
 - [ ] Verify Sales Dialog & Type Password Dialog
