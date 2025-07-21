@@ -76,9 +76,9 @@ Progress (16/07 - 23/07)
 - [x] Preview Dialog (tunggu QRnya)
 - [x] Ganti QnA dan tutorial rich text untuk pakai html tag
 - [x] Sales Transaction dibagi menjadi 2 bank dan withdraw
-	- [ ] Buat category namenya berubah sesuai dengan params type
+	- [x] Buat category namenya berubah sesuai dengan params type
+	- [x] Title di navbar untuk pake yang sidebar punya daripada pake yang itemnya punya title
 	- [ ] Make sure only one collapsible sidebar opened
-	- [ ] Title di navbar untuk pake yang sidebar punya daripada pake yang itemnya punya title
 - [ ] Login Register dibenerin titlenya
 - [ ] Forgot Password UI
 - [ ] Withdraw and Unverified Sales Person yang di dashboard
