@@ -83,8 +83,8 @@ Progress (16/07 - 23/07)
 - [x] Forgot Password UI
 - [x] Withdraw and Unverified Sales Person yang di dashboard
 - [x] Verify Sales Dialog & Type Password Dialog
-- [ ] Validasi Password & Confirm Password pake helper
-	- [ ] Consider renaming confirmPass?
+- [x] Validasi Password & Confirm Password pake helper
+	- [x] Consider renaming confirmPass?
 - [ ] Jadiin required pakai mode !== detail semua seragamin
 - [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 
