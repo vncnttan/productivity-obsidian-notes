@@ -80,7 +80,7 @@ Progress (16/07 - 23/07)
 	- [x] Title di navbar untuk pake yang sidebar punya daripada pake yang itemnya punya title
 	- [x] Make sure only one collapsible sidebar opened
 - [x] Login Register dibenerin titlenya
-- [ ] Forgot Password UI
+- [x] Forgot Password UI
 - [ ] Withdraw and Unverified Sales Person yang di dashboard
 - [ ] Verify Sales Dialog & Type Password Dialog
 - [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
