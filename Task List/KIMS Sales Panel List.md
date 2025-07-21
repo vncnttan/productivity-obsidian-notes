@@ -61,7 +61,7 @@ Refactor:
 - [x] Refactor zod profy
 - [x] Fetch Roles Admin User Create
 - [x] Kalo gaada news, jadiin gap 4 gacor sih
-	- [ ] Jadinya fix knowledge basenya turun out of scope
+	- [x] Jadinya fix knowledge basenya turun out of scope
 
 Progress (16/07 - 23/07)
 - [x] Detail Page / Dialog yang ketinggalan di komen figma
@@ -78,7 +78,7 @@ Progress (16/07 - 23/07)
 - [x] Sales Transaction dibagi menjadi 2 bank dan withdraw
 	- [x] Buat category namenya berubah sesuai dengan params type
 	- [x] Title di navbar untuk pake yang sidebar punya daripada pake yang itemnya punya title
-	- [ ] Make sure only one collapsible sidebar opened
+	- [x] Make sure only one collapsible sidebar opened
 - [ ] Login Register dibenerin titlenya
 - [ ] Forgot Password UI
 - [ ] Withdraw and Unverified Sales Person yang di dashboard
