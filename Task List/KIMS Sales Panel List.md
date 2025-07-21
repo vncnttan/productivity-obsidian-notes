@@ -85,10 +85,10 @@ Progress (16/07 - 23/07)
 - [x] Verify Sales Dialog & Type Password Dialog
 - [x] Validasi Password & Confirm Password pake helper
 	- [x] Consider renaming confirmPass?
-- [ ] Jadiin required pakai mode !== detail semua seragamin
-- [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
-
+- [x] Jadiin required pakai mode !== detail semua seragamin
 - [ ] Beresin axiosClient.ts pakai helper
+
+- [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 - [ ] Quiz UI
 - [ ] Verify Withdraw & Type Password Dialog
 - [ ] Clear form on dialog close
@@ -105,5 +105,7 @@ Progress (16/07 - 23/07)
 - [ ] Man Woman Standardization
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
+
+Stalled Backend
 - [ ] Withdraw Request Bug masihan
 - [ ] Bug Subtract Point
