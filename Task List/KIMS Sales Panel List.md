@@ -82,14 +82,15 @@ Progress (16/07 - 23/07)
 - [x] Login Register dibenerin titlenya
 - [x] Forgot Password UI
 - [x] Withdraw and Unverified Sales Person yang di dashboard
-- [ ] Verify Sales Dialog & Type Password Dialog
-- [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
-
-- [ ] Quiz UI
-- [ ] Beresin axiosClient.ts pakai helper
+- [x] Verify Sales Dialog & Type Password Dialog
 - [ ] Jadiin required pakai mode !== detail semua seragamin
+- [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 - [ ] Validasi Password & Confirm Password pake helper
 	- [ ] Consider renaming confirmPass?
+
+- [ ] Beresin axiosClient.ts pakai helper
+- [ ] Quiz UI
+- [ ] Verify Withdraw & Type Password Dialog
 - [ ] Clear form on dialog close
 - [ ] Disable Button on Submitting
 - [ ] Sort By Server :(
@@ -105,3 +106,4 @@ Progress (16/07 - 23/07)
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
 - [ ] Withdraw Request Bug masihan
+- [ ] Bug Subtract Point
