@@ -75,12 +75,15 @@ Progress (16/07 - 23/07)
 - [x] Get City by Id Country yang diisi 
 - [x] Preview Dialog (tunggu QRnya)
 - [x] Ganti QnA dan tutorial rich text untuk pakai html tag
-- [ ] Sales Transaction dibagi menjadi 2 bank dan withdraw
-- [ ] Forgot Password UI
+- [x] Sales Transaction dibagi menjadi 2 bank dan withdraw
+	- [ ] Buat category namenya berubah sesuai dengan params type
+	- [ ] Make sure only one collapsible sidebar opened
+	- [ ] Title di navbar untuk pake yang sidebar punya daripada pake yang itemnya punya title
 - [ ] Login Register dibenerin titlenya
+- [ ] Forgot Password UI
+- [ ] Withdraw and Unverified Sales Person yang di dashboard
 - [ ] Verify Sales Dialog & Type Password Dialog
 - [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
-- [ ] Withdraw and Unverified Sales Person yang di dashboard
 
 - [ ] Quiz UI
 - [ ] Beresin axiosClient.ts pakai helper
