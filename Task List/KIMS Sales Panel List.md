@@ -81,7 +81,7 @@ Progress (16/07 - 23/07)
 	- [x] Make sure only one collapsible sidebar opened
 - [x] Login Register dibenerin titlenya
 - [x] Forgot Password UI
-- [ ] Withdraw and Unverified Sales Person yang di dashboard
+- [x] Withdraw and Unverified Sales Person yang di dashboard
 - [ ] Verify Sales Dialog & Type Password Dialog
 - [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 
@@ -104,3 +104,4 @@ Progress (16/07 - 23/07)
 - [ ] Man Woman Standardization
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
+- [ ] Withdraw Request Bug masihan
