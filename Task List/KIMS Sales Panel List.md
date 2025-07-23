@@ -86,9 +86,9 @@ Progress (16/07 - 23/07)
 - [x] Validasi Password & Confirm Password pake helper
 	- [x] Consider renaming confirmPass?
 - [x] Jadiin required pakai mode !== detail semua seragamin
-- [ ] Beresin axiosClient.ts pakai helper
 
 - [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
+- [ ] Beresin axiosClient.ts pakai helper
 - [ ] Quiz UI
 - [ ] Verify Withdraw & Type Password Dialog
 - [ ] Clear form on dialog close
