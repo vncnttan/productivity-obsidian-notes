@@ -91,6 +91,8 @@ Progress (16/07 - 23/07)
 Progress (23/07 - 30/07)
 - [ ] Integrate API Changes
 	- [ ] Change City Dynamic Select based on Country chosen
+	- [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
+- [ ] Fix Bank Account Missing in Sales Person Detail
 - [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 - [ ] Beresin axiosClient.ts pakai helper
 - [ ] Quiz UI
