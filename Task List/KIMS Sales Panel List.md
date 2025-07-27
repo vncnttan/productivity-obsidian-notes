@@ -87,6 +87,8 @@ Progress (16/07 - 23/07)
 	- [x] Consider renaming confirmPass?
 - [x] Jadiin required pakai mode !== detail semua seragamin
 
+
+Progress (23/07 - 30/07)
 - [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 - [ ] Beresin axiosClient.ts pakai helper
 - [ ] Quiz UI
