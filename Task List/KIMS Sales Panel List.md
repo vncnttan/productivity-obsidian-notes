@@ -90,6 +90,7 @@ Progress (16/07 - 23/07)
 
 Progress (23/07 - 30/07)
 - [ ] Integrate API Changes
+	- [ ] Change City Dynamic Select based on Country chosen
 - [ ] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 - [ ] Beresin axiosClient.ts pakai helper
 - [ ] Quiz UI
