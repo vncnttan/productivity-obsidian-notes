@@ -112,7 +112,11 @@ Progress (23/07 - 30/07)
 - [ ] Man Woman Standardization
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
+- [ ] Withdraw Request di Merchant Role tidak perlu
+- [ ] Create Super Admin → role nya Account Manager dan Super Admin
 
 Stalled Backend
 - [ ] Withdraw Request Bug masihan
 - [ ] Bug Subtract Point
+- [ ] View Sales Person from Role Merchant dibatasi
+- [ ] Product yang ada di License List dari Sales Person hanya yang di scanned by Sales Person aja 
