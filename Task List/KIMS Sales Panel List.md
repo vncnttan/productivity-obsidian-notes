@@ -21,6 +21,9 @@ Meeting Notes:
 - Add new SalesPerson tidak perlu di approve lagi
 - Daftar Negara fetch dari DB
 
+Overtime 
+-- Minggu, 3 jan
+– - Senin, 4 Jan (dari chat mas abi)
 
 TODO Core:
 - [x] AppendableForm Builder
