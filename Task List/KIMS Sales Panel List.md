@@ -101,8 +101,9 @@ Progress (23/07 - 30/07)
 Progress (30/07 - 6/08)
 - [x] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 - [ ] Edit Sales Mutations
-- [ ] Beresin axiosClient.ts pakai helper
+- [ ] Edit Sales Bank Account Mutation
 - [ ] Edit Form disable save button if no field changed yet
+- [ ] Beresin axiosClient.ts pakai helper
 - [ ] Fix Nested Return Undefined
 - [ ] Fix Uncontrolled Select Error (Sales Person Edit)
 - [ ] Quiz UI
