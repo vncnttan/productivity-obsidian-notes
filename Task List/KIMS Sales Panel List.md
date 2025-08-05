@@ -105,6 +105,7 @@ Progress (30/07 - 6/08)
 	- [ ] Minta support mas farrel, buat Idnya optional untuk yang add gabisa soalnya
 	- [ ] Fix Edit Add bank form yang terisi masih belum include yang baru ditambahkan
 - [ ] Beresin axiosClient.ts pakai helper
+- [ ] Refactor Role with Mapping ENUM
 - [ ] Rekap Backend API Endpoint
 - [ ] Quiz UI
 - [ ] Edit Form disable save button if no field changed yet
