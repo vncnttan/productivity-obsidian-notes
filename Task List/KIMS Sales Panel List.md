@@ -108,14 +108,14 @@ Progress (30/07 - 6/08)
 
 Progress (6/08 - 13/08)
 - [x] Refactor Role with Mapping ENUM
+- [x] Fix Nested Return Undefined
 - [ ] Rekap Backend API Endpoint
-- [ ] Quiz UI
-- [ ] Edit Form disable save button if no field changed yet
-- [ ] Fix Uncontrolled Select Error (Sales Person Edit)
-- [ ] Fix Nested Return Undefined
-- [ ] Clear form on dialog close
-- [ ] Verify Withdraw & Type Password Dialog
 - [ ] Disable Button on Submitting
+- [ ] Clear form on dialog close
+- [ ] Edit Form disable save button if no field changed yet
+- [ ] Quiz UI
+- [ ] Verify Withdraw & Type Password Dialog
+- [ ] Fix Uncontrolled Select Error (Sales Person Edit)
 - [ ] Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
@@ -137,3 +137,11 @@ Stalled Backend
 - [ ] Bug Subtract Point
 - [ ] View Sales Person from Role Merchant dibatasi
 - [ ] Product yang ada di License List dari Sales Person hanya yang di scanned by Sales Person aja 
+
+Pending dari yang sebelumnya:
+- Gaada endpoint summary untuk setiap page → yang dimunculkan dalam bentuk card di setiap page
+- API untuk Quiz
+- New API Reset Password self (Profile page)
+- Chart Endpoints
+
+Revisi / bug dari yang sebelumnya:
