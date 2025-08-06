@@ -107,14 +107,14 @@ Progress (30/07 - 6/08)
 - [x] Beresin axiosClient.ts pakai helper
 
 Progress (6/08 - 13/08)
-- [ ] Refactor Role with Mapping ENUM
+- [x] Refactor Role with Mapping ENUM
 - [ ] Rekap Backend API Endpoint
 - [ ] Quiz UI
 - [ ] Edit Form disable save button if no field changed yet
-- [ ] Fix Nested Return Undefined
 - [ ] Fix Uncontrolled Select Error (Sales Person Edit)
-- [ ] Verify Withdraw & Type Password Dialog
+- [ ] Fix Nested Return Undefined
 - [ ] Clear form on dialog close
+- [ ] Verify Withdraw & Type Password Dialog
 - [ ] Disable Button on Submitting
 - [ ] Sort By Server :(
 - [ ] Selectable Table Row
