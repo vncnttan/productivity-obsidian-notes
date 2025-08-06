@@ -102,9 +102,9 @@ Progress (30/07 - 6/08)
 - [x] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 - [x] Edit Sales Mutations
 - [x] Edit Sales Bank Account Mutation
-	- [ ] Minta support mas farrel, buat Idnya optional untuk yang add gabisa soalnya
+	- [x] Minta support mas farrel, buat Idnya optional untuk yang add gabisa soalnya
 	- [ ] Fix Edit Add bank form yang terisi masih belum include yang baru ditambahkan
-- [ ] Beresin axiosClient.ts pakai helper
+- [x] Beresin axiosClient.ts pakai helper
 - [ ] Refactor Role with Mapping ENUM
 - [ ] Rekap Backend API Endpoint
 - [ ] Quiz UI
