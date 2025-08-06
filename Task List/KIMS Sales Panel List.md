@@ -110,7 +110,7 @@ Progress (6/08 - 13/08)
 - [x] Rekap Backend API Endpoint
 - [x] Create Super Admin → role nya Account Manager dan Super Admin
 - [ ] Penyesuaian UI untuk role berbeda
-	- [ ] Withdraw Request di Merchant Role tidak perlu
+	- [x] Withdraw Request di Merchant Role tidak perlu
 	- [ ] Profile Page ngarah ke merchant dan sales person untuk role tersebut
 - [ ] Disable Button on Submitting
 - [ ] Clear form on dialog close
