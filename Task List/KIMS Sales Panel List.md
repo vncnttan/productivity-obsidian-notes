@@ -93,8 +93,6 @@ Progress (16/07 - 23/07)
 
 Progress (23/07 - 30/07)
 - [x] Integrate API Changes
-	- [ ] Change City Dynamic Select based on Country chosen
-	- [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [x] Change Menu Views Based on role
 - [x] Fix Bank Account Missing in Sales Person Detail
 
@@ -109,12 +107,20 @@ Progress (30/07 - 6/08)
 Progress (6/08 - 13/08)
 - [x] Refactor Role with Mapping ENUM
 - [x] Fix Nested Return Undefined
-- [ ] Rekap Backend API Endpoint
+- [x] Rekap Backend API Endpoint
+- [x] Create Super Admin → role nya Account Manager dan Super Admin
+- [ ] Penyesuaian UI untuk role berbeda
+	- [ ] Withdraw Request di Merchant Role tidak perlu
+	- [ ] Profile Page ngarah ke merchant dan sales person untuk role tersebut
 - [ ] Disable Button on Submitting
 - [ ] Clear form on dialog close
 - [ ] Edit Form disable save button if no field changed yet
 - [ ] Quiz UI
+- [ ] Change City Dynamic Select based on Country chosen
+- [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Verify Withdraw & Type Password Dialog
+- [ ] Withdraw Request (From Sales Person View)
+- [ ] Scan Product (From Sales Person View)
 - [ ] Fix Uncontrolled Select Error (Sales Person Edit)
 - [ ] Sort By Server :(
 - [ ] Selectable Table Row
@@ -129,19 +135,4 @@ Progress (6/08 - 13/08)
 - [ ] Man Woman Standardization
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
-- [ ] Withdraw Request di Merchant Role tidak perlu
-- [ ] Create Super Admin → role nya Account Manager dan Super Admin
 
-Stalled Backend
-- [ ] Withdraw Request Bug masihan
-- [ ] Bug Subtract Point
-- [ ] View Sales Person from Role Merchant dibatasi
-- [ ] Product yang ada di License List dari Sales Person hanya yang di scanned by Sales Person aja 
-
-Pending dari yang sebelumnya:
-- Gaada endpoint summary untuk setiap page → yang dimunculkan dalam bentuk card di setiap page
-- API untuk Quiz
-- New API Reset Password self (Profile page)
-- Chart Endpoints
-
-Revisi / bug dari yang sebelumnya:
