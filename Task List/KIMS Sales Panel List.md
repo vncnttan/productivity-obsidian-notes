@@ -102,9 +102,11 @@ Progress (30/07 - 6/08)
 - [x] Edit Sales Add Bank (ini tanya mbak wike sih, kenapa ada di dialog lagi di figmanya?)
 - [x] Edit Sales Mutations
 - [x] Edit Sales Bank Account Mutation
-	- [x] Minta support mas farrel, buat Idnya optional untuk yang add gabisa soalnya
-	- [ ] Fix Edit Add bank form yang terisi masih belum include yang baru ditambahkan
+	- [ ] Minta support mas farrel, buat Idnya optional untuk yang add gabisa soalnya
+	- [x] Fix Edit Add bank form yang terisi masih belum include yang baru ditambahkan
 - [x] Beresin axiosClient.ts pakai helper
+
+Progress (6/08 - 13/08)
 - [ ] Refactor Role with Mapping ENUM
 - [ ] Rekap Backend API Endpoint
 - [ ] Quiz UI
@@ -122,6 +124,7 @@ Progress (30/07 - 6/08)
 - [ ] Rich Text ga muncul pada saat accordion create quiz di close
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
+- [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
 - [ ] Bug fix, something not appearing on system dark theme
 - [ ] Man Woman Standardization
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
