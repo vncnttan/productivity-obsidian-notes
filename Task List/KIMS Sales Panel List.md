@@ -125,7 +125,7 @@ Progress (6/08 - 13/08)
 - [ ] Withdraw Request (From Sales Person View)
 - [ ] Scan Product (From Sales Person View)
 - [ ] Fix Uncontrolled Select Error (Sales Person Edit)
-- [ ] Sort By Server :(
+- [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
 - [ ] Rich Text di table view
