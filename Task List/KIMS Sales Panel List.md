@@ -111,7 +111,10 @@ Progress (6/08 - 13/08)
 - [x] Create Super Admin → role nya Account Manager dan Super Admin
 - [ ] Penyesuaian UI untuk role berbeda
 	- [x] Withdraw Request di Merchant Role tidak perlu
-	- [ ] Profile Page ngarah ke merchant dan sales person untuk role tersebut
+	- [x] Profile Page ngarah ke merchant dan sales person untuk role tersebut
+		- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
+	- [ ] Takeout Create Button di beberapa page tergantung role
+	- [ ] Action View 
 - [ ] Disable Button on Submitting
 - [ ] Clear form on dialog close
 - [ ] Edit Form disable save button if no field changed yet
