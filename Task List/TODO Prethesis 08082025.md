@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/ymzfplpc#ziknWaKLS5D/ouwX4EL0X5kPL4xCmfybg+0LlIW0E84
+share_updated: 2025-08-08T09:59:13+07:00
+---
 - Siapin dataset yang kecilnya ✅
 
 - CircularEval VLMEvalKit - vncnt
