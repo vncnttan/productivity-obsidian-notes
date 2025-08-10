@@ -113,7 +113,7 @@ Progress (6/08 - 13/08)
 	- [x] Withdraw Request di Merchant Role tidak perlu
 	- [x] Profile Page ngarah ke merchant dan sales person untuk role tersebut
 		- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
-	- [ ] Takeout Create Button di beberapa page tergantung role
+	- [x] Takeout Create Button di beberapa page tergantung role
 	- [ ] Action View di table
 	- [ ] Custom QNA dan Tutorial View for Merchants
 - [ ] Disable Button on Submitting
@@ -128,6 +128,8 @@ Progress (6/08 - 13/08)
 - [ ] Fix Uncontrolled Select Error (Sales Person Edit)
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
+- [ ] Responsive
+- [ ] Sales Person Scan
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
 - [ ] Rich Text di table view
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
