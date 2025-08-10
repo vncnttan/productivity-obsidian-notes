@@ -117,8 +117,8 @@ Progress (6/08 - 13/08)
 	- [x] Action View di table
 	- [ ] Custom QNA dan Tutorial View for Merchants
 	- [x] Consider should we change to all just be isSuperAdmin lmao
-- [ ] Disable Button on Submitting
-- [ ] Clear form on dialog close
+- [x] Disable Button on Submitting
+- [x] Clear form on dialog close
 - [ ] Edit Form disable save button if no field changed yet
 - [ ] Quiz UI
 - [ ] Change City Dynamic Select based on Country chosen
