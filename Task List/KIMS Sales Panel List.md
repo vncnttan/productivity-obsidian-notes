@@ -114,7 +114,8 @@ Progress (6/08 - 13/08)
 	- [x] Profile Page ngarah ke merchant dan sales person untuk role tersebut
 		- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
 	- [ ] Takeout Create Button di beberapa page tergantung role
-	- [ ] Action View 
+	- [ ] Action View di table
+	- [ ] Custom QNA dan Tutorial View for Merchants
 - [ ] Disable Button on Submitting
 - [ ] Clear form on dialog close
 - [ ] Edit Form disable save button if no field changed yet
