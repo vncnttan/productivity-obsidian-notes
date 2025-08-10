@@ -119,8 +119,8 @@ Progress (6/08 - 13/08)
 	- [x] Consider should we change to all just be isSuperAdmin lmao
 - [x] Disable Button on Submitting
 - [x] Clear form on dialog close
-- [ ] Edit Form disable save button if no field changed yet
 - [ ] Quiz UI
+- [ ] Edit Form disable save button if no field changed yet
 - [ ] Change City Dynamic Select based on Country chosen
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Verify Withdraw & Type Password Dialog
