@@ -109,13 +109,11 @@ Progress (6/08 - 13/08)
 - [x] Fix Nested Return Undefined
 - [x] Rekap Backend API Endpoint
 - [x] Create Super Admin → role nya Account Manager dan Super Admin
-- [ ] Penyesuaian UI untuk role berbeda
+- [x] Penyesuaian UI untuk role berbeda
 	- [x] Withdraw Request di Merchant Role tidak perlu
 	- [x] Profile Page ngarah ke merchant dan sales person untuk role tersebut
-		- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
 	- [x] Takeout Create Button di beberapa page tergantung role
 	- [x] Action View di table
-	- [ ] Custom QNA dan Tutorial View for Merchants
 	- [x] Consider should we change to all just be isSuperAdmin lmao
 - [x] Disable Button on Submitting
 - [x] Clear form on dialog close
@@ -123,14 +121,19 @@ Progress (6/08 - 13/08)
 	- [x] Quiz Layout
 	- [x] Base Quiz UI
 	- [ ] Refactor Componentize Quiz to have one route only
-		- [ ] Tanya mas haikal, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
-	- [ ] Result UI
-	- [ ] Answer Mechanism
+		- [ ] Tanya mas haikal / mbak wike, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
+	- [x] Result UI
+- [ ] Change City Dynamic Select based on Country chosen
+- [ ] Edit Form disable save button if no field changed yet
+
+
+- [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism
-- [ ] Edit Form disable save button if no field changed yet
-- [ ] Change City Dynamic Select based on Country chosen
-
+	- [ ] Answer Mechanism
+- [ ] Penyesuaian UI untuk role berbeda
+	- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
+	- [ ] Custom QNA dan Tutorial View for Merchants
 
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Verify Withdraw & Type Password Dialog
