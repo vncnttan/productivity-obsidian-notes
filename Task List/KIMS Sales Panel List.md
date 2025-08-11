@@ -122,8 +122,8 @@ Progress (6/08 - 13/08)
 - [x] Quiz UI
 	- [x] Quiz Layout
 	- [x] Base Quiz UI
-	- [ ] Result UI
 	- [ ] Refactor Componentize Quiz
+	- [ ] Result UI
 	- [ ] Answer Mechanism
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism
