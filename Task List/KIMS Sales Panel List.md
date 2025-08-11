@@ -122,7 +122,8 @@ Progress (6/08 - 13/08)
 - [x] Quiz UI
 	- [x] Quiz Layout
 	- [x] Base Quiz UI
-	- [ ] Refactor Componentize Quiz
+	- [ ] Refactor Componentize Quiz to have one route only
+		- [ ] Tanya mas haikal, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
 	- [ ] Result UI
 	- [ ] Answer Mechanism
 	- [ ] Timer Mechanism
