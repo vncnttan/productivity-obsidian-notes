@@ -122,9 +122,14 @@ Progress (6/08 - 13/08)
 	- [x] Base Quiz UI
 	- [ ] Refactor Componentize Quiz to have one route only
 		- [ ] Tanya mas haikal / mbak wike, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
+	- [ ] Custom QNA dan Tutorial View for Merchants
 	- [x] Result UI
 - [x] Change City Dynamic Select based on Country chosen
-- [ ] Edit Form disable save button if no field changed yet
+- [x] Edit Form disable save button if no field changed yet
+- [ ] Fix: 
+- [ ] Register 
+	- [ ] Minta mas Farrel untuk lepas authentication untuk Search merchant & bank karena kepake di Register Page (dimana user state authenticated)
+
 
 
 - [ ] Quiz
@@ -133,9 +138,7 @@ Progress (6/08 - 13/08)
 	- [ ] Answer Mechanism
 - [ ] Penyesuaian UI untuk role berbeda
 	- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
-	- [ ] Custom QNA dan Tutorial View for Merchants
 
-- [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Verify Withdraw & Type Password Dialog
 - [ ] Withdraw Request (From Sales Person View)
 - [ ] Scan Product (From Sales Person View)
@@ -144,6 +147,7 @@ Progress (6/08 - 13/08)
 - [ ] Selectable Table Row
 - [ ] Responsive
 - [ ] Sales Person Scan
+- [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
 - [ ] Rich Text di table view
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
