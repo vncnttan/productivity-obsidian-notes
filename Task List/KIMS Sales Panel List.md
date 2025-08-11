@@ -129,7 +129,7 @@ Progress (6/08 - 13/08)
 
 - [ ] Quiz
 	- [ ] Timer Mechanism
-	- [ ] Result Mechanism
+	- [ ] Result Mechanism   
 	- [ ] Answer Mechanism
 - [ ] Penyesuaian UI untuk role berbeda
 	- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
