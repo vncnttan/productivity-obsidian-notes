@@ -123,12 +123,15 @@ Progress (6/08 - 13/08)
 	- [ ] Refactor Componentize Quiz to have one route only
 		- [ ] Tanya mas haikal / mbak wike, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
 	- [ ] Custom QNA dan Tutorial View for Merchants
+		- [ ] Tanya mas haikal / mbak wike, Berarti ini QnA dan Tutorialnya langsung Fetch All?
+		- [ ] Minta support mas farrel untuk ini
 	- [x] Result UI
 - [x] Change City Dynamic Select based on Country chosen
 - [x] Edit Form disable save button if no field changed yet
 - [x] Fix: Rich Text on table column def
 - [ ] Register 
 	- [ ] Minta mas Farrel untuk lepas authentication untuk Search merchant & bank karena kepake di Register Page (dimana user state authenticated)
+- [ ] Fix Uncontrolled Select Error (Sales Person Edit)
 
 
 
@@ -141,12 +144,10 @@ Progress (6/08 - 13/08)
 
 - [ ] Verify Withdraw & Type Password Dialog
 - [ ] Withdraw Request (From Sales Person View)
+- [ ] Responsive
 - [ ] Scan Product (From Sales Person View)
-- [ ] Fix Uncontrolled Select Error (Sales Person Edit)
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
-- [ ] Responsive
-- [ ] Sales Person Scan
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
 - [ ] Rich Text di table view
