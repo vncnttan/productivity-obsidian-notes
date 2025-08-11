@@ -123,7 +123,7 @@ Progress (6/08 - 13/08)
 	- [ ] Refactor Componentize Quiz to have one route only
 		- [ ] Tanya mas haikal / mbak wike, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
 	- [x] Result UI
-- [ ] Change City Dynamic Select based on Country chosen
+- [x] Change City Dynamic Select based on Country chosen
 - [ ] Edit Form disable save button if no field changed yet
 
 
