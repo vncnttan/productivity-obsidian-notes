@@ -126,7 +126,7 @@ Progress (6/08 - 13/08)
 	- [x] Result UI
 - [x] Change City Dynamic Select based on Country chosen
 - [x] Edit Form disable save button if no field changed yet
-- [ ] Fix: 
+- [x] Fix: Rich Text on table column def
 - [ ] Register 
 	- [ ] Minta mas Farrel untuk lepas authentication untuk Search merchant & bank karena kepake di Register Page (dimana user state authenticated)
 
