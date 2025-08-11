@@ -119,9 +119,18 @@ Progress (6/08 - 13/08)
 	- [x] Consider should we change to all just be isSuperAdmin lmao
 - [x] Disable Button on Submitting
 - [x] Clear form on dialog close
-- [ ] Quiz UI
+- [x] Quiz UI
+	- [x] Quiz Layout
+	- [x] Base Quiz UI
+	- [ ] Result UI
+	- [ ] Refactor Componentize Quiz
+	- [ ] Answer Mechanism
+	- [ ] Timer Mechanism
+	- [ ] Result Mechanism
 - [ ] Edit Form disable save button if no field changed yet
 - [ ] Change City Dynamic Select based on Country chosen
+
+
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Verify Withdraw & Type Password Dialog
 - [ ] Withdraw Request (From Sales Person View)
