@@ -131,7 +131,7 @@ Progress (6/08 - 13/08)
 - [x] Fix: Rich Text on table column def
 - [ ] Register 
 	- [ ] Minta mas Farrel untuk lepas authentication untuk Search merchant & bank karena kepake di Register Page (dimana user state authenticated)
-- [ ] Fix Uncontrolled Select Error (Sales Person Edit)
+- [x] Fix Uncontrolled Select Error (Sales Person Edit)
 
 
 
