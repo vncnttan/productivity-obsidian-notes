@@ -123,6 +123,7 @@ Progress (6/08 - 13/08)
 	- [ ] Refactor Componentize Quiz to have one route only
 		- [ ] Tanya mas haikal / mbak wike, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
 	- [ ] Custom QNA dan Tutorial View for Merchants
+		- [x] Basic UI
 		- [ ] Tanya mas haikal / mbak wike, Berarti ini QnA dan Tutorialnya langsung Fetch All?
 		- [ ] Minta support mas farrel untuk ini
 	- [x] Result UI
