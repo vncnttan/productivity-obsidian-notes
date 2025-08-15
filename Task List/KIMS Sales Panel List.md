@@ -136,6 +136,11 @@ Progress (6/08 - 13/08)
 
 
 
+
+Progress (14/08 - 21/08)
+- [ ] Responsive
+- [ ] Scan Product (From Sales Person View)
+- [ ] Withdraw Request (From Sales Person View)
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
@@ -144,9 +149,6 @@ Progress (6/08 - 13/08)
 	- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
 
 - [ ] Verify Withdraw & Type Password Dialog
-- [ ] Withdraw Request (From Sales Person View)
-- [ ] Responsive
-- [ ] Scan Product (From Sales Person View)
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
