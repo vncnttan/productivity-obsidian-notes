@@ -139,6 +139,7 @@ Progress (6/08 - 13/08)
 
 Progress (14/08 - 21/08)
 - [ ] Responsive
+	- [x] Sales Person View
 - [ ] Scan Product (From Sales Person View)
 - [ ] Withdraw Request (From Sales Person View)
 - [ ] Quiz
