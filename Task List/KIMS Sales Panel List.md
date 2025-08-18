@@ -135,8 +135,6 @@ Progress (6/08 - 13/08)
 - [x] Fix Uncontrolled Select Error (Sales Person Edit)
 
 
-
-
 Progress (14/08 - 21/08)
 - [x] Responsive
 	- [x] Sales Person View
@@ -144,10 +142,13 @@ Progress (14/08 - 21/08)
 - [x] Scan Product (From Sales Person View)
 - [x] Camera & QR code reader
 - [x] Sales Transaction table & dialog
+- [x] Penyesuaian UI untuk role berbeda
+	- [x] Tunggu dari BE get_current_user return id dari merchant dan sales person
 	- [ ] City
 - [ ] Withdraw Request (From Sales Person View)
-- [ ] Penyesuaian UI untuk role berbeda
-	- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
+	- [ ] Create
+	- [ ] Detail
+	- [ ] List (Table)
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog
 - [ ] Quiz
