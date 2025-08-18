@@ -138,15 +138,18 @@ Progress (6/08 - 13/08)
 
 
 Progress (14/08 - 21/08)
-- [ ] Responsive
+- [x] Responsive
 	- [x] Sales Person View
 - [x] Derived Field 
-- [ ] Scan Product (From Sales Person View)
-- [ ] Camera & QR code reader
+- [x] Scan Product (From Sales Person View)
+- [x] Camera & QR code reader
+- [x] Sales Transaction table & dialog
+	- [ ] City
 - [ ] Withdraw Request (From Sales Person View)
 - [ ] Penyesuaian UI untuk role berbeda
 	- [ ] Tunggu dari BE get_current_user return id dari merchant dan sales person
-- [ ] Verify Withdraw & Type Password Dialog
+- [ ] Reject & Approve Withdraw (From Admin View)
+	- [ ] Verify Withdraw & Type Password Dialog
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
