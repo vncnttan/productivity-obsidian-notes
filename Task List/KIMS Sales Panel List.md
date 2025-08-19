@@ -145,15 +145,16 @@ Progress (14/08 - 21/08)
 - [x] Penyesuaian UI untuk role berbeda
 	- [x] Tunggu dari BE get_current_user return id dari merchant dan sales person
 	- [ ] City
+- [ ] Responsive
+	- [ ] All Page
+
+
 - [ ] Withdraw Request (From Sales Person View)
 	- [ ] Create
 	- [ ] Detail
 	- [ ] List (Table)
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog
-
-- [ ] Responsive
-	- [ ] All Page
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
