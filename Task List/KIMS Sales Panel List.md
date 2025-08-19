@@ -168,6 +168,7 @@ Progress (14/08 - 21/08)
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
 - [ ] Rich Text ga muncul pada saat accordion create quiz di close
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
+- [ ] Rich Text ngebug on mobile view
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
 - [ ] Bug fix, something not appearing on system dark theme
