@@ -145,11 +145,11 @@ Progress (14/08 - 21/08)
 - [x] Penyesuaian UI untuk role berbeda
 	- [x] Tunggu dari BE get_current_user return id dari merchant dan sales person
 	- [ ] City
-- [ ] Responsive
-	- [ ] All Page
+- [x] Responsive
+	- [x] All Page
 
 
-- [ ] Withdraw Request (From Sales Person View)
+- [ ] Withdraw Request (From Sales Person View) → Uncomplete Backend
 	- [ ] Create
 	- [ ] Detail
 	- [ ] List (Table)
