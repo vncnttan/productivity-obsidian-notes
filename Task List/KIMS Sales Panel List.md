@@ -152,6 +152,8 @@ Progress (14/08 - 21/08)
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog
 
+- [ ] Responsive
+	- [ ] All Page
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
