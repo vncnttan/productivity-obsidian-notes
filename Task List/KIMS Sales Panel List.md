@@ -160,7 +160,10 @@ Progress (14/08 - 21/08)
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
 
+- [ ] Modal QR Code Scanner
+	- [ ] + Ga perlu jepret, kayak QRIS
 - [ ] Total City count
+- [ ] Ubah Dynamic Select to Search in Scan Product License
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
