@@ -160,6 +160,7 @@ Progress (14/08 - 21/08)
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
 
+- [ ] Total City count
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
