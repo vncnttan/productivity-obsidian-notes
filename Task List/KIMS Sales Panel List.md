@@ -150,11 +150,9 @@ Progress (14/08 - 21/08)
 
 Progress (22/08 - 27/08)
 - [ ] Withdraw Request (From Sales Person View) → Uncomplete Backend
-	- [ ] Create
+	- [x] Create
 	- [ ] Detail
 	- [ ] List (Table)
-- [ ] Reject & Approve Withdraw (From Admin View)
-	- [ ] Verify Withdraw & Type Password Dialog
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
@@ -163,6 +161,8 @@ Progress (22/08 - 27/08)
 - [ ] Modal QR Code Scanner
 	- [ ] + Ga perlu jepret, kayak QRIS
 - [ ] Total City count
+- [ ] Reject & Approve Withdraw (From Admin View)
+	- [ ] Verify Withdraw & Type Password Dialog
 - [ ] Ubah Dynamic Select to Search in Scan Product License
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
