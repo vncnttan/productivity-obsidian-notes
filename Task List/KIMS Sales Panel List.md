@@ -148,7 +148,7 @@ Progress (14/08 - 21/08)
 - [x] Responsive
 	- [x] All Page
 
-
+Progress (22/08 - 27/08)
 - [ ] Withdraw Request (From Sales Person View) → Uncomplete Backend
 	- [ ] Create
 	- [ ] Detail
@@ -180,3 +180,6 @@ Progress (14/08 - 21/08)
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
 
+- [ ] Clean D:
+- [ ] Upload Laporan
+- [ ] Final Report
