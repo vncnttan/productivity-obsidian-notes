@@ -151,8 +151,8 @@ Progress (14/08 - 21/08)
 Progress (22/08 - 27/08)
 - [ ] Withdraw Request (From Sales Person View) → Uncomplete Backend
 	- [x] Create
-	- [ ] Detail
 	- [ ] List (Table)
+	- [ ] Detail
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
