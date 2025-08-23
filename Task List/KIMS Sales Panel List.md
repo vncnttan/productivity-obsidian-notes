@@ -153,6 +153,8 @@ Progress (22/08 - 27/08)
 	- [x] Create
 	- [x] List (Table)
 - [ ] Fix Delete Sales Person
+	- [ ] Wait for Backend Support
+- [ ] Ubah Dynamic Select to Search in Scan Product License
 - [ ] Modal QR Code Scanner
 	- [ ] + Ga perlu jepret, kayak QRIS
 - [ ] Quiz
@@ -164,7 +166,7 @@ Progress (22/08 - 27/08)
 - [ ] Login Override Clear form
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog
-- [ ] Ubah Dynamic Select to Search in Scan Product License
+
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
