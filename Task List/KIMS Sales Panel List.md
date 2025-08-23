@@ -144,7 +144,7 @@ Progress (14/08 - 21/08)
 - [x] Sales Transaction table & dialog
 - [x] Penyesuaian UI untuk role berbeda
 	- [x] Tunggu dari BE get_current_user return id dari merchant dan sales person
-	- [ ] City
+	- [x] City
 - [x] Responsive
 	- [x] All Page
 
@@ -159,7 +159,7 @@ Progress (22/08 - 27/08)
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
-
+- [ ] Fix Delete Sales Person
 - [ ] Modal QR Code Scanner
 	- [ ] + Ga perlu jepret, kayak QRIS
 - [ ] Total City count
