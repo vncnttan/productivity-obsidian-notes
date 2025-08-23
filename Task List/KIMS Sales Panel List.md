@@ -149,18 +149,19 @@ Progress (14/08 - 21/08)
 	- [x] All Page
 
 Progress (22/08 - 27/08)
-- [ ] Withdraw Request (From Sales Person View) → Uncomplete Backend
+- [x] Withdraw Request (From Sales Person View) → Uncomplete Backend
 	- [x] Create
-	- [ ] List (Table)
-	- [ ] Detail
+	- [x] List (Table)
+- [ ] Fix Delete Sales Person
+- [ ] Modal QR Code Scanner
+	- [ ] + Ga perlu jepret, kayak QRIS
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
-- [ ] Fix Delete Sales Person
-- [ ] Modal QR Code Scanner
-	- [ ] + Ga perlu jepret, kayak QRIS
 - [ ] Total City count
+- [ ] QnA tutorial Page
+- [ ] Login Override Clear form
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog
 - [ ] Ubah Dynamic Select to Search in Scan Product License
