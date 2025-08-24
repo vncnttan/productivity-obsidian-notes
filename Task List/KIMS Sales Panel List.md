@@ -155,7 +155,7 @@ Progress (22/08 - 27/08)
 - [x] Modal QR Code Scanner
 	- [x] + Ga perlu jepret, kayak QRIS
 - [ ] Ubah Dynamic Select to Search in Scan Product License
-	- [ ] Wait backend support
+	- [ ] Wait backend support   
 - [ ] Total City count
 - [ ] QnA tutorial Page
 - [ ] Quiz
