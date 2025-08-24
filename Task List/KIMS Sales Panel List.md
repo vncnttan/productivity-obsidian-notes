@@ -152,9 +152,10 @@ Progress (22/08 - 27/08)
 - [x] Withdraw Request (From Sales Person View) → Uncomplete Backend
 	- [x] Create
 	- [x] List (Table)
+- [x] Modal QR Code Scanner
+	- [x] + Ga perlu jepret, kayak QRIS
 - [ ] Ubah Dynamic Select to Search in Scan Product License
-- [ ] Modal QR Code Scanner
-	- [ ] + Ga perlu jepret, kayak QRIS
+	- [ ] Wait backend support
 - [ ] Total City count
 - [ ] QnA tutorial Page
 - [ ] Quiz
