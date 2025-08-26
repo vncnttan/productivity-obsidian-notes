@@ -166,6 +166,7 @@ Progress (22/08 - 27/08)
 	- [ ] Answer Mechanism
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog ?
+- [ ] Man Woman Standardization
 
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
@@ -179,7 +180,6 @@ Progress (22/08 - 27/08)
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
 - [ ] Bug fix, something not appearing on system dark theme
-- [ ] Man Woman Standardization
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
 
