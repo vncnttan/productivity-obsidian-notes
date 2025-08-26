@@ -154,19 +154,18 @@ Progress (22/08 - 27/08)
 	- [x] List (Table)
 - [x] Modal QR Code Scanner
 	- [x] + Ga perlu jepret, kayak QRIS
-- [ ] Ubah Dynamic Select to Search in Scan Product License
-	- [ ] Wait backend support   
-- [ ] Total City count
+- [x] Ubah Dynamic Select to Search in Scan Product License
+- [x] Total City count
+- [x] Fix Delete Sales Person
+- [x] Login Override Clear form
+- [x] Summary
 - [ ] QnA tutorial Page
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
-- [ ] Fix Delete Sales Person
-	- [ ] Wait for Backend Support
-- [ ] Login Override Clear form
 - [ ] Reject & Approve Withdraw (From Admin View)
-	- [ ] Verify Withdraw & Type Password Dialog
+	- [ ] Verify Withdraw & Type Password Dialog ?
 
 - [ ] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
