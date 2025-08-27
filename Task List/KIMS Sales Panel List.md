@@ -168,7 +168,7 @@ Progress (22/08 - 27/08)
 	- [ ] Verify Withdraw & Type Password Dialog ?
 - [ ] Man Woman Standardization
 
-- [ ] Belum bisa Sort By Server :(
+- [x] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
