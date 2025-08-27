@@ -120,18 +120,18 @@ Progress (6/08 - 13/08)
 - [x] Quiz UI
 	- [x] Quiz Layout
 	- [x] Base Quiz UI
-	- [ ] Refactor Componentize Quiz to have one route only
-		- [ ] Tanya mas haikal / mbak wike, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
-	- [ ] Custom QNA dan Tutorial View for Merchants
+	- [x] Refactor Componentize Quiz to have one route only
+		- [x] Tanya mas haikal / mbak wike, ini berarti saat quiznya berjalan dia akan berjalan terus ya? (with zustand) 
+	- [x] Custom QNA dan Tutorial View for Merchants
 		- [x] Basic UI
-		- [ ] Tanya mas haikal / mbak wike, Berarti ini QnA dan Tutorialnya langsung Fetch All?
-		- [ ] Minta support mas farrel untuk ini
+		- [x] Tanya mas haikal / mbak wike, Berarti ini QnA dan Tutorialnya langsung Fetch All?
+		- [x] Minta support mas farrel untuk ini
 	- [x] Result UI
 - [x] Change City Dynamic Select based on Country chosen
 - [x] Edit Form disable save button if no field changed yet
 - [x] Fix: Rich Text on table column def
-- [ ] Register 
-	- [ ] Minta mas Farrel untuk lepas authentication untuk Search merchant & bank karena kepake di Register Page (dimana user state authenticated)
+- [x] Register 
+	- [x] Minta mas Farrel untuk lepas authentication untuk Search merchant & bank karena kepake di Register Page (dimana user state authenticated)
 - [x] Fix Uncontrolled Select Error (Sales Person Edit)
 
 
@@ -166,7 +166,22 @@ Progress (22/08 - 27/08)
 	- [ ] Answer Mechanism
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog ?
-- [ ] Man Woman Standardization
+- [x] Man Woman Standardization
+- [ ] Sales person type di hide ya di tablenya
+- [ ] 
+
+Sales Person Type
+- 1: Silver 
+- 2: Gold
+
+Bank: 
+0 Unpaid  1 Paid 2 Reject
+0 Pending 1 Approved 2 Unapproved 
+
+- male female 
+
+
+
 
 - [x] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
