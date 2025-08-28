@@ -159,6 +159,8 @@ Progress (22/08 - 27/08)
 - [x] Fix Delete Sales Person
 - [x] Login Override Clear form
 - [x] Summary
+- [ ] Forgot Password
+- [ ] 
 - [ ] QnA tutorial Page
 - [ ] Quiz
 	- [ ] Timer Mechanism
