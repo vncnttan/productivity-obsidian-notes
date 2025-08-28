@@ -201,3 +201,4 @@ Bank:
 - [ ] Clean D:
 - [ ] Upload Laporan
 - [ ] Final Report
+- [ ] Service Headset sebelum garansi abis <20 Okt
