@@ -159,15 +159,21 @@ Progress (22/08 - 27/08)
 - [x] Fix Delete Sales Person
 - [x] Login Override Clear form
 - [x] Summary
+
+
+
+Progress (28/08 - 31/08)
 - [ ] Forgot Password
-- [ ] QnA tutorial Page
+- [x] Man Woman Standardization
+- [x] QnA tutorial Page
+- [x] Rich Text di table view
+- [ ] 
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog ?
-- [x] Man Woman Standardization
 - [ ] Sales person type di hide ya di tablenya
 
 
@@ -192,7 +198,6 @@ Bank:
 - [ ] Selectable Table Row
 - [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
 - [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
-- [ ] Rich Text di table view
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
 - [ ] Rich Text ga muncul pada saat accordion create quiz di close
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
