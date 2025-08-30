@@ -163,11 +163,10 @@ Progress (22/08 - 27/08)
 
 
 Progress (28/08 - 31/08)
-- [ ] Forgot Password
 - [x] Man Woman Standardization
 - [x] QnA tutorial Page
 - [x] Rich Text di table view
-- [ ] 
+- [ ] Forgot Password
 - [ ] Quiz
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
@@ -175,11 +174,6 @@ Progress (28/08 - 31/08)
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog ?
 - [ ] Sales person type di hide ya di tablenya
-
-
-
-
-
 
 Sales Person Type
 - 1: Silver 

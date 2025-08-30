@@ -1,0 +1,15 @@
+Progress (28/08 - 31/08)
+- [x] Man Woman Standardization
+- [x] Sales person type di hide ya di tablenya
+- [ ] Adjust Bank / Merchandise Withdraw Types
+- [x] QnA tutorial Page
+- [x] Rich Text di table view
+- [ ] Import Export
+- [ ] Forgot Password
+- [ ] Register
+- [ ] Quiz
+	- [ ] Timer Mechanism
+	- [ ] Result Mechanism     
+	- [ ] Answer Mechanism
+- [ ] Reject & Approve Withdraw (From Admin View)
+	- [ ] Verify Withdraw & Type Password Dialog
