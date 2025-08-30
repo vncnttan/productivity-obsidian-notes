@@ -160,7 +160,6 @@ Progress (22/08 - 27/08)
 - [x] Login Override Clear form
 - [x] Summary
 - [ ] Forgot Password
-- [ ] 
 - [ ] QnA tutorial Page
 - [ ] Quiz
 	- [ ] Timer Mechanism
@@ -170,7 +169,11 @@ Progress (22/08 - 27/08)
 	- [ ] Verify Withdraw & Type Password Dialog ?
 - [x] Man Woman Standardization
 - [ ] Sales person type di hide ya di tablenya
-- [ ] 
+
+
+
+
+
 
 Sales Person Type
 - 1: Silver 
