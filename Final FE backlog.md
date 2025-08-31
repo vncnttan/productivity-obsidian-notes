@@ -10,7 +10,7 @@ Progress (28/08 - 31/08)
 - [x] Rich Text di table view
 - [x] Dashboard (Withdraw Section)
 - [ ] Quiz
-	- [ ] New UI for Create Edit and Detail Page
+	- [x] New UI for Create Edit and Detail Page
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
@@ -25,3 +25,9 @@ Minor:
 - [ ] Chart (define API Support and Safari Library)
 - [ ] Quiz change status → Active / Inactive (need Backend Support)
 - [ ] Training Video & PDF change status
+
+
+Blocker:
+- [ ] /quiz/1 (GET Quiz Detail)
+	- [ ] Fetch Correct Answer for admin view
+- [ ] 
