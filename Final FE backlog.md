@@ -71,8 +71,8 @@ Blocker Backend:
 ###### Minor Backend Feature
 - [ ] Login Endpoint (POST /api/login)
 	- [ ] Remember me: true/false 
+- [ ] New API Fetch Merchandise Option No Pagination (GET /api/merchandise?all=)
 - [ ] Remove the url from the response of /api/send-forgot-password (for security purpose)
-- [ ] 
 ###### Minor Backend Bug
 - [ ] Get Self Detail (/api/user):
 	- [ ] Return Merchant Id if the user is a merchant
