@@ -24,7 +24,7 @@ Progress (28/08 - 31/08)
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
 - [ ] Register
-	- [ ] Register Page
+	- [x] Register Page
 	- [ ] Resend Email Page
 - [ ] Import Export
 - [ ] Forgot Password
