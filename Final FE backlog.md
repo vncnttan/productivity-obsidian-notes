@@ -71,9 +71,11 @@ Blocker Backend:
 ###### Minor Backend Feature
 - [ ] Login Endpoint (POST /api/login)
 	- [ ] Remember me: true/false 
-- [ ] Remove the url from the response of /api/send-forgot-password
+- [ ] Remove the url from the response of /api/send-forgot-password (for security purpose)
 - [ ] 
 ###### Minor Backend Bug
+- [ ] Get Self Detail (/api/user):
+	- [ ] Return Merchant Id if the user is a merchant
 - [ ] Bug when deleting sales person (/api/sales-person/delete/3): 
 	- [ ] Sales Person yang di delete malah sales person yang lain (tidak jelas menggunakan id yang mana)
 	- [ ] Banyak module yang jadi bug ketika sales person yang berhubungan di delete 
