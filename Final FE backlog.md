@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/o2c86gtl#VqkgwYATpD/Jvp8lAKUNH03kXnhiH8ILwsXABZ1wJNM
-share_updated: 2025-09-01T21:03:34+07:00
+share_updated: 2025-09-02T00:01:10+07:00
 ---
 Progress (28/08 - 31/08)
 - [x] Man Woman Standardization
@@ -28,12 +28,12 @@ Progress (28/08 - 31/08)
 	- [x] Resend Email Page
 		- [x] UI
 		- [ ] Wiring (need backend support)
-- [ ] Import Export
+- [ ] Import Export (need backend support)
 - [ ] Forgot Password
 	- [x] UI
 	- [ ] Wiring (need backend support)
 - [ ] Reset Password (Unauthenticated)
-	- [ ] UI
+	- [x] UI
 	- [ ] Wiring (need backend support)
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog
@@ -41,6 +41,7 @@ Progress (28/08 - 31/08)
 
 Blocker Backend:
 - [ ] Resend Email API (New API)
+- [ ] Import Export API Internal Server Error 
 - [ ] Send Email doesn’t work
 	- [ ] Register
 	- [ ] Send Forgot Password
