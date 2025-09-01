@@ -41,8 +41,9 @@ Progress (28/08 - 31/08)
 
 Blocker Backend:
 - [ ] Resend Email API (New API)
-- [ ] Import Export API Internal Server Error 
-- [ ] Send Email doesn’t work
+- [ ] Import Export API Internal Server Error (Facades Excel not found)
+- [ ] Login Error for Sales Person (User not verified error, even though the sales already approved by superadmin)
+- [ ] Send Email doesn’t work → Waiting for mailgun smtp
 	- [ ] Register
 	- [ ] Send Forgot Password
 - [ ] Send Forgot Password
@@ -50,7 +51,7 @@ Blocker Backend:
 - [ ] Forgot Password (/api/forgot-password)
 	- [ ] Remove email from the body request (tidak didapatkan) → Workaround minta user masukkan emailnya manual
 - [ ] Quiz
-	- [ ] Quiz List(GET /quiz)
+	- [ ] Quiz List (GET /quiz)
 		- [ ] For Admin: fetch the status of the quiz (active / inactive)
 		- [ ] For Sales Person: fetch the status of the quiz (not yet / done / completed)
 	- [ ] Edit Question Streamlining (Need changes overall for the request API backend flow)
