@@ -43,3 +43,8 @@ Blocker:
 	- [ ] Fetch Correct Answer for admin view
 - [ ] /quiz/1/2 (DELETE Quiz Question)
 	- [ ] New API for deleting specific question from quiz
+
+Minor Bug:
+- [ ] Bug Delete Sales Person: 
+	- [ ] Sales Person yang di delete malah sales person yang lain (tidak jelas menggunakan id yang mana)
+	- [ ] Banyak module yang jadi bug ketika sales person yang berhubungan di delete 
