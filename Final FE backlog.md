@@ -25,26 +25,33 @@ Progress (28/08 - 31/08)
 	- [ ] Answer Mechanism
 - [ ] Register
 	- [x] Register Page
-	- [ ] Resend Email Page
+	- [x] Resend Email Page
+		- [x] UI
+		- [ ] Wiring (need backend support)
 - [ ] Import Export
 - [ ] Forgot Password
+	- [x] UI
+	- [ ] Wiring (need backend support)
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog
 
 
-Minor:
-- [ ] Chart (define API Support and Safari Library)
-- [ ] Quiz change status → Active / Inactive (need Backend Support)
-- [ ] Training Video & PDF change status
-
-
-Blocker:
+Blocker Backend:
+- [ ] 
+- [ ] Edit Question (Need changes overall for the request API backend flow)
+- [ ] Resend Email API
 - [ ] /quiz/1 (GET Quiz Detail)
 	- [ ] Fetch Correct Answer for admin view
 - [ ] /quiz/1/2 (DELETE Quiz Question)
 	- [ ] New API for deleting specific question from quiz
 
-Minor Bug:
+
+Minor UI Feature:
+- [ ] Chart (define API Support and Safari Library)
+- [ ] Quiz change status → Active / Inactive (need Backend Support)
+- [ ] Training Video & PDF change status
+
+Minor Backend Bug:
 - [ ] Bug Delete Sales Person: 
 	- [ ] Sales Person yang di delete malah sales person yang lain (tidak jelas menggunakan id yang mana)
 	- [ ] Banyak module yang jadi bug ketika sales person yang berhubungan di delete 
