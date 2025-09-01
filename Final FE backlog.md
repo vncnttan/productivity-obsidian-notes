@@ -37,6 +37,7 @@ Progress (28/08 - 31/08)
 	- [ ] Wiring (need backend support)
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog
+- [x] Change Password in Profile Page
 
 
 Blocker Backend:
@@ -71,6 +72,8 @@ Blocker Backend:
 ###### Minor Backend Feature
 - [ ] Login Endpoint (POST /api/login)
 	- [ ] Remember me: true/false 
+- [ ] Change Self Password (POST /api/user/update-password)
+	- [ ] Add old_password on the body validation
 - [ ] New API Fetch Merchandise Option No Pagination (GET /api/merchandise?all=)
 - [ ] Remove the url from the response of /api/send-forgot-password (for security purpose)
 ###### Minor Backend Bug
