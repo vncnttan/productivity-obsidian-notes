@@ -62,6 +62,9 @@ Blocker Backend:
 - [ ] Quiz change status → Active / Inactive (need Backend Support)
 - [ ] Training Video & PDF change status
 
+##### Minor UI Bug
+- [ ] Edit License Ngawur Initial Datanya
+
 ### Minor Backend:
 ###### API Tertinggal
 - [ ] Import Export API 
