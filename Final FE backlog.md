@@ -70,9 +70,12 @@ Blocker Backend:
 - [ ] Import Export API 
 	- [ ] Export Sales Person by Merchant (see on merchant detail page)
 	- [ ] Export Sales Person List (di /sales-person/export not found)
-	- [ ] Export Salse Transaction by Sales Person (see on sales person detail)
+	- [ ] Export Sales Transaction by Sales Person (see on sales person detail)
 - [ ] Sumary API Tertinggal
 	- [ ] Summary Sales by Merchant (see on merchant detail page)
+- [ ] Download Template Tertinggal
+	- [ ] Download Template License
+	- [ ] Download Template Product Group
 ###### Minor Backend Feature / Tertinggal
 - [ ] Login Endpoint (POST /api/login)
 	- [ ] Remember me: true/false 
