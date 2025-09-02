@@ -39,21 +39,24 @@ Progress (28/08 - 31/08)
 
 
 Blocker Backend:
+- [ ] Quiz
+	- [ ] Quiz List (GET /quiz)
+		- [ ] Bug 500 Internal Server Error: "Undefined variable $request", 
+	- [ ] Add Question Streamlining (Need changes overall for the request API backend flow) → ini yang Edit Question udah aman, sisa dibuat satu lagi untuk yang Add Question, dengan paramsnya sama tanpa question_no
 - [ ] Resend Email API (New API)
 - [ ] Forgot Password (/api/forgot-password)
 	- [ ] Invalid Token 400 Bad Request
-- [ ] Quiz
-	- [ ] Quiz List (GET /quiz)
-		- [ ] For Admin: fetch the status of the quiz (active / inactive)
-		- [ ] For Sales Person: fetch the status of the quiz (not yet / done / completed)
-	- [ ] Edit Question Streamlining (Need changes overall for the request API backend flow)
+
+![[Pasted image 20250902193635.png]]
+
+Unchecked karena API nya meletup
 	- [ ] Quiz Detail (GET /quiz/1)
 		- [ ] Fetch Correct Answer for admin view
 	- [ ] /quiz/1/2 (DELETE Quiz Question)
 		- [ ] New API for deleting specific question from quiz
 
 
-![[Pasted image 20250902193635.png]]
+
 
 
 ### Minor Frontend:
