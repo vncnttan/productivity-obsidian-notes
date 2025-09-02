@@ -76,9 +76,10 @@ Blocker Backend:
 	- [ ] Add old_password on the body validation
 - [ ] New API Fetch Merchandise Option No Pagination (GET /api/merchandise?all=)
 - [ ] Remove the url from the response of /api/send-forgot-password (for security purpose)
-###### Minor Backend Bug
-- [ ] Get Self Detail (/api/user):
-	- [ ] Return Merchant Id if the user is a merchant
+###### Minor Backend Bug / Need
+- [ ] Get Self Detail (GET /api/user):
+	- [ ] Need merchant_id if the user is a merchant
+- [ ] Bug When Updating Password (POST /api/user/update-password): Password dari diri sendiri tidak berubah
 - [ ] Bug when deleting sales person (/api/sales-person/delete/3): 
 	- [ ] Sales Person yang di delete malah sales person yang lain (tidak jelas menggunakan id yang mana)
 	- [ ] Banyak module yang jadi bug ketika sales person yang berhubungan di delete 
