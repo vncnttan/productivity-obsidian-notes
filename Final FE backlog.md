@@ -9,7 +9,7 @@ Progress (28/08 - 31/08)
 - [x] QnA tutorial Page
 - [x] Rich Text di table view
 - [x] Dashboard (Withdraw Section)
-- [ ] Import Export (need backend support)
+- [x] Import Export
 - [ ] Quiz
 	- [x] New UI and backend implementation for:
 		- [x] Create Quiz
@@ -28,21 +28,18 @@ Progress (28/08 - 31/08)
 	- [x] Register Page
 	- [x] Resend Email Page
 		- [x] UI
-		- [x] Wiring (need backend support)
-- [ ] Forgot Password
-	- [x] UI
-	- [ ] Wiring (need backend support)
+		- [x] Wiring
+- [x] Forgot Password
 - [ ] Reset Password (Unauthenticated)
 	- [x] UI
-	- [ ] Wiring (need backend support)
-- [ ] Reject & Approve Withdraw (From Admin View)
-	- [ ] Verify Withdraw & Type Password Dialog
+	- [x] Wiring (bug backend)
 - [x] Change Password in Profile Page
+- [ ] Reject & Approve Withdraw (From Admin View)
+	- [ ] Verify Withdraw & Type Password Dialog (need backend support)
 
 
 Blocker Backend:
 - [ ] Resend Email API (New API)
-- [ ] Import Export API Internal Server Error (Facades Excel not found)
 - [ ] Forgot Password (/api/forgot-password)
 	- [ ] Invalid Token 400 Bad Request
 - [ ] Quiz
@@ -66,7 +63,12 @@ Blocker Backend:
 - [ ] Training Video & PDF change status
 
 ### Minor Backend:
-###### Minor Backend Feature
+###### API Tertinggal
+- [ ] Import Export API 
+	- [ ] Export Sales Person by Merchant (see on merchant detail page)
+- [ ] Sumary API Tertinggal
+	- [ ] Summary Sales by Merchant (see on merchant detail page)
+###### Minor Backend Feature / Tertinggal
 - [ ] Login Endpoint (POST /api/login)
 	- [ ] Remember me: true/false 
 - [ ] Change Self Password (POST /api/user/update-password)
