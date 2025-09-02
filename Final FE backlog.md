@@ -84,6 +84,7 @@ Blocker Backend:
 ###### Minor Backend Bug / Need
 - [ ] Get Self Detail (GET /api/user):
 	- [ ] Need merchant_id if the user is a merchant
+- [ ] Unverified Sales Person masih bisa login
 - [ ] Bug When Updating Password (POST /api/user/update-password): Password dari diri sendiri tidak berubah
 - [ ] Bug when deleting sales person (/api/sales-person/delete/3): 
 	- [ ] Sales Person yang di delete malah sales person yang lain (tidak jelas menggunakan id yang mana)
