@@ -66,6 +66,8 @@ Blocker Backend:
 ###### API Tertinggal
 - [ ] Import Export API 
 	- [ ] Export Sales Person by Merchant (see on merchant detail page)
+	- [ ] Export Sales Person List (di /sales-person/export not found)
+	- [ ] Export Salse Transaction by Sales Person (see on sales person detail)
 - [ ] Sumary API Tertinggal
 	- [ ] Summary Sales by Merchant (see on merchant detail page)
 ###### Minor Backend Feature / Tertinggal
