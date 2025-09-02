@@ -62,6 +62,11 @@ Blocker Backend:
 		- [ ] New API for deleting specific question from quiz
 
 
+
+![[Pasted image 20250902193635.png]]
+- [ ] Forgot Password (api/forgot-password)
+	- [ ] Invalid Token 400 Bad Request
+
 ### Minor Frontend:
 ###### Minor UI Feature:
 - [ ] Chart (define API Support and Safari Library)
