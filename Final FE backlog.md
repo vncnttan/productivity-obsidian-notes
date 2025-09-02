@@ -9,6 +9,7 @@ Progress (28/08 - 31/08)
 - [x] QnA tutorial Page
 - [x] Rich Text di table view
 - [x] Dashboard (Withdraw Section)
+- [ ] Import Export (need backend support)
 - [ ] Quiz
 	- [x] New UI and backend implementation for:
 		- [x] Create Quiz
@@ -28,7 +29,6 @@ Progress (28/08 - 31/08)
 	- [x] Resend Email Page
 		- [x] UI
 		- [x] Wiring (need backend support)
-- [ ] Import Export (need backend support)
 - [ ] Forgot Password
 	- [x] UI
 	- [ ] Wiring (need backend support)
@@ -43,14 +43,8 @@ Progress (28/08 - 31/08)
 Blocker Backend:
 - [ ] Resend Email API (New API)
 - [ ] Import Export API Internal Server Error (Facades Excel not found)
-- [ ] Login Error for Sales Person (User not verified error, even though the sales already approved by superadmin)
-- [ ] Send Email doesn’t work → Waiting for mailgun smtp
-	- [ ] Register
-	- [ ] Send Forgot Password
-- [ ] Send Forgot Password
-	- [ ] For the URL, change it to be:  `http://157.245.192.237:8080/auth/reset-password/tokendisini` → Sementara di staging dulu
 - [ ] Forgot Password (/api/forgot-password)
-	- [ ] Remove email from the body request (tidak didapatkan) → Workaround minta user masukkan emailnya manual
+	- [ ] Invalid Token 400 Bad Request
 - [ ] Quiz
 	- [ ] Quiz List (GET /quiz)
 		- [ ] For Admin: fetch the status of the quiz (active / inactive)
@@ -62,10 +56,8 @@ Blocker Backend:
 		- [ ] New API for deleting specific question from quiz
 
 
-
 ![[Pasted image 20250902193635.png]]
-- [ ] Forgot Password (api/forgot-password)
-	- [ ] Invalid Token 400 Bad Request
+
 
 ### Minor Frontend:
 ###### Minor UI Feature:
