@@ -30,9 +30,9 @@ Progress (28/08 - 31/08)
 		- [x] UI
 		- [x] Wiring
 - [x] Forgot Password
-- [ ] Reset Password (Unauthenticated)
+- [x] Reset Password (Unauthenticated)
 	- [x] UI
-	- [x] Wiring (bug backend)
+	- [ ] Wiring (bug backend)
 - [x] Change Password in Profile Page
 - [ ] Reject & Approve Withdraw (From Admin View)
 	- [ ] Verify Withdraw & Type Password Dialog (need backend support)
@@ -71,8 +71,15 @@ Blocker Backend:
 	- [ ] Export Sales Person by Merchant (see on merchant detail page)
 	- [ ] Export Sales Person List (di /sales-person/export not found)
 	- [ ] Export Sales Transaction by Sales Person (see on sales person detail)
+	- [ ] Export City (see on country detail)
+	- [ ] Export QnA
+	- [ ] Export Quiz
+	- [ ] Export Training Video & PDF
+	- [ ] Export Sales Transaction
+	- [ ] Export Withdraw Request
 - [ ] Sumary API Tertinggal
 	- [ ] Summary Sales by Merchant (see on merchant detail page)
+	- [ ] Summary Transaction by Sales (see on Sales Person detail)
 - [ ] Download Template Tertinggal
 	- [ ] Download Template License
 	- [ ] Download Template Product Group
