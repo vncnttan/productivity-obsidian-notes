@@ -23,11 +23,11 @@ Progress (28/08 - 31/08)
 	- [ ] Timer Mechanism
 	- [ ] Result Mechanism     
 	- [ ] Answer Mechanism
-- [ ] Register
+- [x] Register
 	- [x] Register Page
 	- [x] Resend Email Page
 		- [x] UI
-		- [ ] Wiring (need backend support)
+		- [x] Wiring (need backend support)
 - [ ] Import Export (need backend support)
 - [ ] Forgot Password
 	- [x] UI
