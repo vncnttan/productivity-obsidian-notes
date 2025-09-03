@@ -92,6 +92,7 @@ Unchecked karena API nya meletup
 - [ ] Change Self Password (POST /api/user/update-password)
 	- [ ] Add old_password on the body validation
 - [ ] New API Fetch Merchandise Option No Pagination (GET /api/merchandise?all=)
+- [ ] New API for changing quiz status (active / inactive)
 - [ ] Remove the url from the response of /api/send-forgot-password (for security purpose)
 ###### Minor Backend Bug / Need
 - [ ] Get Self Detail (GET /api/user):
