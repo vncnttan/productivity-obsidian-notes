@@ -44,6 +44,12 @@ Blocker Backend:
 		- [ ] Bug 500 Internal Server Error: "Attempt to read property \"status\" on null”, 
 	- [ ] Add Question Streamlining (Need changes overall for the request API backend flow)
 - [ ] Resend Email API (New API)
+- [ ] Withdraw Request
+	- [ ] Search Merchandise no pagination
+	- [ ] Add Password Validation for Reject and Approve (dari frontend jadi kirim password juga di body request nya)
+![[Pasted image 20250903192517.png]]
+
+
 - [ ] Forgot Password (/api/forgot-password)
 	- [ ] Invalid Token 400 Bad Request
 
