@@ -46,7 +46,7 @@ Blocker Backend:
 - [ ] Resend Email API (New API)
 - [ ] Withdraw Request
 	- [ ] Search Merchandise no pagination
-	- [ ] Add Password Validation for Reject and Approve (dari frontend jadi kirim password juga di body request nya)
+	- [ ] Add Password Validation for Reject and Approve (dari frontend jadi kirim password juga di body request nya)    
 ![[Pasted image 20250903192517.png]]
 
 
