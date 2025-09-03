@@ -41,8 +41,8 @@ Progress (28/08 - 31/08)
 Blocker Backend:
 - [ ] Quiz
 	- [ ] Quiz List (GET /quiz)
-		- [ ] Bug 500 Internal Server Error: "Undefined variable $request", 
-	- [ ] Add Question Streamlining (Need changes overall for the request API backend flow) → ini yang Edit Question udah aman, sisa dibuat satu lagi untuk yang Add Question, dengan paramsnya sama tanpa question_no
+		- [ ] Bug 500 Internal Server Error: "Attempt to read property \"status\" on null”, 
+	- [ ] Add Question Streamlining (Need changes overall for the request API backend flow)
 - [ ] Resend Email API (New API)
 - [ ] Forgot Password (/api/forgot-password)
 	- [ ] Invalid Token 400 Bad Request
@@ -61,9 +61,11 @@ Unchecked karena API nya meletup
 
 ### Minor Frontend:
 ###### Minor UI Feature:
+- [ ] Export Khusus di Admin
 - [ ] Chart (define API Support and Safari Library)
 - [ ] Quiz change status → Active / Inactive (need Backend Support)
 - [ ] Training Video & PDF change status
+- [ ] Export PDF Params Filtered
 
 ##### Minor UI Bug
 - [ ] Edit License Ngawur Initial Datanya
