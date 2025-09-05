@@ -42,11 +42,11 @@ Blocker Backend:
 - [ ] Quiz
 	- [ ] Quiz List (GET /quiz)
 		- [ ] Bug 500 Internal Server Error: "Attempt to read property \"status\" on null”, 
-	- [ ] Add Question Streamlining (Need changes overall for the request API backend flow)
 - [ ] Resend Email API (New API)
 - [ ] Withdraw Request
 	- [ ] Search Merchandise no pagination
 	- [ ] Add Password Validation for Reject and Approve (dari frontend jadi kirim password juga di body request nya)    
+- [ ] Delete Quiz Question APInya apa ya? di postman baru ada Delete Quiz doang (/delete/quiz)
 ![[Pasted image 20250903192517.png]]
 
 
@@ -56,8 +56,6 @@ Blocker Backend:
 ![[Pasted image 20250902193635.png]]
 
 Unchecked karena API nya meletup
-	- [ ] Quiz Detail (GET /quiz/1)
-		- [ ] Fetch Correct Answer for admin view
 	- [ ] /quiz/1/2 (DELETE Quiz Question)
 		- [ ] New API for deleting specific question from quiz
 
