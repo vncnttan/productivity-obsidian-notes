@@ -71,8 +71,8 @@ Unchecked karena API nya meletup
 - [ ] Export PDF Params Filtered
 
 ##### Minor UI Bug
+- [ ] Kadang tidak muncul: untuk password tambahin tombol mata - untuk melihat
 - [ ] Edit License Ngawur Initial Datanya
-
 ### Minor Backend:
 ###### API Tertinggal
 - [ ] Import Export API 
