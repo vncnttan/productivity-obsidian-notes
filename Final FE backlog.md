@@ -65,6 +65,7 @@ Unchecked karena API nya meletup
 ### Minor Frontend:
 ###### Minor UI Feature:
 - [ ] Export Khusus di Admin
+- [ ] Update Frontend 
 - [ ] Chart (define API Support and Safari Library)
 - [ ] Quiz change status → Active / Inactive (need Backend Support)
 - [ ] Training Video & PDF change status
