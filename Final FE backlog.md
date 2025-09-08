@@ -74,8 +74,16 @@ Unchecked karena API nya meletup
 - [ ] Kadang tidak muncul: untuk password tambahin tombol mata - untuk melihat
 - [ ] Edit License Ngawur Initial Datanya
 ### Minor Backend:
+##### Additional Request dari pak Edy
+- [ ] Table Fetch Filter by (cek di Figma)
+	- [ ] Contoh: Training Video & PDF (GET /api/knowledge-base/training-and-pdf)
+		- [ ] Filter By: Access Country 
+		- [ ] Filter By: Status
+	- [ ] Jadi Endpointnya bisa: /api/knowledge-base/training-and-pdf?access_country_id=1&status=1
+	- [ ] Notes: Kalau misalnya select, pastikan ada fetch allnya (berarti untuk access country new endpoint GET /api/knowledge-base/training-and-pdf yang list Access Country Id dan Name nya)
+- [ ] Export by Filter (Export otomatis terfilter sesuai dengan current filter, bisa dibuat /api/knowledge-base/training-and-pdf/export?access_country_id=1&status=1)
 ###### API Tertinggal
-- [ ] Import Export API 
+- [ ] Import Export API  
 	- [ ] Export Sales Person by Merchant (see on merchant detail page)
 	- [ ] Export Sales Person List (di /sales-person/export not found)
 	- [ ] Export Sales Transaction by Sales Person (see on sales person detail)
@@ -88,9 +96,7 @@ Unchecked karena API nya meletup
 - [ ] Sumary API Tertinggal
 	- [ ] Summary Sales by Merchant (see on merchant detail page)
 	- [ ] Summary Transaction by Sales (see on Sales Person detail)
-- [ ] Download Template Tertinggal
-	- [ ] Download Template License
-	- [ ] Download Template Product Group
+
 ###### Minor Backend Feature / Tertinggal
 - [ ] Login Endpoint (POST /api/login)
 	- [ ] Remember me: true/false 
