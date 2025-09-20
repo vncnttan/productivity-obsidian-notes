@@ -10,7 +10,7 @@ Progress (28/08 - 31/08)
 - [x] Rich Text di table view
 - [x] Dashboard (Withdraw Section)
 - [x] Import Export
-- [ ] Quiz
+- [x] Quiz
 	- [x] New UI and backend implementation for:
 		- [x] Create Quiz
 		- [x] List Quiz
@@ -21,9 +21,9 @@ Progress (28/08 - 31/08)
 		- [x] List Question
 		- [x] Edit Question
 		- [x] Delete Question
-	- [ ] Timer Mechanism
-	- [ ] Result Mechanism     
-	- [ ] Answer Mechanism
+	- [x] Timer Mechanism
+	- [x] Result Mechanism     
+	- [x] Answer Mechanism
 - [x] Register
 	- [x] Register Page
 	- [x] Resend Email Page
@@ -38,34 +38,12 @@ Progress (28/08 - 31/08)
 	- [ ] Verify Withdraw & Type Password Dialog (need backend support)
 
 
-Blocker Backend:
-- [ ] Quiz
-	- [ ] Quiz List (GET /quiz)
-		- [ ] Bug 500 Internal Server Error: "Attempt to read property \"status\" on null”, 
-- [ ] Withdraw Request
-	- [ ] Add Password Validation for Reject and Approve (dari frontend jadi kirim password juga di body request nya)    
-- [ ] Delete Quiz Question APInya apa ya? di postman baru ada Delete Quiz doang (/delete/quiz)
-
-![[Pasted image 20250903192517.png]]
-
-
-- [ ] Forgot Password (/api/forgot-password)
-	- [ ] Invalid Token 400 Bad Request
-
-![[Pasted image 20250902193635.png]]
-
-Unchecked karena API nya meletup
-	- [ ] /quiz/1/2 (DELETE Quiz Question)
-		- [ ] New API for deleting specific question from quiz
-
-
 
 
 
 ### Minor Frontend:
 ###### Minor UI Feature:
 - [ ] Export Khusus di Admin
-- [ ] Update Frontend 
 - [ ] Chart (define API Support and Safari Library)
 - [ ] Quiz change status → Active / Inactive (need Backend Support)
 - [ ] Training Video & PDF change status
@@ -74,6 +52,8 @@ Unchecked karena API nya meletup
 ##### Minor UI Bug
 - [ ] Kadang tidak muncul: untuk password tambahin tombol mata - untuk melihat
 - [ ] Edit License Ngawur Initial Datanya
+
+
 ### Minor Backend:
 ##### Additional Request dari pak Edy
 - [ ] Table Fetch Filter by (cek di Figma)
