@@ -44,7 +44,6 @@ Progress (28/08 - 31/08)
 ### Minor Frontend:
 ###### Minor UI Feature:
 - [ ] Export Khusus di Admin
-- [ ] Chart (define API Support and Safari Library)
 - [ ] Quiz change status → Active / Inactive (need Backend Support)
 - [ ] Training Video & PDF change status
 - [ ] Export PDF Params Filtered
