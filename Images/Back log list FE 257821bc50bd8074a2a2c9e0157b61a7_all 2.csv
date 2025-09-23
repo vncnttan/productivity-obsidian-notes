@@ -1,0 +1,24 @@
+﻿Feature,DOD,Desc,Description,Files & media,Screen Shot,Status,"Status "
+"Login page ",,"Tombol login tidak menyala saat copy paste credential , ketika ketik manual aman",,Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-08-22_at_20.22.11.png,,Not started,In progress
+Admin-Dashboard,,Wiring dengan API,,Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-08-24_at_11.46.00.png,,Not started,In progress
+Admin- Admin User Module,,"Detail di gambar
+- Wiring Summary
+- Role masih id yang di tampilkan
+- Photo jadi tidak mandatory
+- Search feature
+- Sort feature",,"Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-08-24_at_11.54.58.png, Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-08-24_at_11.50.28.png",,Not started,In progress
+Admin - Merchant Module,,"Detail di gambar
+- Wiring Summary
+- Search feature
+- Sort feature",,Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-08-24_at_12.02.06.png,,Not started,In progress
+Admin - Sales Person Module,,"Detail di gambar
+- Wiring Summary
+- Search feature
+- Sort feature
+- bug type sales (masih id yg terlihat)
+- photo saat create tidak mandatory
+- add bank account saat pertama create di hilangkan, akan menambahkan ny saat setelah pembuatan",,"Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-08-24_at_12.05.50.png, Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-08-24_at_12.16.14.png",,Not started,In progress
+Auth Role,,Sales Person yang belum terverivikasi tidak bisa login,,,,Not started,In progress
+"All role - (Admin user, merchant, sales person)",,urutan tampilan data Abis email telpon kanan dan semuanya sama [ini yang dimana ya?],,"Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-09-11_at_19.34.10.png, Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-09-11_at_19.35.24.png, Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-09-11_at_19.37.44.png",,Not started,Not started
+Admin- product,,di product belum ad data sales person [ini di page apa ya?],,Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-09-11_at_19.41.31.png,,Not started,Not started
+"Admin - sales person ",,•⁠  ⁠di bagde unverify bisa verify di klik [ini maksudnya di sales person page kah?],,Back%20log%20list%20FE%20257821bc50bd8074a2a2c9e0157b61a7/Screen_Shot_2025-09-11_at_19.43.22.png,,Not started,Not started
