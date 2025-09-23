@@ -26,7 +26,7 @@ Admin bisa melihat menggunakan search box di module Withdraw :
 #### Definition of done
 - API untuk melalukan search di page withdraw bank - API untuk melalukan search di claim merch
 
-# Sort Data - utility (TBD)
+# 🔴 Sort Data - utility (TBD)
 
 # 🟡 Admin - Sales Transaction export
 `Status: Stalled Backend`
