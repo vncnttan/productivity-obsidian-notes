@@ -196,7 +196,7 @@ Bank:
 - [ ] Rich Text ngebug on mobile view
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
-- [ ] Bug fix, something not appearing on system dark theme
+- [ ] Bug fix, something not appearing on system dark themenm
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
 
