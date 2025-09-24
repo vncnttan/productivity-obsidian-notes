@@ -190,8 +190,6 @@ Bank:
 
 - [x] Belum bisa Sort By Server :(
 - [ ] Selectable Table Row
-- [ ] Create Mock data for Sales Person Point History & Withdraw to fix the typing
-- [ ] Accordion Create Quiz kalo pertanyaannya lebih dari batas overflownya dibenerin
 - [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
 - [ ] Rich Text ga muncul pada saat accordion create quiz di close
 - [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
