@@ -166,14 +166,14 @@ Progress (28/08 - 31/08)
 - [x] Man Woman Standardization
 - [x] QnA tutorial Page
 - [x] Rich Text di table view
-- [ ] Forgot Password
-- [ ] Quiz
-	- [ ] Timer Mechanism
-	- [ ] Result Mechanism     
-	- [ ] Answer Mechanism
-- [ ] Reject & Approve Withdraw (From Admin View)
-	- [ ] Verify Withdraw & Type Password Dialog ?
-- [ ] Sales person type di hide ya di tablenya
+- [x] Forgot Password
+- [x] Quiz
+	- [x] Timer Mechanism
+	- [x] Result Mechanism     
+	- [x] Answer Mechanism
+- [x] Reject & Approve Withdraw (From Admin View)
+	- [x] Verify Withdraw & Type Password Dialog ?
+- [x] Sales person type di hide ya di tablenya
 
 Sales Person Type
 - 1: Silver 
@@ -196,7 +196,7 @@ Bank:
 - [ ] Rich Text ngebug on mobile view
 - [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 - [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
-- [ ] Bug fix, something not appearing on system dark themenm
+- [ ] Bug fix, something not appearing on system dark theme
 - [ ] Editing self from the Admin menu doesnt cause refetch for the navbar name
 
 
