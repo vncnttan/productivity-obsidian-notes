@@ -188,7 +188,7 @@ Bank:
 
 
 **TO DO:**
-- [ ] Selectable Table Row
+- [x] Selectable Table Row
 - [ ] Ensure table show the appropriate data according to Figma
 - [ ] Implement Filter (Stalled Backend)
 - [ ] Bug Fix Rich Text:
