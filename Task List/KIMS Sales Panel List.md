@@ -190,16 +190,16 @@ Bank:
 **TO DO:**
 - [x] Selectable Table Row
 - [ ] Ensure table show the appropriate data according to Figma
+- [ ] Bug Fix Sidebar:
+	- [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
+	- [ ] Bug fix, something not appearing on system dark theme
 - [ ] Implement Filter (Stalled Backend)
+- [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
 - [ ] Bug Fix Rich Text:
 	- [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
 	- [ ] Rich Text ga muncul pada saat accordion create quiz di close
 	- [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
 	- [ ] Rich Text ngebug on mobile view
-- [ ] Bug Fix Sidebar:
-	- [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
-	- [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
-	- [ ] Bug fix, something not appearing on system dark theme
 
 
 - [ ] Clean D:
