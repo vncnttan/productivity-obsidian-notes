@@ -189,7 +189,7 @@ Bank:
 
 **TO DO:**
 - [x] Selectable Table Row
-- [ ] Ensure table show the appropriate data according to Figma
+- [x] Ensure table show the appropriate data according to Figma
 - [ ] Bug Fix Sidebar:
 	- [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 	- [ ] Bug fix, something not appearing on system dark theme
