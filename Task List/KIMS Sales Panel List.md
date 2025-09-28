@@ -160,8 +160,6 @@ Progress (22/08 - 27/08)
 - [x] Login Override Clear form
 - [x] Summary
 
-
-
 Progress (28/08 - 31/08)
 - [x] Man Woman Standardization
 - [x] QnA tutorial Page
@@ -175,24 +173,12 @@ Progress (28/08 - 31/08)
 	- [x] Verify Withdraw & Type Password Dialog ?
 - [x] Sales person type di hide ya di tablenya
 
-Sales Person Type
-- 1: Silver 
-- 2: Gold
-
-Bank: 
-0 Unpaid  1 Paid 2 Reject
-0 Pending 1 Approved 2 Unapproved 
-
-- male female 
-
-
-
 **TO DO:**
 - [x] Selectable Table Row
 - [x] Ensure table show the appropriate data according to Figma
-- [ ] Bug Fix Sidebar:
-	- [ ] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
-	- [ ] Bug fix, something not appearing on system dark theme
+- [x] Bug Fix Sidebar:
+	- [x] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
+	- [x] Bug fix, something not appearing on system dark theme
 - [ ] Implement Filter (Stalled Backend)
 - [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
 - [ ] Bug Fix Rich Text:
