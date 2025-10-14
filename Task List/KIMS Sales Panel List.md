@@ -187,6 +187,9 @@ Progress (28/08 - 31/08)
 	- [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
 	- [ ] Rich Text ngebug on mobile view
 
+Remove Console Logs
+Setelah login Admin, Login dengan Sales Person menyebabkan:
+index-C_PR1mpz.js:473  Uncaught TypeError: Cannot read properties of undefined (reading 'label')
 
 - [ ] Clean D:
 - [ ] Upload Laporan
