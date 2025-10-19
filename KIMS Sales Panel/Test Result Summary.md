@@ -8,13 +8,13 @@ share_updated: 2025-10-16T21:18:42+07:00
 ##### Frontend 
 1. Country, City, and Merchant Empty not validated yet ✅
 2. Gender Validation Error Message ✅
-3. Register with used email error message appears, but user redirected 
+3. Register with used email error message appears, but user redirected ✅
 ##### Backend
 1. Forgot Password with unregistered email error message “attempt to reset password at NULL” → seharusnya “email is unregistered”
 
 ## Util Module
 ##### Frontend 
-1. Profile Picture is not submitted yet
+1. Profile Picture is not submitted yet ✅
 
 ## Dashboard Module
 ##### Frontend 
