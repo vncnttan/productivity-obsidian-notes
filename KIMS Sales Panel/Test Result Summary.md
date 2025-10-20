@@ -93,17 +93,17 @@ share_updated: 2025-10-16T21:18:42+07:00
 ## Quiz Module
 ##### Frontend
 1. DELETE method not supported error on Delete Quiz
-2. Edit Quiz is not submitted
-3. Navigate to Edit Page from Quiz Detail Page as Account Manager  ✅
-4. Score Quiz (Sales Person View) → true, seharusnya angka ✅
+2. Navigate to Edit Page from Quiz Detail Page as Account Manager  ✅
+3. Score Quiz (Sales Person View) → true, seharusnya angka ✅
 ##### Backend
-1. Update Quiz Status id: 1, tapi yang statusnya terupdate quiz terakhir, bukan status dengan id tersebut
-2. Update status to “Success” if sales person successfully achieve 100 score.
-3. Validate Quiz Submission for the Sales Person can be taken if the status is not “Success” yet for that Sales Person
-4. Unsynchronized Sales Person points on Get Current User Detail, and Sales Person Specific Summary
-5. If Sales Person did not manage to achieve 100 score, don’t add sales person point
-6. Except admin and account manager, hide inactive training resource
-7. Bug → Score reaches 120
+1. Edit Quiz Endpoint
+2. Update Quiz Status id: 1, tapi yang statusnya terupdate quiz terakhir, bukan status dengan id tersebut
+3. Update status to “Success” if sales person successfully achieve 100 score.
+4. Validate Quiz Submission for the Sales Person can be taken if the status is not “Success” yet for that Sales Person
+5. Unsynchronized Sales Person points on Get Current User Detail, and Sales Person Specific Summary
+6. If Sales Person did not manage to achieve 100 score, don’t add sales person point
+7. Except admin and account manager, hide inactive training resource
+8. Bug → Score reaches 120
 
 ![[Pasted image 20251020223843.png]]
 ##### Implementation Question
