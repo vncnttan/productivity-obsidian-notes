@@ -94,7 +94,7 @@ share_updated: 2025-10-16T21:18:42+07:00
 ##### Frontend
 1. DELETE method not supported error on Delete Quiz
 2. Edit Quiz is not submitted
-3. Navigate to Edit Page from Quiz Detail Page as Account Manager
+3. Navigate to Edit Page from Quiz Detail Page as Account Manager  ✅
 4. Score Quiz (Sales Person View) → true, seharusnya angka ✅
 ##### Backend
 1. Update Quiz Status id: 1, tapi yang statusnya terupdate quiz terakhir, bukan status dengan id tersebut
