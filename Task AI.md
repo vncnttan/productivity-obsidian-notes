@@ -5,14 +5,19 @@ TODO:
     - Harus ada batasan dari banyak token yang di return untuk issue TPM
 - [ ] Human-in-the-loop Langgraph → Create architecture and human-in-the-loop 
 
-
 #### Exploration Result
-###### Langgraph Studio 
+###### Langgraph Studio ✅
 → Integrated with **Langsmith**
 Developer plan (5000 traces / month)
-
-###### AssistantUI
+*Mission*: Use langgraph studio & langsmith for development purposes only (with PM and developer access), the use FastAPI for staging & production
+###### AssistantUI ❌
 → Create UI Playground for the Chatbot (no node visualization included yet)
 Completely free
 
-
+#### TODO:
+- [ ] Implement minimal MCP for new langgraph and langsmith integration to view how the graph visualization works
+- [ ] Setup CI/CD Infrastructure for FastAPI deployment with langsmith dev 
+- [ ] Finalize Tech Stack
+- [ ] Create architecture for UPH
+	- [ ] Collect requirements and resources
+	- [ ] Create architecture proposals
