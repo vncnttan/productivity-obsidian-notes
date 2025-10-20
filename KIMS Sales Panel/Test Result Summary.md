@@ -88,7 +88,7 @@ share_updated: 2025-10-16T21:18:42+07:00
 
 ## QnA & Tutorial Module
 ##### Frontend
-1. Card open state is not isolated for each tab
+1. Card open state is not isolated for each tab ✅
 
 ## Quiz Module
 ##### Frontend
