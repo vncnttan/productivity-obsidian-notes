@@ -9,7 +9,7 @@ TODO:
 ###### Langgraph Studio ✅
 → Integrated with **Langsmith**
 Developer plan (5000 traces / month)
-*Mission*: Use langgraph studio & langsmith for development purposes only (with PM and developer access), the use FastAPI for staging & production
+*Mission*: Use langgraph studio & langsmith for development purposes only (with PM and developer access), the use FastAPI for staging (optional) & production
 ###### AssistantUI ❌
 → Create UI Playground for the Chatbot (no node visualization included yet)
 Completely free
@@ -20,4 +20,4 @@ Completely free
 - [ ] Finalize Tech Stack
 - [ ] Create architecture for UPH
 	- [ ] Collect requirements and resources
-	- [ ] Create architecture proposals
+	- [ ] Create architecture LLM graph flow proposal
