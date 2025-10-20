@@ -95,7 +95,7 @@ share_updated: 2025-10-16T21:18:42+07:00
 1. DELETE method not supported error on Delete Quiz
 2. Edit Quiz is not submitted
 3. Navigate to Edit Page from Quiz Detail Page as Account Manager
-4. Score Quiz (Sales Person View) → true, seharusnya angka
+4. Score Quiz (Sales Person View) → true, seharusnya angka ✅
 ##### Backend
 1. Update Quiz Status id: 1, tapi yang statusnya terupdate quiz terakhir, bukan status dengan id tersebut
 2. Update status to “Success” if sales person successfully achieve 100 score.
@@ -103,6 +103,9 @@ share_updated: 2025-10-16T21:18:42+07:00
 4. Unsynchronized Sales Person points on Get Current User Detail, and Sales Person Specific Summary
 5. If Sales Person did not manage to achieve 100 score, don’t add sales person point
 6. Except admin and account manager, hide inactive training resource
+7. Bug → Score reaches 120
+
+![[Pasted image 20251020223843.png]]
 ##### Implementation Question
 1. Apakah *Add Question* bisa di klik di *Quiz Detail*? (sepertinya seharusnya tidak bisa)
 2. Duration yang dipakai untuk quiz pilihannya ada berapa menit?
