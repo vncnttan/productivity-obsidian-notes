@@ -30,13 +30,19 @@ share_updated: 2025-10-16T21:18:42+07:00
 ##### Frontend
 1. Upload File failed ✅
 2. Search Table Profile Merchant not implemented yet ✅
-3. Wrong sales person get deleted
-4. Sales Person Profile: Customer data should not appear on Sales Transaction table
-5. Sales Person Profile: Sales Transaction Detail Bug
-6. Sales Person Profile Edit: Cannot delete Bank Account
-7. Sales Person Profile Edit: Radio Field for Editing Sales Person
+3. Sales Person Profile: Customer data should not appear on Sales Transaction table
+4. Sales Person Profile: Sales Transaction Detail Bug
+5. Sales Person Profile Edit: Cannot delete Bank Account
+6. Sales Person Profile Edit: Radio Field for Editing Sales Person
 ###### Backend
 1. Bug: Total Point (in Sales Person Profile) for new sales person with 0 transaction suddenly get points
+2. Bug: Sales Person Table (in Merchant Profile): Wrong sales person get deleted
+
+|            DELETE Request            |       GET Request after DELETE       |
+| :----------------------------------: | :----------------------------------: |
+| ![[Pasted image 20251020212448.png]] | ![[Pasted image 20251020212824.png]] |
+
+
 ###### Implementation Question
 1. Apakah merchant bisa edit sales person tersebut melalui profile message?
 2. Country dan City Merchant / Sales Person digunakan saat creation tapi tidak ditampilkan / diedit.
