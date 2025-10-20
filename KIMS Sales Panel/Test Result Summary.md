@@ -110,8 +110,9 @@ share_updated: 2025-10-16T21:18:42+07:00
 ## Training Resource Module
 ##### Frontend
 1. Upload File Failed ✅
-2. Authorization error (Admin should be privileged to Edit, Delete, and View training resource detail)
-3. Link / File Undefined
+2. Authorization error (Admin should be privileged to Edit, Delete, and View training resource detail) ✅
+3. Link / File Undefined ✅
+4. Detail text field for file
 
 ##### Backend
 1. Except admin and account manager, hide inactive training resource
