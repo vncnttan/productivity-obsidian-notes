@@ -13,6 +13,6 @@ Developer plan (5000 traces / month)
 
 ###### AssistantUI
 → Create UI Playground for the Chatbot (no node visualization included yet)
-
+Completely free
 
 
