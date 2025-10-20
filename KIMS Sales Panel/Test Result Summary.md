@@ -19,8 +19,8 @@ share_updated: 2025-10-16T21:18:42+07:00
 ## Dashboard Module
 ##### Frontend 
 1. Unpaid withdraw request (Admin): Minor frontend bug `justify-between` behaviour
-2. Summary is not auto updated on Sales Person transactions
-3. Scan Product (Sales Person): Validation error message does not appear
+2. Summary is not auto updated on Sales Person transactions ✅
+3. Scan Product (Sales Person): Validation error message does not appear ✅
 ##### Backend
 1. Summary for merchant inaccurate
 2. Current statistic graphs show point totals not sales transaction total count
@@ -28,8 +28,8 @@ share_updated: 2025-10-16T21:18:42+07:00
 
 ## Profile Module
 ##### Frontend
-1. Upload File failed
-2. Search Table Profile Merchant not implemented yet
+1. Upload File failed ✅
+2. Search Table Profile Merchant not implemented yet ✅
 3. Wrong sales person get deleted
 4. Sales Person Profile: Customer data should not appear on Sales Transaction table
 5. Sales Person Profile: Sales Transaction Detail Bug
