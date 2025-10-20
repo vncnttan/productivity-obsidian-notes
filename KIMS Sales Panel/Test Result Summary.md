@@ -30,10 +30,10 @@ share_updated: 2025-10-16T21:18:42+07:00
 ##### Frontend
 1. Upload File failed ✅
 2. Search Table Profile Merchant not implemented yet ✅
-3. Sales Person Profile: Customer data should not appear on Sales Transaction table
-4. Sales Person Profile: Sales Transaction Detail Bug
-5. Sales Person Profile Edit: Cannot delete Bank Account
-6. Sales Person Profile Edit: Radio Field for Editing Sales Person
+3. Sales Person Profile: Customer data should not appear on Sales Transaction table ✅
+4. Sales Person Profile: Sales Transaction Detail Bug ✅
+5. Sales Person Profile Edit: Cannot delete Bank Account \[Need backend support\]
+6. Sales Person Profile Edit: Radio Field for Editing Sales Person ✅
 ###### Backend
 1. Bug: Total Point (in Sales Person Profile) for new sales person with 0 transaction suddenly get points
 2. Bug: Sales Person Table (in Merchant Profile): Wrong sales person get deleted
@@ -42,31 +42,33 @@ share_updated: 2025-10-16T21:18:42+07:00
 | :----------------------------------: | :----------------------------------: |
 | ![[Pasted image 20251020212448.png]] | ![[Pasted image 20251020212824.png]] |
 
-
 ###### Implementation Question
 1. Apakah merchant bisa edit sales person tersebut melalui profile message?
 2. Country dan City Merchant / Sales Person digunakan saat creation tapi tidak ditampilkan / diedit.
 
 ## Admin User Module
 ##### Frontend
-1. Upload File failed
+1. Upload File failed ✅
 
 ## Merchant Module
 ##### Frontend
+1. Search Merchant Sales Person not implemented yet ✅
+##### Backend
 1. Search Merchant not implemented yet
-2. Search Merchant Sales Person not implemented yet
-3. Delete Merchant Sales Person: Bug, wrong sales person get deleted
+2. Bug: Sales Person Table (in Merchant Profile): Wrong sales person get deleted (look image above on Profile Module)
 
 ## Sales Person Module
 ##### Frontend
-1. Implement Search table in Withdraw Request Table (per Sales Person)
-2. Sales Transaction Table should not display customer informations
-3. Empty Sales Transaction Detail
-4. Implement Delete Bank Account
-5. Edit Gender using Radio Field
+1. Sales Transaction Table should not display customer informations ✅
+2. Empty Sales Transaction Detail ✅
+3. Implement Delete Bank Account \[Need backend support\]
+4. Edit Gender using Radio Field ✅
 ##### Backend
 1. Add validation for minimal point to be 0 because current implementation point can go negative
 2. Column yang di export di Sales Transaction per Sales Person tidak sesuai dengan UI
+3. Bug on Implement Search table in Withdraw Request Table (per Sales Person)
+###### Implementation Question
+1. Country dan city tidak di show dan di edit untuk masing-masing sales person?
 
 ## Product Module
 ##### Frontend
