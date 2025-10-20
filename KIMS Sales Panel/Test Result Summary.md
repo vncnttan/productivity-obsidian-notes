@@ -72,11 +72,11 @@ share_updated: 2025-10-16T21:18:42+07:00
 
 ## Product Module
 ##### Frontend
-1. Implement Dynamic Field in Edit Product Group Form
+1. Implement Dynamic Field in Edit Product Group Form ✅
 
 ## Location Module
 ##### Frontend
-1. Implement auto update on create county / city
+1. Implement auto update on create county / city ✅
 ##### Backend
 1. Bug Export Country: Error occured
 
@@ -102,14 +102,18 @@ share_updated: 2025-10-16T21:18:42+07:00
 3. Validate Quiz Submission for the Sales Person can be taken if the status is not “Success” yet for that Sales Person
 4. Unsynchronized Sales Person points on Get Current User Detail, and Sales Person Specific Summary
 5. If Sales Person did not manage to achieve 100 score, don’t add sales person point
+6. Except admin and account manager, hide inactive training resource
 ##### Implementation Question
 1. Apakah *Add Question* bisa di klik di *Quiz Detail*? (sepertinya seharusnya tidak bisa)
 2. Duration yang dipakai untuk quiz pilihannya ada berapa menit?
 
 ## Training Resource Module
 ##### Frontend
-1. Upload File Failed
+1. Upload File Failed ✅
 2. Authorization error (Admin should be privileged to Edit, Delete, and View training resource detail)
 3. Link / File Undefined
+
+##### Backend
+1. Except admin and account manager, hide inactive training resource
 ## Company Setting Module
 *All clear*
