@@ -1,6 +1,6 @@
 ---
 share_link: https://share.note.sx/0op2uxm2#A6j+hLB14s2JVwh5Ib2KcSV2NknKWoF+zGTlm2OSI10
-share_updated: 2025-10-16T21:18:42+07:00
+share_updated: 2025-10-20T23:27:16+07:00
 ---
 `Test Completed: 15 Oct 2025`
 
@@ -11,6 +11,9 @@ share_updated: 2025-10-16T21:18:42+07:00
 3. Register with used email error message appears, but user redirected ✅
 ##### Backend
 1. Forgot Password with unregistered email error message “attempt to reset password at NULL” → seharusnya “email is unregistered”
+2. Verifikasi email masih mengarahkan ke http://157.245.192.237:3000/
+3. Reset password  email masih mengarahkan ke http://157.245.192.237:3000/
+
 
 ## Util Module
 ##### Frontend 
@@ -21,10 +24,14 @@ share_updated: 2025-10-16T21:18:42+07:00
 1. Unpaid withdraw request (Admin): Minor frontend bug `justify-between` behaviour
 2. Summary is not auto updated on Sales Person transactions ✅
 3. Scan Product (Sales Person): Validation error message does not appear ✅
+4. Total point sales di jadikan dalam bentuk card ke 3 di menu dashboard \[Need backend support\]
+5. Wording untuk Card Dash board Sales Person yang sebelah kiri di ubah menjadi (Scanned Products Code Last Month) ✅
+
 ##### Backend
 1. Summary for merchant inaccurate
 2. Current statistic graphs show point totals not sales transaction total count
 3. On create sales transaction (sales person), point doesn’t get added
+4. Ketika Sales Scan product (di card dashboard masih masuk ke scanned this month & last month),  seharusnya hanya masuk ke this month
 
 ## Profile Module
 ##### Frontend
@@ -36,11 +43,12 @@ share_updated: 2025-10-16T21:18:42+07:00
 6. Sales Person Profile Edit: Radio Field for Editing Sales Person ✅
 ###### Backend
 1. Bug: Total Point (in Sales Person Profile) for new sales person with 0 transaction suddenly get points
-2. Bug: Sales Person Table (in Merchant Profile): Wrong sales person get deleted
+2. Bug: Sales Person Table (in Merchant Profile): Wrong sales person get deleted (menggunakan id dari detail, menggunakan id dari sales_person_id menyebabkan Internal Server Error)
 
-|            DELETE Request            |       GET Request after DELETE       |
-| :----------------------------------: | :----------------------------------: |
-| ![[Pasted image 20251020212448.png]] | ![[Pasted image 20251020212824.png]] |
+|                               DELETE Request                               |       GET Request after DELETE       |
+| :------------------------------------------------------------------------: | :----------------------------------: |
+|                    ![[Pasted image 20251020212448.png]]                    | ![[Pasted image 20251020212824.png]] |
+| **DELETE Request sales_person_id**<br>![[Pasted image 20251020231652.png]] |                                      |
 
 ###### Implementation Question
 1. Apakah merchant bisa edit sales person tersebut melalui profile message?
@@ -54,8 +62,9 @@ share_updated: 2025-10-16T21:18:42+07:00
 ##### Frontend
 1. Search Merchant Sales Person not implemented yet ✅
 ##### Backend
-1. Search Merchant not implemented yet
+1. Search Merchant not implemented yet ( https://api.kharismaworld.club/api/merchant?page=1&merchant=els - Masih mengembalikan semua data )
 2. Bug: Sales Person Table (in Merchant Profile): Wrong sales person get deleted (look image above on Profile Module)
+3. Bug: Total Sales person di module merchant (di masing masing) tidak berkurang, untuk di card paling atas sudah benar
 
 ## Sales Person Module
 ##### Frontend
@@ -66,19 +75,29 @@ share_updated: 2025-10-16T21:18:42+07:00
 ##### Backend
 1. Add validation for minimal point to be 0 because current implementation point can go negative
 2. Column yang di export di Sales Transaction per Sales Person tidak sesuai dengan UI
-3. Bug on Implement Search table in Withdraw Request Table (per Sales Person)
+3. Bug on Implement Search table in Withdraw Request Table (masih belum terfilter)
+4. Sales Person Sales Transaction is not accurate
 ###### Implementation Question
 1. Country dan city tidak di show dan di edit untuk masing-masing sales person?
 
 ## Product Module
 ##### Frontend
 1. Implement Dynamic Field in Edit Product Group Form ✅
+2. Download Template masih mengarah ke http://157.245.192.237:3000/ ✅
+##### Backend
+1. Bug Import Product (https://api.kharismaworld.club/api/product/license/import - "message": "Server Error")
+
 
 ## Location Module
 ##### Frontend
 1. Implement auto update on create county / city ✅
 ##### Backend
 1. Bug Export Country: Error occured
+2. Bug Delete City:
+   ```
+   Error Deleting City: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`kims_sales_panel_backend`.`users`, CONSTRAINT `users_city_id_foreign` FOREIGN KEY (`city_id`) REFERENCES `cities` (`id`)) (Connection: mysql, SQL: delete from `cities` where `id` = 1)
+1400``` 
+3. 
 
 ## Withdraw Request Module
 ##### Backend
@@ -92,7 +111,7 @@ share_updated: 2025-10-16T21:18:42+07:00
 
 ## Quiz Module
 ##### Frontend
-1. DELETE method not supported error on Delete Quiz
+1. DELETE method not supported error on Delete Quiz ✅
 2. Navigate to Edit Page from Quiz Detail Page as Account Manager  ✅
 3. Score Quiz (Sales Person View) → true, seharusnya angka ✅
 ##### Backend
