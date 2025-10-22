@@ -32,6 +32,9 @@ Informasi
 1. Informasi Pendaftaran Mahasiswa Baru
 2. Informasi Umum
 
+Ada bisa action kayak:
+1. Kirim email, dan lain-lain
+
 
 
 
