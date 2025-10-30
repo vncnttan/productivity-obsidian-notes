@@ -180,7 +180,7 @@ Progress (28/08 - 31/08)
 	- [x] Lagi di menu quiz saat sidebarnya di collapse highlightnya berantakan
 	- [x] Bug fix, something not appearing on system dark theme
 - [ ] Implement Filter (Stalled Backend)
-- [ ] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
+- [x] Fix/Refactor: Terlalu banyak fetch saat search di jalankan di select field
 - [ ] Bug Fix Rich Text:
 	- [ ] Rich Text nya ga kepencet kalo di bawahan karena masalah max height, coba cek di create quiz
 	- [ ] Rich Text ga muncul pada saat accordion create quiz di close
