@@ -16,7 +16,7 @@ Completely free
 → Alternative di production / staging
 
 #### TODO:
-- [ ] Implement minimal MCP for new langgraph and langsmith integration to view how the graph visualization works
+- [x] Implement minimal MCP for new langgraph and langsmith integration to view how the graph visualization works
 - [ ] Setup CI/CD Infrastructure for FastAPI deployment with langsmith dev 
 - [ ] Search tracing alternatives (langfuse ?)
 - [ ] Finalize Tech Stack
