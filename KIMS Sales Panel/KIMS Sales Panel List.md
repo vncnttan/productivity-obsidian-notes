@@ -195,3 +195,4 @@ index-C_PR1mpz.js:473  Uncaught TypeError: Cannot read properties of undefined (
 - [ ] Upload Laporan
 - [ ] Final Report
 - [ ] Service Headset sebelum garansi abis <20 Okt
+- [ ] Sharable Obsidian Notes :D
