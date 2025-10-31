@@ -17,8 +17,8 @@ Completely free
 
 #### TODO:
 - [x] Implement minimal MCP for new langgraph and langsmith integration to view how the graph visualization works
+- [x] Setup CI/CD Infrastructure for FastAPI deployment with langserve
 - [ ] Search tracing alternatives (langfuse ?)
-- [ ] Setup CI/CD Infrastructure for FastAPI deployment with langsmith dev 
 - [ ] Finalize Tech Stack
 - [ ] Create architecture for UPH
 	- [ ] Collect requirements and resources
