@@ -18,8 +18,21 @@ Completely free
 #### TODO:
 - [x] Implement minimal MCP for new langgraph and langsmith integration to view how the graph visualization works
 - [x] Setup CI/CD Infrastructure for FastAPI deployment with langserve
+
 - [ ] Search tracing alternatives (langfuse ?)
 - [ ] Finalize Tech Stack
 - [ ] Create architecture for UPH
 	- [ ] Collect requirements and resources
 	- [ ] Create architecture LLM graph flow proposal
+
+
+
+SIMOTANDI Problem:
+→ Imbalance Dataset
+Dataset binary, yang bukan crop itu 90%, sedangkan yang crop 10%
+→ Unprobable Dataset
+Dataran di Indonesia ada yang dataran rendah & tinggi, jadi perlu di explore lagi, Forest dan rumput biasa ga termasuk crop
+
+Tujuan: 
+→ Mengecek segmentasi ada pertambahan / engga dll
+Training pake yang 2020, terus di training pake yang lain.
