@@ -44,9 +44,19 @@ To Do Documentation:
 
 // UPH Chatbot
 
+New Requirements:
+1. 
+2. Chatbot Memory (personalized for each user)
+3. Call to Action (CTA) Sales Automation → ingin AInya soft selling untuk pembelian formulir, jadi engagementnya kuat ke user terkait.
+
+New tools for search:
+1. Collaboration tools untuk config chatbotnya secara langsung, contoh: ketika ada event early bird untuk discount di hari itu jg dll.
+2. Supportive tools untuk menjelaskan ke user
 
 ##### TODO
 - [ ] Integrate Langfuse
+- [ ] Integrate Human-in-the-loop
+- [ ] Integrate Whatsapp
 - [ ] Expose Langgraph Dev
 - [ ] Finalize Tech Stack
 - [ ] Create architecture for UPH
