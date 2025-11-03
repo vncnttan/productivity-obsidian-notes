@@ -53,7 +53,7 @@ New tools for search:
 1. Collaboration tools untuk config chatbotnya secara langsung, contoh: ketika ada event early bird untuk discount di hari itu jg dll.
 2. Supportive tools untuk menjelaskan ke user
 
-##### TODO
+TODO:
 - [ ] Integrate Langfuse
 - [ ] Integrate Human-in-the-loop
 - [ ] Integrate Whatsapp
