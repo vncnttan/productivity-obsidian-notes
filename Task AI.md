@@ -19,7 +19,34 @@ Completely free
 - [x] Implement minimal MCP for new langgraph and langsmith integration to view how the graph visualization works
 - [x] Setup CI/CD Infrastructure for FastAPI deployment with langserve
 
-- [ ] Search tracing alternatives (langfuse ?)
+
+
+**Weekly (03/11)**
+// SIMOTANDI
+Issue: Overfitting (Training Acc 80%)
+Solution to do:
+- Parameter Tuning
+- Augment preprocess data
+
+Multiclass vs Binary → Accuracy yang multiclass lebih tinggi, namun ketika di inference hasilnya ga beda jauh.
+
+→ Cuman ada puluhan point di dataset (kurang bisa untuk mencapai yang bagus)
+→ Bisa dicoba cari dataset
+
+Udah ada progress methodnya → Bisa di update ke user
+
+To Do Documentation:
+- [ ] Progress (method & model yang digunakan) & Obstacles
+	- [ ] Obstacle 1: Minimnya data point dari dataset yang diberikan
+	- [ ] Obstacle 2: Masih low-code → Bisa diberikan tools untuk dashboard / ETL / DWH / Clickhouse / Hex
+- [ ] Tools untuk solusi obstacles yang dimiliki 
+      (contoh: tools untuk data collection untuk menambahkan data point dari dataset, atau dashboard yang diberikan)
+
+// 
+
+##### TODO
+- [ ] Integrate Langfuse
+- [ ] Expose Langgraph Dev
 - [ ] Finalize Tech Stack
 - [ ] Create architecture for UPH
 	- [ ] Collect requirements and resources
