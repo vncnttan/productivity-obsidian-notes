@@ -55,8 +55,8 @@ New tools for search:
 
 TODO:
 - [ ] Integrate Langfuse
-- [ ] Integrate Human-in-the-loop
 - [ ] Integrate Whatsapp
+- [ ] Integrate Human-in-the-loop
 - [ ] Expose Langgraph Dev
 - [ ] Finalize Tech Stack
 - [ ] Create architecture for UPH
