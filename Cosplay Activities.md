@@ -1,6 +1,6 @@
 Prep:
 - [ ] Softlens Hijau
-
+- [ ] Sepatu 
 
 Activities Ideas:
 - [ ] Open Table
@@ -8,5 +8,5 @@ Activities Ideas:
 
 Photo Ideas:
 - [ ] HSR bernusantara → Aventurine & Yanqing makan gado-gado
-- [ ] Lempar Kartu
+- [ ] Lempar Kartu Emas
 - [ ] 
