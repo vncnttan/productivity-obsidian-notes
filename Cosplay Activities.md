@@ -1,6 +1,6 @@
 Prep:
+- [ ] Sepatu Pantofel
 - [ ] Softlens Hijau
-- [ ] Sepatu 
 
 Activities Ideas:
 - [ ] Open Table
