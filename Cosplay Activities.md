@@ -1,9 +1,9 @@
 Preparation:
-- [ ] Sepatu Pantofel
-- [ ] Softlens Hijau
-- [ ] Kartu Judi
+- [ ] Sepatu Pantofel [AVENT]
+- [X] Softlens Hijau
+- [ ] Kartu Judi [AVENT]
 - [ ] Kipas Portable
-- [ ] Briefcase
+- [ ] Briefcase [AVENT]
 
 Activities Ideas:
 - [ ] Open Table
