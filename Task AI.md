@@ -54,7 +54,7 @@ New tools for search:
 2. Supportive tools untuk menjelaskan ke user
 
 TODO:
-- [ ] Integrate Langfuse
+- [x] Integrate Langfuse
 - [ ] Integrate Whatsapp
 - [ ] Integrate Human-in-the-loop
 - [ ] Expose Langgraph Dev
