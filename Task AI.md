@@ -65,6 +65,24 @@ TODO:
 
 
 
+Implementasi sekarang: Intent kepanggil ketika user trigger tentang promo
+
+Implementasi yang ditanyakan: Intent kepanggil ketika AI nya tidak bisa provide tapi masih in context UPH (kalau OOT banget di skip) -> yang spesifik (ya 50% tdk yakin lah dengan jawabannya) -> pernah dicoba ko Luis, tapi gagal karena jadinya makin banyak yang dilempar ke Admin
+
+
+###### Sample
+User: Apakah ada promo yang bisa digunakan untk membantu penyandang cacat?
+AI: "Aku gabisa bantu mengenai hal ini"
+-> Diinformasikan ke tim admin / marketing
+Marketing: Jawab ternyata ada bantuan
+AI: "Nah informasi tambahan, kami ada beberapa bantuan / fasilitas termasuk keringanan biaya dll"
+
+
+Important:
+1. Harus punya list yang bisa di cover dari HITL!
+2. Yang tidak obvious pertanyaan usernya bisa diflag
+
+
 SIMOTANDI Problem:
 → Imbalance Dataset
 Dataset binary, yang bukan crop itu 90%, sedangkan yang crop 10%
