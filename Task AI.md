@@ -93,3 +93,16 @@ Dataran di Indonesia ada yang dataran rendah & tinggi, jadi perlu di explore lag
 Tujuan: 
 → Mengecek segmentasi ada pertambahan / engga dll
 Training pake yang 2020, terus di training pake yang lain.
+
+
+
+#### Requirement AI untuk demo POC ke User
+Kamis, 11 Desember 2025
+- Registrasi (mengikuti step online admission)
+- Brosur
+- Nge-scrap data general information 
+
+Backlog
+- Auth passwordless
+
+
