@@ -98,9 +98,13 @@ Training pake yang 2020, terus di training pake yang lain.
 
 #### Requirement AI untuk demo POC ke User
 Kamis, 11 Desember 2025
-- Registrasi (mengikuti step online admission)
-- Brosur
+- Registrasi (mengikuti step online admission) 
+	- Sempet mulai di dify, belom dilanjut karena mau setup redis → ini stuck di MCP
+	- 
 - Nge-scrap data general information 
+	- Dimasukkin ke Milvus ✅
+- Brosur 
+	- Ditambahkan ke Milvus lagi / langsung pake firecrawl → Dibandingkan dengan knowledge built-in dify (Arya)
 
 Backlog
 - Auth passwordless
