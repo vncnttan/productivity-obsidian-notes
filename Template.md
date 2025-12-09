@@ -12,3 +12,9 @@ Selamat datang di Online Admission UPH, agar pendaftaran anda dapat kami proses 
 4. Nomor Telepon:
 5. 
 ```
+
+
+User Information
+```
+{"language":"","nationality":"","bipa":null,"study_level":"","campus":"","intake":"","college":"","faculty":"","study_program":"","full_name":"","date_of_birth":"","email":"","otp":null,"ypphlippo_employee":null,"phone_number":"","guardian_name":"","guardian_phone_number":"","high_school":"","current_grade":"","terms_conditions":""}
+```
