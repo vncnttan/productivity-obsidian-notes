@@ -1,40 +1,37 @@
-[]()![[StandBySchedule.xlsx]]
-
 ### URGENT + IMPORTANT
-*Do it now*
-- [x] PreThesis BibTex search duplicates
-- [x] PreThesis Labelling Dataset 
-- [x] Tagih Utang
-	- [x] Es krim efran dep
-	- [x] Shopifud Takoyaki Bento dep
-	- [ ] Gua utang sosis ke ko Johe
-	- [x] Sumomatsu Dep utang
-	- [x] Aeon Sheryl Efran Utang
-	- [ ] 
+*Must be done today*
+- [ ] Ticket Fix Excel Rekap Unblokir 
+- [ ] Apply any overtime / reimburse
+- [ ] Upload Laporan to MyDrive
+- [ ] Clean Up Obsidian Mess
+- [ ] Tidy Obsidian
+	- [ ] Fix To Do List [[Portfolio Task]]
+- [ ] Post photo di instastory hehehe
+- [ ] Fix Linkedin
+- [ ] Fix CV
+- [ ] Create Updated Portofolio Figma!
 
-119 + 20 + 10 = 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] AWS Practice
+- [ ] Clean Up Google Drive Mess
+- [ ] Tamat Sekiro
+- [ ] Clean laptop ~~ATAU beli laptop baru!~~
+	- [ ] Backup Important Files
+	- [ ] [[Backup Laptop]]
+	- [ ] Migrate to Linux
 
 ### IMPORTANT, NOT URGENT
-*Decide when to do it*
-- [ ] [[Portfolio Task]]
-- [ ] Clean Up Obsidian Mess
-- [ ] Clean Up Google Drive Mess
+*Decide when to do it* → Must be done in January? Yay
+- [ ] AWS Practice Certification
+- [ ] Rebuild & Update [[Portfolio Task]]
 
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
-- [ ] Rapihin Linkedin
-- [ ] Beresin Obsidian
-- [x] Have the car talk with efran
+- [ ] Photoshoot Wisuda
 
-Libraries:
-- DreamBooth
 
 #### Dumped
-- [ ] Clean C:/ laptop ATAU beli laptop baru!
-	- [ ] Beli Komputer
-	- [ ] [[Backup Laptop]]
-- [ ] Photoshoot
+*Have no time for this hehe*
+- [ ] Beli Komputer
+- [ ] Create 
 - [ ] [[SLCatering task]]
