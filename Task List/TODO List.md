@@ -2,6 +2,7 @@
 *Must be done today*
 - [ ] Ticket Fix Excel Rekap Unblokir 
 - [ ] Apply any overtime / reimburse
+	- [ ] + Overtime hari ini 15.00 - 
 - [ ] Upload Laporan to MyDrive
 - [ ] Clean Up Obsidian Mess
 - [ ] Tidy Obsidian
