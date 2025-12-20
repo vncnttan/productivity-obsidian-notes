@@ -1,9 +1,9 @@
 ### URGENT + IMPORTANT
 *Must be done today*
 - [x] Ticket Fix Excel Rekap Unblokir 
-- [ ] Apply any overtime / reimburse
-	- [ ] + Overtime hari ini 15.00 - 
-- [ ] Upload Laporan to MyDrive
+- [x] Apply any overtime / reimburse
+	- [x] + Overtime hari ini 15.00 - 
+- [x] Upload Laporan to MyDrive
 - [ ] Clean Up Obsidian Mess
 - [ ] Tidy Obsidian
 	- [ ] Fix To Do List [[Portfolio Task]]
@@ -29,6 +29,7 @@
 ### NOT URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] Photoshoot Wisuda
+- [ ] Sharable Obsidian Notes :D
 
 
 #### Dumped
@@ -36,3 +37,4 @@
 - [ ] Beli Komputer
 - [ ] Create 
 - [ ] [[SLCatering task]]
+

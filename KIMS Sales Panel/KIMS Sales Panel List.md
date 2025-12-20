@@ -186,13 +186,10 @@ Progress (28/08 - 31/08)
 	- [ ] Rich Text ga muncul pada saat accordion create quiz di close
 	- [ ] Rich Text ngebug, kayak misalnya nge blok dll ga keliatan
 	- [ ] Rich Text ngebug on mobile view
+- [ ] Redirect on Page Not Found
 
-Remove Console Logs
+- [ ] Remove Console Logs
+
 Setelah login Admin, Login dengan Sales Person menyebabkan:
 index-C_PR1mpz.js:473  Uncaught TypeError: Cannot read properties of undefined (reading 'label')
 
-- [ ] Clean D:
-- [ ] Upload Laporan
-- [ ] Final Report
-- [ ] Service Headset sebelum garansi abis <20 Okt
-- [ ] Sharable Obsidian Notes :D
