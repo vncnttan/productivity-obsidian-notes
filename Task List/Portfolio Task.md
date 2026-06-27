@@ -1,3 +1,6 @@
+- [ ] Update and fix portfolio
+	- [ ] Add tracking for website view count
+	- [ ] Add gallery image 
 - [x] Not Found kalo langsung tembak link
 - [ ] Update Resume
 	- [x] GoTrash

@@ -1,25 +1,22 @@
 ### URGENT + IMPORTANT
 *Must be done today*
-- [x] Tamat Sekiro
-- [ ] Clean Up Google Drive Mess
-- [ ] Clean laptop ~~ATAU beli laptop baru!~~
-	- [ ] Backup Important Files
-	- [ ] [[Backup Laptop]]
-	- [ ] Migrate to Linux
+- [x] Rapihin bookmark
+- [x] Fix Format Tanggal
+- [ ] Financial & Budgeting
+- [ ] Reimburse! & Check yang bulan lalu
+	- [ ] Apply kerja?
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Fix CV
-- [ ] Create Updated Portofolio Figma!
-	- [ ] Fix To Do List [[Portfolio Task]]
-- [ ] Create Readme for KIMS Sales Panel
+- [ ] Clean Up Google Drive Mess
+- [ ] Fix Line Shortcut (Reinstall Line)
 
 ### IMPORTANT, NOT URGENT
-*Decide when to do it* → Must be done in January? Yay
-- [ ] AWS Practice Certification
-- [ ] Rebuild & Update [[Portfolio Task]]
+*Decide when to do it* 
+- [ ] Migrate Credentials to Helium
+- [ ] Rebuild & Update Portfolio task ![[Portfolio Task]]
 
-### NOT URGENT, NOT IMPORTANT
+### NOT  URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] Photoshoot Wisuda
 - [ ] Sharable Obsidian Notes :D
@@ -27,7 +24,4 @@
 
 #### Dumped
 *Have no time for this hehe*
-- [ ] Beli Komputer
-- [ ] Create 
-- [ ] [[SLCatering task]]
-
+- [ ] Beli Private Computer
