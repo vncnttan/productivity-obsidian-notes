@@ -1,19 +1,17 @@
 ### URGENT + IMPORTANT
 *Must be done today*
-- [x] Rapihin bookmark
-- [x] Fix Format Tanggal
+- [ ] Clean Up Google Drive Mess
 - [ ] Financial & Budgeting
-- [ ] Reimburse! & Check yang bulan lalu
-	- [ ] Apply kerja?
+	- [x] Clear Unused Beneficiary
+	- [ ] Print Buku Rekening
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Clean Up Google Drive Mess
-- [ ] Fix Line Shortcut (Reinstall Line)
-
+- [ ] Change Libreoffice 
+- [ ] Clean Up Obisidian Mess
 ### IMPORTANT, NOT URGENT
 *Decide when to do it* 
-- [ ] Migrate Credentials to Helium
+- [x] Migrate Credentials to Helium
 - [ ] Rebuild & Update Portfolio task ![[Portfolio Task]]
 
 ### NOT  URGENT, NOT IMPORTANT

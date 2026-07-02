@@ -9,7 +9,7 @@ Job Hunting Steps:
 1. Wild Boar Apply -> Target until June Ends
 2. Try Contact Previous Colleague / Friends
 	1. Also, tanya ko AO dan ko JT wkkwkwkw
-	2. Tanya ko Luis
+	2. Tanya ko Luis v
 	3. Tanya mas Yudis
 
 
