@@ -9,6 +9,7 @@
 *Delegate or do it after tasks above*
 - [ ] Change Libreoffice 
 - [ ] Clean Up Obisidian Mess
+
 ### IMPORTANT, NOT URGENT
 *Decide when to do it* 
 - [x] Migrate Credentials to Helium
