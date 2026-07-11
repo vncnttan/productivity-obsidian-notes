@@ -1,5 +1,6 @@
 ### URGENT + IMPORTANT
 *Must be done today*
+- [ ] Apply to Jobs
 - [ ] Clean Up Google Drive Mess
 - [ ] Financial & Budgeting
 	- [x] Clear Unused Beneficiary
@@ -7,7 +8,8 @@
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Change Libreoffice 
+- [ ] Change Libreoffice
+- [ ] Kontak ko Tintin dan/atau ko Ando
 - [ ] Clean Up Obisidian Mess
 
 ### IMPORTANT, NOT URGENT
