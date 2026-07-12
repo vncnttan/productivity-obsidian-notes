@@ -1,14 +1,17 @@
 ### URGENT + IMPORTANT
 *Must be done today*
-- [ ] Apply to Jobs
-- [ ] Clean Up Google Drive Mess
-- [ ] Financial & Budgeting
+- [x] Apply to Jobs
+- [x] Clean Up Google Drive Mess
+- [x] Financial & Budgeting
 	- [x] Clear Unused Beneficiary
 	- [ ] Print Buku Rekening
 
 ### URGENT, NOT IMPORTANT
 *Delegate or do it after tasks above*
-- [ ] Change Libreoffice
+- [x] Change Libreoffice
+- [ ] Research Topic Statement
+- [ ] Benerin CV
+- [ ] Clean Up Desktop Mess
 - [ ] Kontak ko Tintin dan/atau ko Ando
 - [ ] Clean Up Obisidian Mess
 
@@ -20,6 +23,7 @@
 ### NOT  URGENT, NOT IMPORTANT
 *Do it later / Dump it*
 - [ ] Photoshoot Wisuda
+- [ ] Learn photography as a hobby to document my life
 - [ ] Sharable Obsidian Notes :D
 
 
