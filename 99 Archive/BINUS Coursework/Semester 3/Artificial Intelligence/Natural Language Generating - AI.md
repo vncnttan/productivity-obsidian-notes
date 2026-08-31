@@ -1,1 +1,0 @@
-How AI generates text to output human text in human languages

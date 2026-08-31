@@ -15,7 +15,7 @@ __ Session - __ SKS
 Connecting simple ping, with same subnet
 
 ### Session 2
-[[IP Model]]
+[[TCP-IP and OSI Layer Model]]
 
 Subnet Mask differentiate which bits are considered for the network IP and which bits are considered for the host IP. 
 

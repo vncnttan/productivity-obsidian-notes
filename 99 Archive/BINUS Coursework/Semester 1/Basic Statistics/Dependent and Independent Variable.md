@@ -1,1 +1,0 @@
-Inpdependent: TIdak bergantung pd varibale lain, bs random.

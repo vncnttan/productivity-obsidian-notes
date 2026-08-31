@@ -1,0 +1,13 @@
+- APP_ENV
+- APP_DEBUG
+- APP_KEY
+- APP_URL
+- DB_CONNECTION
+- DB_HOST
+- DB_DATABASE
+- DB_USERNAME
+- DB_PASSWORD
+
+---
+<!-- source: archived coursework -->
+*Extracted from [[Laravel Core-Training]] — SLC Assistant (archived).*

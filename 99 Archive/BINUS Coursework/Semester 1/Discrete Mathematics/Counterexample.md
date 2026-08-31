@@ -1,1 +1,0 @@
-Statement with the form of [[Quantifiers]] will just need a counter-example to be proven false. This is by searching an x where the statement will be false.

@@ -1,0 +1,36 @@
+Materi:
+- Unnormalized Form (UNF)
+- First Normal Form (1NF)
+- Second Normal Form (2NF)
+- Third Normal Form (3NF)
+- Boyce-Codd Normal Form (BCNF)
+- Fourth Normal Form (4NF)
+- Fifth Normal Form (5NF)
+- Entity Relationship Diagram (ERD)
+- DDL, DML Basic
+	- CREATE
+	- INSERT
+	- UPDATE
+	- DROP
+	- DELETE
+
+Theory:
+- Teori & Jenis Anomaly
+	- Insert Anomaly
+	- Modification Anomaly 
+	- Delete Anomaly
+- Jenis-jenis key:
+	- Primary Key
+	- Foreign Key 
+	- Composite Key
+	- Candidate Key
+- Relationship di ERD
+- Alurnya di rekomendasikan saat pemisahan tabel: 
+	- Buat tabel baru
+	- Define *foreign key* yang ada
+	- Hapus kolom yang tidak diperlukan di tabel lama
+	- *Remove Duplicates*
+
+---
+<!-- source: archived coursework -->
+*Extracted from [[SLC Core-Training]] — SLC Assistant (archived).*

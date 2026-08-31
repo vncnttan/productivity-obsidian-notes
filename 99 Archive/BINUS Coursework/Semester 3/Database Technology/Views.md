@@ -1,1 +1,0 @@
-Storing a definition in a view
