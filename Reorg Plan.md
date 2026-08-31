@@ -39,6 +39,13 @@ Written after a full survey of the vault (2026-08-30). This is the master plan �
 4. **SLC technical training content** (Python, security, React, deep learning under `archive/SLC/Assistant/SLC Post-Training`) — keep as reference material or treat as pure archive?
 5. Any of the 968 images in `Images/` known to be safe to prune (e.g. duplicates, screenshots of no lasting value)? Not required for the reorg, but worth a note if the user wants a lighter pass later.
 
+## Open questions to resolve before executing answers
+1. Pick Option B from the structure choice
+2. This should be archived under personal project folder, since the project is now completed
+3. Yes please extract into topic-based knowledge base, then backlink them to the archived coursework semester is preferable
+4. Keep as reference material please, you are welcome to extract them into existing / new topic-based knowledge notes
+5. Yes, Images should be referenced somewhere in the notes. You can move them into a deleted folder for me to review. I think it has reference somewhere on my notes because before I searched for the whole. 
+
 ## Execution phases (once structure is chosen)
 
 **Phase 0 — Baseline**
