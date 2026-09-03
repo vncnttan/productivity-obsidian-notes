@@ -22,7 +22,7 @@
 - [x] Cost and latency visible 
 - [x] Apply at least one optimization
 - [ ] Report optimization impact
-- [ ] Dockerize
+- [x] Dockerize
 
 ##### Agentic Development
 - [ ] Describe how AI coding agent is used to build
