@@ -9,12 +9,11 @@
 
 ##### Evaluation
 - [x] Build ground truth
-- [ ] Pick metrics that are suitable
-	- [ ] Accuracy
-	- [ ] Average Normalized Levenshtein Similarity (ANLS)
-	- [ ] Hallucination Rate
-	- [ ] Abstention Rate
-- [ ] Make it runnable as scorecard
+- [x] Pick metrics that are suitable
+	- [x] Accuracy
+	- [x] Average Normalized Levenshtein Similarity (ANLS)
+	- [x] Hallucination Rate
+- [x] Make it runnable as scorecard
 - [ ] Compare two versions and catch a regression before it ships
 
 #### Production
